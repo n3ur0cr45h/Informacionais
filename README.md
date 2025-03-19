@@ -46,7 +46,7 @@
 
 | Título                   | Descrição                                                                                                            | URL                                                                                 | 
 | -------------------------| ---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------| 
-| OWASP Code Review Guide  | Práticas de revisão para códigos-fonte, identificando e corrigindo vulnerabilidades de segurança em aplicações.      | https://owasp.org/www-project-code-review-guide/                                    |
+| OWASP Code Review Guide  | Práticas de revisão para códigos-fonte, identificando e corrigindo vulnerabilidades de segurança em aplicações.      | [Link](https://owasp.org/www-project-code-review-guide/)                                    |
 
 </div> 
 </details>
