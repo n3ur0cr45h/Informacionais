@@ -11,9 +11,36 @@
 <div align="Center"> 
 <br>
 
-| Título         | Descrição                   | URL                                                                                 | 
-| ---------------| ----------------------------|-------------------------------------------------------------------------------------| 
-|  |       |                                            |
+| Título | Descrição | URL |  
+| --- | --- | --- |  
+| HashiCorp Vault | Sistema de gerenciamento de segredos para proteger dados sensíveis, como chaves de API e credenciais. | [Link](https://github.com/hashicorp/vault/) |  
+| Duo Labs Secret Bridge | Ferramenta para auxiliar na integração segura de segredos e dados sensíveis entre diferentes serviços. | [Link](https://github.com/duo-labs/secret-bridge/) |  
+| Pastebin Scraper | Ferramenta para buscar dados expostos no Pastebin, identificando segredos e credenciais. | [Link](https://github.com/streaak/pastebin-scraper/) |  
+| TruffleHog | Ferramenta de segurança que pesquisa repositórios Git para segredos expostos como chaves de API e credenciais. | [Link](https://github.com/trufflesecurity/trufflehog) |  
+| Gitleaks | Ferramenta para escanear repositórios Git em busca de segredos expostos e dados sensíveis. | [Link](https://github.com/gitleaks/gitleaks) |  
+| LinEnum | Script para escaneamento e coleta de informações de segurança sobre sistemas Linux. | [Link](https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh) |  
+| LinkFinder | Ferramenta para encontrar links e URLs em arquivos JavaScript. | [Link](https://github.com/GerbenJavado/LinkFinder/) |  
+| Objection | Framework de segurança para manipular e explorar apps móveis, com foco em bypass de segurança. | [Link](https://github.com/sensepost/objection/) |  
+| GTFOBins | Repositório de comandos úteis para explorar sistemas, com foco em bypasses e técnicas de escalonamento de privilégios. | [Link](https://gtfobins.github.io/) |  
+| Mobile Security Framework (MobSF) | Framework para análise de segurança de aplicações móveis, incluindo avaliação de risco e vulnerabilidades. | [Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/) |  
+| GraphQL Playground | Interface de desenvolvimento para testar e explorar APIs GraphQL. | [Link](https://github.com/graphql/graphql-playground/) |  
+| American Fuzzy Lop (AFL) | Ferramenta de fuzzing para detectar falhas de segurança em softwares. | [Link](https://github.com/google/AFL/) |  
+| Wfuzz | Ferramenta de fuzzing para testar aplicações web em busca de vulnerabilidades. | [Link](https://github.com/xmendez/wfuzz/) |  
+| Big List of Naughty Strings | Lista de strings potencialmente perigosas, usadas para testar segurança de aplicações. | [Link](https://github.com/minimaxir/big-list-of-naughty-strings/) |  
+| FuzzDB | Repositório contendo dicionários e payloads para testes de fuzzing, usados em segurança de aplicativos e infraestrutura. | [Link](https://github.com/fuzzdb-project/fuzzdb/) |  
+| Sublist3r | Ferramenta para realizar reconhecimento de subdomínios na web. | [Link](https://github.com/aboul3la/Sublist3r/) |  
+| FFUF | Ferramenta de fuzzing para realizar ataques de força bruta em diretórios e arquivos web. | [Link](https://github.com/ffuf/ffuf) |  
+| Command Injection Payload List | Lista de payloads para ataques de injeção de comandos em sistemas. | [Link](https://github.com/payloadbox/command-injection-payload-list) |  
+| WhatBreach | Ferramenta para verificar vazamentos de dados e credenciais em diferentes fontes. | [Link](https://github.com/Ekultek/WhatBreach) |  
+| LeakLooker | Ferramenta para detectar dados sensíveis e credenciais expostas em repositórios. | [Link](https://github.com/woj-ciech/LeakLooker) |  
+| Buster | Ferramenta para automação de resolução de CAPTCHA, especialmente usada em testes de segurança. | [Link](https://github.com/sham00n/buster) |  
+| Scavenger | Ferramenta de segurança para escanear e identificar informações sensíveis e vulnerabilidades em repositórios. | [Link](https://github.com/rndinfosecguy/Scavenger) |  
+| Pwndb | Banco de dados de credenciais comprometidas, utilizado para verificar vazamentos de dados. | [Link](https://github.com/davidtavarez/pwndb) |  
+| Social Engineer Toolkit | Conjunto de ferramentas para realizar ataques de engenharia social e testes de segurança em organizações. | [Link](https://github.com/trustedsec/social-engineer-toolkit) |  
+| BeEF (Browser Exploitation Framework) | Framework para exploração de navegadores com foco em atacar vulnerabilidades de segurança na web. | [Link](https://github.com/beefproject/beef) |  
+| Sysmon Config | Configurações para monitoramento e coleta de dados do Sysmon para análise de segurança. | [Link](https://github.com/SwiftOnSecurity/sysmon-config) |  
+| SysmonConfig Export | Configuração XML do Sysmon para exportação e análise. | [Link](https://github.com/ion-storm/sysmon-config/blob/develop/sysmonconfig-export.xml) |  
+| qBittorrent Base32 to Base16 Hash Conversion | Guia para converter hashes base32 para base16 no qBittorrent. | [Link](https://github.com/qbittorrent/qBittorrent/wiki/How-to-convert-base32-to-base16-info-hashes) |
 
 </div> 
 </details>
