@@ -44,9 +44,13 @@
 <div align="Center"> 
 <br>
 
-| Título                   | Descrição                                                                                                            | URL                                                                                 | 
-| -------------------------| ---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------| 
-| OWASP Code Review Guide  | Práticas de revisão para códigos-fonte, identificando e corrigindo vulnerabilidades de segurança em aplicações.      | [Link](https://owasp.org/www-project-code-review-guide/)                                    |
+| Título                           | Descrição                                                                                                            | URL                                                                                         | 
+| ----------------------------------| ---------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------| 
+| OWASP Code Review Guide           | Práticas de revisão para códigos-fonte, identificando e corrigindo vulnerabilidades de segurança em aplicações.       | [Link](https://owasp.org/www-project-code-review-guide/)                                      | 
+| OWASP PHP Object Injection        | Explica sobre a vulnerabilidade de Injeção de Objetos PHP e como mitigá-la em aplicações.                            | [Link](https://owasp.org/www-community/vulnerabilities/PHP_Object_Injection)                  | 
+| OWASP Mobile Security Testing Guide | Guia de testes de segurança para aplicações móveis, abordando técnicas e ferramentas para mitigar vulnerabilidades.  | [Link](https://github.com/OWASP/owasp-mastg)                                                  | 
+| OWASP Web Security Testing Guide  | Documento com práticas e testes de segurança para aplicações web, abordando diferentes tipos de ameaças.             | [Link](https://github.com/OWASP/wstg/)                                                       | 
+| Android Manifest Guide            | Guia oficial para trabalhar com o arquivo AndroidManifest.xml, configurando as permissões e componentes da aplicação. | [Link](https://developer.android.com/guide/topics/manifest/manifest-intro)                  | 
 
 </div> 
 </details>
