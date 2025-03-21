@@ -83,3 +83,21 @@
 </details>
 
 ----
+
+<details>
+  <summary><b> Documentações </b></summary>
+<div align="Center"> 
+<br>
+
+| Título                            | Descrição                                  | URL |
+|---------------------------------------|------------------------------------------------|---------|
+| Como o HTTPS Funciona                 | Explica como o HTTPS funciona e a segurança envolvida. | [Link](https://robertheaton.com/2014/03/27/how-does-https-actually-work/) |
+| Comunicação entre PC e Celular        | Guia sobre como usar o Android Debug Bridge (ADB) para comunicação entre PC e celular. | [Link](https://developer.android.com/tools/adb) |
+| Modificar Fontes de Aplicativos       | Como usar o Android Studio para modificar fontes em aplicativos Android. | [Link](https://developer.android.com/studio/) |
+| Engenharia Reversa de APK's           | Ferramenta para engenharia reversa de APK's para análise de segurança. | [Link](https://apktool.org/) |
+| Desenvolvimento de API                | Ferramenta para o design, documentação e testes de APIs. | [Link](https://swagger.io/) |
+| Wfuzz                                | Ferramenta para fuzzing de web applications, muito usada em testes de segurança. | [Link](https://wfuzz.readthedocs.io/en/latest/) |
+
+
+</div> 
+</details>
