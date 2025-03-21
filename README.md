@@ -98,6 +98,7 @@
 | Desenvolvimento de API                | Ferramenta para o design, documentação e testes de APIs. | [Link](https://swagger.io/) |
 | Wfuzz                                | Ferramenta para fuzzing de web applications, muito usada em testes de segurança. | [Link](https://wfuzz.readthedocs.io/en/latest/) |
 
-
 </div> 
 </details>
+
+----
