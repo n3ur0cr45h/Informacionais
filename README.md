@@ -7,6 +7,62 @@
 ----
 
 <details>
+  <summary><b> CheatSheets </b></summary>
+<div align="Center"> 
+<br>
+
+| Título | Descrição | URL |
+|--------|-----------|-----|
+| OWASP Deserialization Cheat Sheet                      | Fornece práticas recomendadas e medidas de segurança para proteger sistemas contra vulnerabilidades de desserialização. | [Link](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html) |
+| OWASP XML External Entity (XXE) Prevention Cheat Sheet | Oferece técnicas e melhores práticas para prevenir vulnerabilidades de XML External Entity (XXE). | [Link](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.md) |
+| PentestMonkey Reverse Shell Cheat Sheet                | Fornece exemplos de como criar shells reversos em diversos sistemas operacionais, usados em testes de penetração. | [Link](https://web.archive.org/web/20200901140719/http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) |
+| PayloadsAllTheThings Command Injection Payload List    | Repositório com payloads para explorar falhas de injeção de comandos.                                             | [Link](https://github.com/payloadbox/command-injection-payload-list) |
+| OWASP Password Storage Cheat Sheet | Diretrizes sobre como armazenar senhas de forma segura, incluindo técnicas de hashing seguro.                                         | [Link](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) |
+| PayloadsAllTheThings Reverse Shell Cheat Sheet          | Fornece um conjunto de exemplos de payloads de reverse shell para testes de penetração.                          | [Link](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md) |
+
+</div> 
+</details>
+
+----
+
+<details>
+  <summary><b> Documentações </b></summary>
+<div align="Center"> 
+<br>
+
+| Título                            | Descrição                                  | URL |
+|---------------------------------------|------------------------------------------------|---------|
+| Como o HTTPS Funciona                 | Explica como o HTTPS funciona e a segurança envolvida. | [Link](https://robertheaton.com/2014/03/27/how-does-https-actually-work/) |
+| Comunicação entre PC e Celular        | Guia sobre como usar o Android Debug Bridge (ADB) para comunicação entre PC e celular. | [Link](https://developer.android.com/tools/adb) |
+| Modificar Fontes de Aplicativos       | Como usar o Android Studio para modificar fontes em aplicativos Android. | [Link](https://developer.android.com/studio/) |
+| Engenharia Reversa de APK's           | Ferramenta para engenharia reversa de APK's para análise de segurança. | [Link](https://apktool.org/) |
+| Desenvolvimento de API                | Ferramenta para o design, documentação e testes de APIs. | [Link](https://swagger.io/) |
+| Wfuzz                                | Ferramenta para fuzzing de web applications, muito usada em testes de segurança. | [Link](https://wfuzz.readthedocs.io/en/latest/) |
+
+</div> 
+</details>
+
+----
+
+<details>
+  <summary><b> Guias </b></summary>
+<div align="Center"> 
+<br>
+
+| Título                           | Descrição                                                                                                            | URL                                                                                         | 
+| ----------------------------------| ---------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------| 
+| OWASP Code Review Guide           | Práticas de revisão para códigos-fonte, identificando e corrigindo vulnerabilidades de segurança em aplicações.       | [Link](https://owasp.org/www-project-code-review-guide/)                                      | 
+| OWASP PHP Object Injection        | Explica sobre a vulnerabilidade de Injeção de Objetos PHP e como mitigá-la em aplicações.                            | [Link](https://owasp.org/www-community/vulnerabilities/PHP_Object_Injection)                  | 
+| OWASP Mobile Security Testing Guide | Guia de testes de segurança para aplicações móveis, abordando técnicas e ferramentas para mitigar vulnerabilidades.  | [Link](https://github.com/OWASP/owasp-mastg)                                                  | 
+| OWASP Web Security Testing Guide  | Documento com práticas e testes de segurança para aplicações web, abordando diferentes tipos de ameaças.             | [Link](https://github.com/OWASP/wstg/)                                                       | 
+| Android Manifest Guide            | Guia oficial para trabalhar com o arquivo AndroidManifest.xml, configurando as permissões e componentes da aplicação. | [Link](https://developer.android.com/guide/topics/manifest/manifest-intro)                  | 
+
+</div> 
+</details>
+
+----
+
+<details>
   <summary><b> Repositórios </b></summary>
 <div align="Center"> 
 <br>
@@ -41,62 +97,6 @@
 | Sysmon Config | Configurações para monitoramento e coleta de dados do Sysmon para análise de segurança. | [Link](https://github.com/SwiftOnSecurity/sysmon-config) |  
 | SysmonConfig Export | Configuração XML do Sysmon para exportação e análise. | [Link](https://github.com/ion-storm/sysmon-config/blob/develop/sysmonconfig-export.xml) |  
 | qBittorrent Base32 to Base16 Hash Conversion | Guia para converter hashes base32 para base16 no qBittorrent. | [Link](https://github.com/qbittorrent/qBittorrent/wiki/How-to-convert-base32-to-base16-info-hashes) |
-
-</div> 
-</details>
-
-----
-
-<details>
-  <summary><b> CheatSheets </b></summary>
-<div align="Center"> 
-<br>
-
-| Título | Descrição | URL |
-|--------|-----------|-----|
-| OWASP Deserialization Cheat Sheet                      | Fornece práticas recomendadas e medidas de segurança para proteger sistemas contra vulnerabilidades de desserialização. | [Link](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html) |
-| OWASP XML External Entity (XXE) Prevention Cheat Sheet | Oferece técnicas e melhores práticas para prevenir vulnerabilidades de XML External Entity (XXE). | [Link](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.md) |
-| PentestMonkey Reverse Shell Cheat Sheet                | Fornece exemplos de como criar shells reversos em diversos sistemas operacionais, usados em testes de penetração. | [Link](https://web.archive.org/web/20200901140719/http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) |
-| PayloadsAllTheThings Command Injection Payload List    | Repositório com payloads para explorar falhas de injeção de comandos.                                             | [Link](https://github.com/payloadbox/command-injection-payload-list) |
-| OWASP Password Storage Cheat Sheet | Diretrizes sobre como armazenar senhas de forma segura, incluindo técnicas de hashing seguro.                                         | [Link](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) |
-| PayloadsAllTheThings Reverse Shell Cheat Sheet          | Fornece um conjunto de exemplos de payloads de reverse shell para testes de penetração.                          | [Link](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md) |
-
-</div> 
-</details>
-
-----
-
-<details>
-  <summary><b> Guias </b></summary>
-<div align="Center"> 
-<br>
-
-| Título                           | Descrição                                                                                                            | URL                                                                                         | 
-| ----------------------------------| ---------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------| 
-| OWASP Code Review Guide           | Práticas de revisão para códigos-fonte, identificando e corrigindo vulnerabilidades de segurança em aplicações.       | [Link](https://owasp.org/www-project-code-review-guide/)                                      | 
-| OWASP PHP Object Injection        | Explica sobre a vulnerabilidade de Injeção de Objetos PHP e como mitigá-la em aplicações.                            | [Link](https://owasp.org/www-community/vulnerabilities/PHP_Object_Injection)                  | 
-| OWASP Mobile Security Testing Guide | Guia de testes de segurança para aplicações móveis, abordando técnicas e ferramentas para mitigar vulnerabilidades.  | [Link](https://github.com/OWASP/owasp-mastg)                                                  | 
-| OWASP Web Security Testing Guide  | Documento com práticas e testes de segurança para aplicações web, abordando diferentes tipos de ameaças.             | [Link](https://github.com/OWASP/wstg/)                                                       | 
-| Android Manifest Guide            | Guia oficial para trabalhar com o arquivo AndroidManifest.xml, configurando as permissões e componentes da aplicação. | [Link](https://developer.android.com/guide/topics/manifest/manifest-intro)                  | 
-
-</div> 
-</details>
-
-----
-
-<details>
-  <summary><b> Documentações </b></summary>
-<div align="Center"> 
-<br>
-
-| Título                            | Descrição                                  | URL |
-|---------------------------------------|------------------------------------------------|---------|
-| Como o HTTPS Funciona                 | Explica como o HTTPS funciona e a segurança envolvida. | [Link](https://robertheaton.com/2014/03/27/how-does-https-actually-work/) |
-| Comunicação entre PC e Celular        | Guia sobre como usar o Android Debug Bridge (ADB) para comunicação entre PC e celular. | [Link](https://developer.android.com/tools/adb) |
-| Modificar Fontes de Aplicativos       | Como usar o Android Studio para modificar fontes em aplicativos Android. | [Link](https://developer.android.com/studio/) |
-| Engenharia Reversa de APK's           | Ferramenta para engenharia reversa de APK's para análise de segurança. | [Link](https://apktool.org/) |
-| Desenvolvimento de API                | Ferramenta para o design, documentação e testes de APIs. | [Link](https://swagger.io/) |
-| Wfuzz                                | Ferramenta para fuzzing de web applications, muito usada em testes de segurança. | [Link](https://wfuzz.readthedocs.io/en/latest/) |
 
 </div> 
 </details>
