@@ -1,0 +1,1276 @@
+1. srecon14 - Keys to SRE - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre
+2. srecon14 - Design Review Best Practices - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/tbd
+3. srecon14 - Proactive Monitoring @Twitter - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/schonbach
+4. srecon14 - Releasing at Scale - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/releasing-scale
+5. srecon14 - Grilled Cheese at Scale: A Recipe for Stability Practices - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/villani
+6. srecon14 - Cascading Failures - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/ulrich
+7. srecon14 - Disaster Preparedness - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/disaster-preparedness
+8. srecon14 - Monitoring at “Systems” - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/smith
+9. srecon14 - Mobile Reliability - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/barshow
+10. srecon14 - Load Shedding - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/load-shedding
+11. srecon14 - Finding and Resolving Problems at Scale - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/maurer
+12. srecon14 - SRE in the Cloud - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/adams
+13. srecon15 - Notes from Production Engineering - https://www.usenix.org/conference/srecon15/program/presentation/canahuati
+14. srecon15 - Monitoring without Infrastructure @ Airbnb - https://www.usenix.org/conference/srecon15/program/presentation/serebryany
+15. srecon15 - Smart Monitor System For Automatic Anomaly Detection @Baidu - https://www.usenix.org/conference/srecon15/program/presentation/qu
+16. srecon15 - Case Study: Adopting SRE Principles at StackOverflow - https://www.usenix.org/conference/srecon15/program/presentation/limoncelli
+17. srecon15 - SRE Hiring - https://www.usenix.org/conference/srecon15/program/presentation/fong
+18. srecon15 - Scaling Networks through Software - https://www.usenix.org/conference/srecon15/program/presentation/taveira
+19. srecon15 - Ensuring Success During Disaster - https://www.usenix.org/conference/srecon15/program/presentation/barth
+20. srecon15 - Instagration: A Case Study in Cloud Migration at Scale - https://www.usenix.org/conference/srecon15/program/presentation/bray
+21. srecon15 - Netflix RaaS: Reliability as a Service - https://www.usenix.org/conference/srecon15/program/presentation/watson
+22. srecon15 - Making Every SRE Hire Count - https://www.usenix.org/conference/srecon15/program/presentation/stankaitis
+23. srecon15 - Incident Analysis - https://www.usenix.org/conference/srecon15/program/presentation/lueder
+24. srecon15 - Collin and the Slingbot - https://www.usenix.org/conference/srecon15/program/presentation/ruscio
+25. srecon15 - Making the Sum of AWS Networking Greater than Its Parts—Achieving High Availability in VPCs - https://www.usenix.org/conference/srecon15/program/presentation/turkal
+26. srecon15 - Building a Billion User Load Balancer - https://www.usenix.org/conference/srecon15/program/presentation/shuff
+27. srecon15 - Error Budgets and Risks - https://www.usenix.org/conference/srecon15/program/presentation/alvidrez
+28. srecon15 - Mux: How I Stopped Worrying and Learned to Love the Multiplexing - https://www.usenix.org/conference/srecon15/program/presentation/demir
+29. srecon15 - Being Afraid—How Paranoia at Dropbox Protects Your Data - https://www.usenix.org/conference/srecon15/program/presentation/mah
+30. srecon15 - Panel: Fifty Shades of Grey: Different Models for Reliability Work - https://www.usenix.org/conference/srecon15/program/presentation/welden
+31. srecon15 - Learning from Mistakes and Outages at Facebook - https://www.usenix.org/conference/srecon15/program/presentation/nishtala
+32. srecon15 - Panel: The Weeping Angels of Site Reliability - https://www.usenix.org/conference/srecon15/program/presentation/andersen
+33. srecon15 - From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams - https://www.usenix.org/conference/srecon15/program/presentation/widdowson
+34. srecon15 - Panel: Ask Me Anything with the SREcon Chairs and Speakers - https://www.usenix.org/conference/srecon15/program/presentation/panel-tbd
+35. srecon15 - MySQL Automation at Facebook Scale - https://www.usenix.org/conference/srecon15/program/presentation/priymak
+36. srecon15 - Panel: Educating SRE - https://www.usenix.org/conference/srecon15/program/presentation/sebenik
+37. srecon15 - Architecting and Launching the Halo 4 Services - https://www.usenix.org/conference/srecon15/program/presentation/mccaffrey
+38. srecon15europe - PostOps: Recovery from Operations - https://www.usenix.org/conference/srecon15europe/program/presentation/underwood
+39. srecon15europe - Distributed Teams and Successful Remote Engineering - https://www.usenix.org/conference/srecon15europe/program/presentation/vig
+40. srecon15europe - Prometheus: A Next-Generation Monitoring System (Talk) - https://www.usenix.org/conference/srecon15europe/program/presentation/rabenstein
+41. srecon15europe - Load Testing at Yandex - https://www.usenix.org/conference/srecon15europe/program/presentation/lavrenuke
+42. srecon15europe - Making Every SRE Hire Count - https://www.usenix.org/conference/srecon15europe/program/presentation/stankaitis
+43. srecon15europe - Statistics for Engineers - https://www.usenix.org/conference/srecon15europe/program/presentation/hartmann
+44. srecon15europe - Continuous Improvement Using Comprehensive Root Cause Analysis - https://www.usenix.org/conference/srecon15europe/program/presentation/coghlan
+45. srecon15europe - Continuous Pipelines at Google - https://www.usenix.org/conference/srecon15europe/program/presentation/dennison
+46. srecon15europe - Perimeter Management at Spotify - https://www.usenix.org/conference/srecon15europe/program/presentation/lapitsky
+47. srecon15europe - Upgrade Your Database without Losing Your Data, Your Perf, or Your Mind - https://www.usenix.org/conference/srecon15europe/program/presentation/majors
+48. srecon15europe - Building Blocks of MySQL Automation - https://www.usenix.org/conference/srecon15europe/program/presentation/burrett
+49. srecon15europe - Statistics for Engineers - https://www.usenix.org/conference/srecon15europe/program/presentation/hartmann
+50. srecon15europe - Running Open Compute Hardware in Facebook's Data Centers - https://www.usenix.org/conference/srecon15europe/program/presentation/kjellgren
+51. srecon15europe - Disruptive Data Center Networks - https://www.usenix.org/conference/srecon15europe/program/presentation/hoffman
+52. srecon15europe - Hardware Panel - https://www.usenix.org/conference/srecon15europe/program/presentation/hardware-panel
+53. srecon15europe - Distributed Consensus Algorithms for Extreme Reliability - https://www.usenix.org/conference/srecon15europe/program/presentation/nolan
+54. srecon15europe - Machine Learning for Machine Data - https://www.usenix.org/conference/srecon15europe/program/presentation/oliner
+55. srecon15europe - Debugging and Extending Distributed Coordination Systems - https://www.usenix.org/conference/srecon15europe/program/presentation/segales
+56. srecon15europe - Machine Learning for Machine Data - https://www.usenix.org/conference/srecon15europe/program/presentation/oliner
+57. srecon15europe - Operational Software Design - https://www.usenix.org/conference/srecon15europe/program/presentation/schlossnagle
+58. srecon15europe - Dr NMS or: How Facebook Learned to Stop Worrying and Love the Network - https://www.usenix.org/conference/srecon15europe/program/presentation/leitao
+59. srecon15europe - How Container Clusters Like Kubernetes Change Operations - https://www.usenix.org/conference/srecon15europe/program/presentation/burns
+60. srecon15europe - DHCP Infrastructure Evolution at Facebook and the Importance of Designing Stateless Services - https://www.usenix.org/conference/srecon15europe/program/presentation/failla
+61. srecon15europe - Going Off the Rails: Infrastructure Outage Planning - https://www.usenix.org/conference/srecon15europe/program/presentation/provost
+62. srecon15europe - Software Defined Data Center is More Than a Software Defined Network - https://www.usenix.org/conference/srecon15europe/program/presentation/kreissig
+63. srecon15europe - HTTPS and Forward Secrecy at Scale - https://www.usenix.org/conference/srecon15europe/program/presentation/niemira
+64. srecon15europe - SRE UIs—Transcending the CLI - https://www.usenix.org/conference/srecon15europe/program/presentation/avrukin
+65. srecon15europe - Non-Abstract Large Scale Design - https://www.usenix.org/conference/srecon15europe/program/presentation/nolan_nlasd
+66. srecon15europe - Facebook Cache Invalidation Pipeline - https://www.usenix.org/conference/srecon15europe/program/presentation/mihaljevic
+67. srecon15europe - Configuration Pinocchio: The Lies Plainly Seen and the Quest to Be a Real Discipline - https://www.usenix.org/conference/srecon15europe/program/presentation/masellah
+68. srecon15europe - A Scalable and Resilient Microservice Environment with Apache Mesos and Apache Aurora - https://www.usenix.org/conference/srecon15europe/program/presentation/pfeiffer
+69. srecon15europe - Bad Machinery— Managing Interrupts Under Load - https://www.usenix.org/conference/srecon15europe/program/presentation/oconnor
+70. srecon15europe - Heraclitus Wears Prada: DevOps, SRE, and Organisational Activities - https://www.usenix.org/conference/srecon15europe/program/presentation/murphy
+71. srecon15europe - Show Me the Metrics: OpenTSDB and OpenTSP at Betfair - https://www.usenix.org/conference/srecon15europe/program/presentation/brooks
+72. srecon15europe - PostMortem Facilitation: Theory and Practice of "New View" Debriefings - https://www.usenix.org/conference/srecon15europe/program/presentation/allspaw
+73. srecon15europe - Non-Abstract Large Scale Design - https://www.usenix.org/conference/srecon15europe/program/presentation/nolan_nlasd
+74. srecon15europe - Prometheus: A Next-Generation Monitoring System (Workshop) - https://www.usenix.org/conference/srecon15europe/program/presentation/rabenstein-workshop
+75. srecon15europe - Infrastructure Kata and Moving a Large Enterprise to the Cloud - https://www.usenix.org/conference/srecon15europe/program/presentation/mosher
+76. srecon15europe - Signatures, Patterns, and Trends: Timeseries Data Mining at Etsy - https://www.usenix.org/conference/srecon15europe/program/presentation/clegg
+77. srecon15europe - Building A Billion User Load Balancer - https://www.usenix.org/conference/srecon15europe/program/presentation/shuff
+78. srecon15europe - Mapping a Service-oriented Architecture - https://www.usenix.org/conference/srecon15europe/program/presentation/bourgon
+79. srecon15europe - What Our SRE Culture Looks Like Now, and How It Got There - https://www.usenix.org/conference/srecon15europe/program/presentation/mccartney
+80. srecon15europe - Canonical's DevOps Culture - https://www.usenix.org/conference/srecon15europe/program/presentation/haddon
+81. srecon15europe - Short Talks and Late Scheduled Talks - https://www.usenix.org/conference/srecon15europe/program/presentation/short-talks
+82. srecon15europe - PostMortem Facilitation: Theory and Practice of "New View" Debriefings - https://www.usenix.org/conference/srecon15europe/program/presentation/allspaw
+83. srecon15europe - Prometheus: A Next-Generation Monitoring System (Workshop) - https://www.usenix.org/conference/srecon15europe/program/presentation/rabenstein-workshop
+84. srecon15europe - Closing Session - https://www.usenix.org/conference/srecon15europe/program/session/closing-words
+85. srecon15europe - Developments in EU Data Protection Law: DRI, Schrems, and USA v. Microsoft - https://www.usenix.org/conference/srecon15europe/program/presentation/mcgarr
+86. srecon15europe - Closing Words - https://www.usenix.org/conference/srecon15europe/summit-program/presentation/closing-words
+87. srecon16 - Keynote Address - https://www.usenix.org/conference/srecon16/program/session/keynote-address
+88. srecon16 - The Realities of the Job of Delivering Reliability - https://www.usenix.org/conference/srecon16/program/presentation/kroll
+89. srecon16 - Beyond Repair: Proactive Maintenance Work at Scale - https://www.usenix.org/conference/srecon16/program/presentation/komorn
+90. srecon16 - nrrd 911 ic me: The Incident Commander Role - https://www.usenix.org/conference/srecon16/program/presentation/goldfuss
+91. srecon16 - How to Improve a Service by Roasting It - https://www.usenix.org/conference/srecon16/program/presentation/dickson
+92. srecon16 - College Student to SRE: Onboarding Your Entry Level Talent - https://www.usenix.org/conference/srecon16/program/presentation/kehoe
+93. srecon16 - Operations at (Small) Scale - https://www.usenix.org/conference/srecon16/program/presentation/sims
+94. srecon16 - Don't Burn Out the Night - https://www.usenix.org/conference/srecon16/program/presentation/dash
+95. srecon16 - Continuous Deployment to Millions of Users 40 Times a Day - https://www.usenix.org/conference/srecon16/program/presentation/gorven
+96. srecon16 - Service Levels and Error Budgets - https://www.usenix.org/conference/srecon16/program/presentation/jones
+97. srecon16 - Stepping Up to Scale - https://www.usenix.org/conference/srecon16/program/presentation/davis-matt
+98. srecon16 - Operational Buddhism: Building Reliable Services from Unreliable Components - https://www.usenix.org/conference/srecon16/program/presentation/souhrada
+99. srecon16 - Finding the Order in Chaos - https://www.usenix.org/conference/srecon16/program/presentation/lueder
+100. srecon16 - What's NetDevOps? How Do I Start? - https://www.usenix.org/conference/srecon16/program/presentation/carr
+101. srecon16 - Netflix: 190 Countries and 5 CORE SREs - https://www.usenix.org/conference/srecon16/program/presentation/horowitz
+102. srecon16 - From Ops to SRE on a Brazilian Startup - https://www.usenix.org/conference/srecon16/program/presentation/rossato
+103. srecon16 - Shopping Event Reliability - https://www.usenix.org/conference/srecon16/program/presentation/liu
+104. srecon16 - Moving Large Workload from a Public Cloud to an OpenStack Private Cloud: Is It Really Worth It? - https://www.usenix.org/conference/srecon16/program/presentation/brousse
+105. srecon16 - SREs + Software Engineers: Making It Work - https://www.usenix.org/conference/srecon16/program/presentation/schiff
+106. srecon16 - Debugging Distributed Systems - https://www.usenix.org/conference/srecon16/program/presentation/nadolny
+107. srecon16 - Doorman: Global Distributed Client Side Rate Limiting - https://www.usenix.org/conference/srecon16/program/presentation/visser
+108. srecon16 - Incident Management and Chatops @ Netflix Feat Scorebot - https://www.usenix.org/conference/srecon16/program/presentation/tobey
+109. srecon16 - Using Salt to Make Infrastructure Consumable (Tasty, Even) - https://www.usenix.org/conference/srecon16/program/presentation/turkal
+110. srecon16 - Monitoring the Unmeasureable - https://www.usenix.org/conference/srecon16/program/presentation/davis
+111. srecon16 - Go for SREs Using Python - https://www.usenix.org/conference/srecon16/program/presentation/hamilton
+112. srecon16 - Thursday Closing Address - https://www.usenix.org/conference/srecon16/program/session/1e
+113. srecon16 - A Young Lady's Illustrated Primer to Technical Decision-Making - https://www.usenix.org/conference/srecon16/program/presentation/majors
+114. srecon16 - Keynote Address - https://www.usenix.org/conference/srecon16/program/session/keynote-address-2
+115. srecon16 - Putting Together Great SRE Teams - https://www.usenix.org/conference/srecon16/program/presentation/krishnan
+116. srecon16 - Server Provisioning in an IPv6 Only World - https://www.usenix.org/conference/srecon16/program/presentation/almond
+117. srecon16 - Privacy Reliability Engineering: Looking at Privacy through the Lens of SRE - https://www.usenix.org/conference/srecon16/program/presentation/yust
+118. srecon16 - Building Reliable Social Infrastructure for Google - https://www.usenix.org/conference/srecon16/program/presentation/alvidrez
+119. srecon16 - The Evolution of Global Traffic Routing and Failover - https://www.usenix.org/conference/srecon16/program/presentation/heady
+120. srecon16 - SRE: It’s People All the Way Down - https://www.usenix.org/conference/srecon16/program/presentation/neva
+121. srecon16 - Running Consul at Scale—Journey from RFC to Production - https://www.usenix.org/conference/srecon16/program/presentation/froese
+122. srecon16 - Panel: Who/What Is SRE? - https://www.usenix.org/conference/srecon16/program/presentation/definition-of-sre-panel
+123. srecon16 - Terraform at Adobe - https://www.usenix.org/conference/srecon16/program/presentation/jasperson
+124. srecon16 - Transforming Tier 1 Caterpillars to Butterflies - https://www.usenix.org/conference/srecon16/program/presentation/mushiana
+125. srecon16 - The Art of Performance Monitoring - https://www.usenix.org/conference/srecon16/program/presentation/smith
+126. srecon16 - Avoiding Cascading Failures at eBay? - https://www.usenix.org/conference/srecon16/program/presentation/fender
+127. srecon16 - Managing Grumpy: Embracing Diversity to Build Stronger Teams - https://www.usenix.org/conference/srecon16/program/presentation/phillips
+128. srecon16 - SRE at a Start-Up: Lessons from LinkedIn - https://www.usenix.org/conference/srecon16/program/presentation/sebenik
+129. srecon16 - Less Alarming Alerts! - https://www.usenix.org/conference/srecon16/program/presentation/treat
+130. srecon16 - Ansible to Chef: Going from a Science Fiction Messaging System to Cooking with Chef - https://www.usenix.org/conference/srecon16/program/presentation/ridder
+131. srecon16 - Shaping Reality to Shape Outcomes: Making SRE Work with Uber Growth - https://www.usenix.org/conference/srecon16/program/presentation/croucher
+132. srecon16 - Panel: SRE Managers - https://www.usenix.org/conference/srecon16/program/presentation/sre-managers-panel
+133. srecon16 - Closing Talk - https://www.usenix.org/conference/srecon16/program/session/closing-talk
+134. srecon16 - Performance Checklists for SREs - https://www.usenix.org/conference/srecon16/program/presentation/gregg
+135. srecon16europe - Plenary Session - https://www.usenix.org/conference/srecon16europe/program/session/plenary
+136. srecon16europe - Splicing SRE DNA Sequences in the Biggest Software Company on the Planet - https://www.usenix.org/conference/srecon16europe/program/presentation/splicing-sre-dna-sequences-biggest-software-company
+137. srecon16europe - Doorman: Global Distributed Client Side Rate Limiting - https://www.usenix.org/conference/srecon16europe/program/presentation/visser
+138. srecon16europe - Tracks 1/2 - https://www.usenix.org/conference/srecon16europe/program/session/track-1b-capacity-planning
+139. srecon16europe - Panel: What Is SRE? - https://www.usenix.org/conference/srecon16europe/program/presentation/what-is-sre
+140. srecon16europe - Building and Running SRE Teams - https://www.usenix.org/conference/srecon16europe/program/presentation/andersen
+141. srecon16europe - Data Center Networks: The Rip van Winkle Edition - https://www.usenix.org/conference/srecon16europe/program/presentation/dutt
+142. srecon16europe - Staring into the eBPF Abyss - https://www.usenix.org/conference/srecon16europe/program/presentation/goldshtein-ebpf-abyss
+143. srecon16europe - Flash Sale Engineering - https://www.usenix.org/conference/srecon16europe/program/presentation/stolarsky
+144. srecon16europe - Managing Up and Sideways as an SRE - https://www.usenix.org/conference/srecon16europe/program/presentation/fong-jones-managing
+145. srecon16europe - The Production Engineering Lifecycle: How We Build, Run, and Disband Great Reliability-focused Teams - https://www.usenix.org/conference/srecon16europe/program/presentation/ryan
+146. srecon16europe - How to Improve Your Service by Roasting It - https://www.usenix.org/conference/srecon16europe/program/presentation/welch
+147. srecon16europe - What SRE Means in a Start-up - https://www.usenix.org/conference/srecon16europe/program/presentation/scanlon
+148. srecon16europe - Data Center Networks: The Rip van Winkle Edition - https://www.usenix.org/conference/srecon16europe/program/presentation/dutt
+149. srecon16europe - Staring into the eBPF Abyss - https://www.usenix.org/conference/srecon16europe/program/presentation/goldshtein-ebpf-abyss
+150. srecon16europe - Capacity Planning at Scale - https://www.usenix.org/conference/srecon16europe/program/medrano-llamas
+151. srecon16europe - Load Shedding—Approaches, Principles, Experiences, and Impact in Service Management - https://www.usenix.org/conference/srecon16europe/program/presentation/cruz
+152. srecon16europe - Tier1 Metamorphoses - https://www.usenix.org/conference/srecon16europe/program/presentation/mushiana
+153. srecon16europe - Panel: Brownfield SRE - https://www.usenix.org/conference/srecon16europe/program/presentation/brownfield-sre
+154. srecon16europe - Data Center Networks: The Rip van Winkle Edition - https://www.usenix.org/conference/srecon16europe/program/presentation/dutt
+155. srecon16europe - Staring into the eBPF Abyss - https://www.usenix.org/conference/srecon16europe/program/presentation/goldshtein-ebpf-abyss
+156. srecon16europe - Incident Response @ FB, Facebook's SEV Process - https://www.usenix.org/conference/srecon16europe/program/presentation/eason
+157. srecon16europe - Production Improvement Review: Taking a Bite Out of Repair Debt - https://www.usenix.org/conference/srecon16europe/program/presentation/check
+158. srecon16europe - The Many Ways Your Monitoring Is Lying to You - https://www.usenix.org/conference/srecon16europe/program/presentation/kirsch
+159. srecon16europe - Next-generation Alerting and Fault Detection - https://www.usenix.org/conference/srecon16europe/program/presentation/plaetinck
+160. srecon16europe - Statistics for Engineers - https://www.usenix.org/conference/srecon16europe/program/presentation/hartmann
+161. srecon16europe - Accident Models in Post Mortems - https://www.usenix.org/conference/srecon16europe/program/hoffman-pm
+162. srecon16europe - The Next Linux Superpower: eBPF Primer - https://www.usenix.org/conference/srecon16europe/program/presentation/goldshtein-ebpf-primer
+163. srecon16europe - The Virtuous Cycle: Getting Good Things out of Bad Failures - https://www.usenix.org/conference/srecon16europe/program/presentation/scharmen
+164. srecon16europe - The Structure and Interpretation of Graphs - https://www.usenix.org/conference/srecon16europe/program/presentation/murphy
+165. srecon16europe - Alerting for Distributed Systems—A Tale of Symptoms and Causes, Signals and Noise - https://www.usenix.org/conference/srecon16europe/program/presentation/rabenstein
+166. srecon16europe - Statistics for Engineers - https://www.usenix.org/conference/srecon16europe/program/presentation/hartmann
+167. srecon16europe - Post Mortem Facilitation - https://www.usenix.org/conference/srecon16europe/program/presentation/hoffman-pm-practice
+168. srecon16europe - Challenges of Machine Learning at Scale - https://www.usenix.org/conference/srecon16europe/program/presentation/poulter
+169. srecon16europe - Panel: Oncall - https://www.usenix.org/conference/srecon16europe/program/presentation/oncall
+170. srecon16europe - DivOps, Continuous Diversity at Scale - https://www.usenix.org/conference/srecon16europe/program/presentation/campbell
+171. srecon16europe - Effective Design Review Participation - https://www.usenix.org/conference/srecon16europe/program/presentation/effective-design-review
+172. srecon16europe - Lessons from Automatic Incident Resolution for a Million Databases - https://www.usenix.org/conference/srecon16europe/program/presentation/burek
+173. srecon16europe - Moving a Large Workload from a Public Cloud to an OpenStack Private Cloud: Is It Really Worth It? - https://www.usenix.org/conference/srecon16europe/program/presentation/brousse
+174. srecon16europe - My Scariest Day: When Things Go All Wrong - https://www.usenix.org/conference/srecon16europe/program/presentation/my-scariest-day
+175. srecon16europe - My Service Runs at 99.999%...All Those Tweets about Outages Are Not Real: It's Our Competition Trying to Malign Us! - https://www.usenix.org/conference/srecon16europe/program/presentation/srinivasamurthy
+176. srecon16europe - Availability Objectives of SoundCloud’s Microservices - https://www.usenix.org/conference/srecon16europe/program/presentation/tunca
+177. srecon16europe - Downtime Budgets - https://www.usenix.org/conference/srecon16europe/program/presentation/lueninghoener
+178. srecon16europe - DivOps, Continuous Diversity at Scale - https://www.usenix.org/conference/srecon16europe/program/presentation/campbell
+179. srecon16europe - Practical Incident Response - https://www.usenix.org/conference/srecon16europe/program/presentation/nolan
+180. srecon16europe - Relieving Technical Debt through Short Projects - https://www.usenix.org/conference/srecon16europe/program/presentation/fong-jones-projects
+181. srecon16europe - Running Storage at Facebook - https://www.usenix.org/conference/srecon16europe/program/presentation/piccinini
+182. srecon16europe - Linux Kernel Building, Testing, and Deployment at Facebook - https://www.usenix.org/conference/srecon16europe/program/presentation/brosseau
+183. srecon16europe - Past, Present, and Future of Network Operations - https://www.usenix.org/conference/srecon16europe/program/presentation/barroso
+184. srecon16europe - Bridging Multicast to the Cloud - https://www.usenix.org/conference/srecon16europe/program/presentation/emord
+185. srecon16europe - Full-Mesh IPsec Network: 10 Dos and 500 Don'ts - https://www.usenix.org/conference/srecon16europe/program/presentation/garcia
+186. srecon16europe - Docker from Scratch - https://www.usenix.org/conference/srecon16europe/program/presentation/ish-shalom
+187. srecon16europe - Distributed Log-Processing Design Workshop - https://www.usenix.org/conference/srecon16europe/program/presentation/designing-large-pipeline-systems
+188. srecon16europe - Extreme OS Kernel Testing - https://www.usenix.org/conference/srecon16europe/program/presentation/russell
+189. srecon16europe - DNS: Old Solution for Modern Problems - https://www.usenix.org/conference/srecon16europe/program/presentation/jackson
+190. srecon16europe - Scaling Shopify's Multi-Tenant Architecture across Multiple Datacenters - https://www.usenix.org/conference/srecon16europe/program/presentation/weingarten
+191. srecon16europe - Leading a Team with Values - https://www.usenix.org/conference/srecon16europe/program/presentation/archbold
+192. srecon16europe - Docker from Scratch - https://www.usenix.org/conference/srecon16europe/program/presentation/ish-shalom
+193. srecon16europe - Distributed Log-Processing Design Workshop - https://www.usenix.org/conference/srecon16europe/program/presentation/designing-large-pipeline-systems
+194. srecon16europe - The Knowledge: Towards a Culture of Engineering Documentation - https://www.usenix.org/conference/srecon16europe/program/presentation/macnamara
+195. srecon16europe - Bridging the Safety Gap from Scripts to Full Auto-Remediation - https://www.usenix.org/conference/srecon16europe/program/presentation/mah
+196. srecon16europe - Active Fault Finding in Networks - https://www.usenix.org/conference/srecon16europe/program/presentation/sheehan
+197. srecon16europe - Fixing the Internet for Real-Time Applications (Games) - https://www.usenix.org/conference/srecon16europe/program/presentation/comerford
+198. srecon16europe - Docker from Scratch - https://www.usenix.org/conference/srecon16europe/program/presentation/ish-shalom
+199. srecon16europe - Closing Plenary Session - https://www.usenix.org/conference/srecon16europe/program/session/closing-plenary
+200. srecon16europe - Data Privacy Legislation and the Impact on SRE - https://www.usenix.org/conference/srecon16europe/program/presentation/data-privacy-legislation-and-impact-sre
+201. srecon16europe - Techniques and Tools for a Coherent Discussion about Performance in Complex Architectures - https://www.usenix.org/conference/srecon16europe/program/presentation/schlossnagle
+202. srecon16europe - Government Needs SRE - https://www.usenix.org/conference/srecon16europe/program/presentation/dickerson
+203. srecon17americas - So You Want to Be a Wizard - https://www.usenix.org/conference/srecon17americas/program/presentation/evans
+204. srecon17americas - TrafficShift: Avoiding Disasters at Scale - https://www.usenix.org/conference/srecon17americas/program/presentation/kehoe_trafficshift
+205. srecon17americas - Ten Persistent SRE Antipatterns: Pitfalls on the Road to a Successful SRE Program Like Netflix and Google - https://www.usenix.org/conference/srecon17americas/program/presentation/horowitz
+206. srecon17americas - Keep Calm and Carry On: Scaling Your Org with Microservices - https://www.usenix.org/conference/srecon17americas/program/presentation/majors
+207. srecon17americas - Automated Debugging of Bad Deployments - https://www.usenix.org/conference/srecon17americas/program/presentation/gordon
+208. srecon17americas - Deployment Automation: Releasing Quickly and Reliably - https://www.usenix.org/conference/srecon17americas/program/presentation/yates
+209. srecon17americas - SRE and Presidential Campaigns - https://www.usenix.org/conference/srecon17americas/program/presentation/welch
+210. srecon17americas - The Service Score Card—Gamifying Operational Excellence - https://www.usenix.org/conference/srecon17americas/program/presentation/lawrence
+211. srecon17americas - How Do Your Packets Flow? - https://www.usenix.org/conference/srecon17americas/program/presentation/carr
+212. srecon17americas - Spotify's Love-Hate Relationship with DNS - https://www.usenix.org/conference/srecon17americas/program/presentation/root
+213. srecon17americas - A Million Containers Isn't Cool - https://www.usenix.org/conference/srecon17americas/program/presentation/sinjakli
+214. srecon17americas - Java Hates Linux. Deal with It. - https://www.usenix.org/conference/srecon17americas/program/presentation/banks
+215. srecon17americas - From Combat to Code: How Programming Is Helping Veterans Find Purpose - https://www.usenix.org/conference/srecon17americas/program/presentation/hardaway
+216. srecon17americas - A Practical Guide to Monitoring and Alerting with Time Series at Scale - https://www.usenix.org/conference/srecon17americas/program/presentation/wilkinson
+217. srecon17americas - From Engineering Operations to Site Reliability Engineering - https://www.usenix.org/conference/srecon17americas/program/presentation/mische
+218. srecon17americas - I’m an SRE Lead! Now What? How to Bootstrap and Organize Your SRE Team - https://www.usenix.org/conference/srecon17americas/program/presentation/schacher
+219. srecon17americas - BPerf—Bing.com Cloud Profiling on Production - https://www.usenix.org/conference/srecon17americas/program/presentation/sabharwal
+220. srecon17americas - How Robust Monitoring Powers High Availability for LinkedIn Feed - https://www.usenix.org/conference/srecon17americas/program/presentation/barot
+221. srecon17americas - Tracking Service Infrastructure at Scale - https://www.usenix.org/conference/srecon17americas/program/presentation/arthorne
+222. srecon17americas - I'm Putting Sloths on the Map - https://www.usenix.org/conference/srecon17americas/program/presentation/appan
+223. srecon17americas - Breaking Things on Purpose - https://www.usenix.org/conference/srecon17americas/program/presentation/andrus
+224. srecon17americas - Making the Most of Your SRE Toolbox: Bootstrapping Your SRE Team through Reuse - https://www.usenix.org/conference/srecon17americas/program/presentation/duquette
+225. srecon17americas - Tune Your Way to Savings! - https://www.usenix.org/conference/srecon17americas/program/presentation/strong
+226. srecon17americas - Every Day Is Monday in Operations - https://www.usenix.org/conference/srecon17americas/program/presentation/purgason
+227. srecon17americas - Traps and Cookies - https://www.usenix.org/conference/srecon17americas/program/presentation/reilly
+228. srecon17americas - Observability in the Cambrian Stack Era - https://www.usenix.org/conference/srecon17americas/program/presentation/kromhout
+229. srecon17americas - Reducing MTTR and False Escalations: Event Correlation at LinkedIn - https://www.usenix.org/conference/srecon17americas/program/presentation/kehoe_mttr
+230. srecon17americas - The Road to Chaos - https://www.usenix.org/conference/srecon17americas/program/presentation/jones
+231. srecon17americas - Panel: Training New SREs - https://www.usenix.org/conference/srecon17americas/program/presentation/training-new-sres
+232. srecon17americas - Postmortem Action Items: Plan the Work and Work the Plan - https://www.usenix.org/conference/srecon17americas/program/presentation/lueder
+233. srecon17americas - Building Real Time Infrastructure at Facebook - https://www.usenix.org/conference/srecon17americas/program/presentation/erlich
+234. srecon17americas - Anomaly Detection in Infrequently Occurred Patterns - https://www.usenix.org/conference/srecon17americas/program/wang
+235. srecon17americas - Root Cause, You're Probably Doing It Wrong - https://www.usenix.org/conference/srecon17americas/program/presentation/gibson
+236. srecon17americas - Panel: Training New SREs (continued) - https://www.usenix.org/conference/srecon17americas/program/presentation/training-new-sres-cont
+237. srecon17americas - Feedback Loops: How SREs Benefit and What Is Needed to Realize Their Potential - https://www.usenix.org/conference/srecon17americas/program/presentation/tangi
+238. srecon17americas - DNSControl: A DSL for DNS as Code from StackOverflow.com - https://www.usenix.org/conference/srecon17americas/program/presentation/peterson
+239. srecon17americas - Lyft's Envoy: Experiences Operating a Large Service Mesh - https://www.usenix.org/conference/srecon17americas/program/presentation/klein
+240. srecon17americas - Principles of Chaos Engineering - https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal
+241. srecon17americas - It's the End of the World as We Know It (and I Feel Fine): Engineering for Crisis Response at Scale - https://www.usenix.org/conference/srecon17americas/program/presentation/simons
+242. srecon17americas - Zero Trust Networks: Building Trusted Systems in Untrusted Networks - https://www.usenix.org/conference/srecon17americas/program/presentation/barth
+243. srecon17americas - How to Work with Technical Writers - https://www.usenix.org/conference/srecon17americas/program/presentation/bates
+244. srecon17americas - A Secure Docker Build Pipeline for Microservices - https://www.usenix.org/conference/srecon17americas/program/presentation/jones_mason
+245. srecon17americas - Don't Call Me Remote! Building and Managing Distributed Teams - https://www.usenix.org/conference/srecon17americas/program/presentation/lyon
+246. srecon17americas - Killing Our Darlings: How to Deprecate Systems - https://www.usenix.org/conference/srecon17americas/program/presentation/sluijters
+247. srecon17americas - Engineering Reliable Mobile Applications - https://www.usenix.org/conference/srecon17americas/program/presentation/chen
+248. srecon17americas - SRE Isn't for Everyone, but It Could Be - https://www.usenix.org/conference/srecon17americas/program/presentation/dryden
+249. srecon17americas - Changing Old Habits: Meetup’s Path to SRE - https://www.usenix.org/conference/srecon17americas/program/presentation/hsieh
+250. srecon17americas - Ambry—LinkedIn’s Distributed Immutable Object Store - https://www.usenix.org/conference/srecon17americas/program/presentation/shenoy
+251. srecon17americas - SRE Isn't for Everyone, But It Could Be (continued) - https://www.usenix.org/conference/srecon17americas/program/presentation/dryden-continued
+252. srecon17americas - Reliability When Everything Is a Platform: Why You Need to SRE Your Customers - https://www.usenix.org/conference/srecon17americas/program/presentation/rensin
+253. srecon17asia - LinkedIn SRE: From Inception to Global Scale - https://www.usenix.org/conference/srecon17asia/program/presentation/connelly
+254. srecon17asia - Next Generation of DevOps: AIOps in Practice @Baidu - https://www.usenix.org/conference/srecon17asia/program/presentation/qu
+255. srecon17asia - How Could Small Teams Get Ready for SRE - https://www.usenix.org/conference/srecon17asia/program/presentation/liu
+256. srecon17asia - How We Built TechLadies in Singapore - https://www.usenix.org/conference/srecon17asia/program/presentation/tan
+257. srecon17asia - Focal Impact: The Service Pyramid - https://www.usenix.org/conference/srecon17asia/program/presentation/elkin
+258. srecon17asia - Smart Monitoring System for Anomaly Detection on Business Trends in Alibaba - https://www.usenix.org/conference/srecon17asia/program/presentation/wang
+259. srecon17asia - Graphite@Scale or How to Store Millions of Metrics per Second - https://www.usenix.org/conference/srecon17asia/program/presentation/smirnov
+260. srecon17asia - Data Checking at Dropbox - https://www.usenix.org/conference/srecon17asia/program/presentation/mah
+261. srecon17asia - Managing Server Secrets at Scale with a Vaultless Password Manager - https://www.usenix.org/conference/srecon17asia/program/presentation/korgachin
+262. srecon17asia - Open-Falcon: A Distributed and High-Performance Monitoring System - https://www.usenix.org/conference/srecon17asia/program/presentation/ou
+263. srecon17asia - Talking to an OpenStack Cluster in Plain English - https://www.usenix.org/conference/srecon17asia/program/presentation/xu
+264. srecon17asia - Diistributed Consensus Algorithms - https://www.usenix.org/conference/srecon17asia/program/presentation/nolan
+265. srecon17asia - A Scheduling Framework For Large-Scale Based on Ansible - https://www.usenix.org/conference/srecon17asia/program/presentation/chen
+266. srecon17asia - Draining the Flood—A Combat against Alert Fatigue - https://www.usenix.org/conference/srecon17asia/program/presentation/chen_yu
+267. srecon17asia - Good, Better, Best, Mobile User Experience - https://www.usenix.org/conference/srecon17asia/program/presentation/tingyun
+268. srecon17asia - Reliable Launches at Scale - https://www.usenix.org/conference/srecon17asia/program/presentation/kirsch
+269. srecon17asia - Didi: How to Provide a Reliable Ridesharing Service - https://www.usenix.org/conference/srecon17asia/program/presentation/hua
+270. srecon17asia - Measuring the Success of Incident Management at Atlassian - https://www.usenix.org/conference/srecon17asia/program/presentation/millar
+271. srecon17asia - Managing Changes Seamlessly on Yahoo's Hadoop Infrastructure Servers - https://www.usenix.org/conference/srecon17asia/program/presentation/vadrevu
+272. srecon17asia - Event Correlation: A Fresh Approach towards Reducing MTTR - https://www.usenix.org/conference/srecon17asia/program/presentation/rajan
+273. srecon17asia - Automated Troubleshooting of Live Site Issues - https://www.usenix.org/conference/srecon17asia/program/presentation/srinivasan
+274. srecon17asia - "A Unit Test Would Have Caught This:" Small, Cheap, and Effective Testing for Production Engineers - https://www.usenix.org/conference/srecon17asia/program/presentation/ryan
+275. srecon17asia - Testing for DR Failover Testing - https://www.usenix.org/conference/srecon17asia/program/presentation/liu_zehua
+276. srecon17asia - Accept Partial Failures, Minimize Service Loss - https://www.usenix.org/conference/srecon17asia/program/presentation/wang_daxin
+277. srecon17asia - Azure SREBot: More than a Chatbot—an Intelligent Bot to Crush Mitigation Time - https://www.usenix.org/conference/srecon17asia/program/presentation/guimaraes
+278. srecon17asia - Merou: A Decentralized, Audited Authorization Service - https://www.usenix.org/conference/srecon17asia/program/presentation/faraone
+279. srecon17asia - Canary in the Internet Mine - https://www.usenix.org/conference/srecon17asia/program/presentation/shelley
+280. srecon17asia - InnoDB to MyRocks Migration in Main MySQL Database at Facebook - https://www.usenix.org/conference/srecon17asia/program/presentation/matsunobu
+281. srecon17asia - Golang's Garbage - https://www.usenix.org/conference/srecon17asia/program/presentation/sibiryov
+282. srecon17asia - Capacity Planning and Flow Control - https://www.usenix.org/conference/srecon17asia/program/presentation/zhang
+283. srecon17asia - Managing Capacity @ LinkedIn - https://www.usenix.org/conference/srecon17asia/program/presentation/harkare
+284. srecon17asia - Distributed Scheduler Hell - https://www.usenix.org/conference/srecon17asia/program/presentation/campbell
+285. srecon17asia - SRE Your gRPC—Building Reliable Distributed Systems (Illustrated with gRPC) - https://www.usenix.org/conference/srecon17asia/program/presentation/sheerin
+286. srecon17asia - Operationalizing DevOps Teaching - https://www.usenix.org/conference/srecon17asia/program/presentation/contad
+287. srecon17asia - Scaling Reliability at Dropbox: Our Journey towards a Distributed Ownership Model - https://www.usenix.org/conference/srecon17asia/program/presentation/khalsa
+288. srecon17europe - Care and Feeding of SRE - https://www.usenix.org/conference/srecon17europe/program/presentation/desai
+289. srecon17europe - Diversity and Inclusion in SRE: A Postmortem - https://www.usenix.org/conference/srecon17europe/program/presentation/murphy-postmortem
+290. srecon17europe - Globalizing SRE in a Walkup Culture - https://www.usenix.org/conference/srecon17europe/program/presentation/lincoln
+291. srecon17europe - Make Haste Slowly: Balancing SRE Diligence in Urgency Driven Organizations - https://www.usenix.org/conference/srecon17europe/program/presentation/hiltz-laforge
+292. srecon17europe - Want to Solve Over-Monitoring and Alert Fatigue? Create the Right Incentives! - https://www.usenix.org/conference/srecon17europe/program/presentation/jalleda
+293. srecon17europe - SRE Your gRPC—Building Reliable Distributed Systems (Illustrated with GRPC) - https://www.usenix.org/conference/srecon17europe/program/presentation/sheerin
+294. srecon17europe - Profiling Node Applications - https://www.usenix.org/conference/srecon17europe/program/presentation/goldshtein-profiling
+295. srecon17europe - Load-Shedding: Overview of Different Methodologies - https://www.usenix.org/conference/srecon17europe/program/presentation/cruz
+296. srecon17europe - Managing SSH Access without Managing SSH Keys - https://www.usenix.org/conference/srecon17europe/program/presentation/sheridan
+297. srecon17europe - SRE 101 - https://www.usenix.org/conference/srecon17europe/program/presentation/nolan
+298. srecon17europe - The Dangers of Being Overly-Paranoid - https://www.usenix.org/conference/srecon17europe/program/presentation/epure
+299. srecon17europe - Show Me the RIGHT Numbers! Are Our Users Happy? - https://www.usenix.org/conference/srecon17europe/program/presentation/statham
+300. srecon17europe - Standing On the Shoulders of Giants: Unleashing the Power of Scriptable Load Balancers - https://www.usenix.org/conference/srecon17europe/program/presentation/stolarsky
+301. srecon17europe - InStream: Large Scale Distribution using BitTorrent, Python, Salt, and Kafka - https://www.usenix.org/conference/srecon17europe/program/presentation/sharma
+302. srecon17europe - Networks for SREs: What Do I Need to Know for Troubleshooting Applications - https://www.usenix.org/conference/srecon17europe/program/presentation/kehoe
+303. srecon17europe - Anycast Is Not Load Balancing - https://www.usenix.org/conference/srecon17europe/program/presentation/suriar-anycast
+304. srecon17europe - SRE Your gRPC—Building Reliable Distributed Systems (Workshop) - https://www.usenix.org/conference/srecon17europe/program/presentation/sheerin-workshop
+305. srecon17europe - Mastering Linux Performance Tools - https://www.usenix.org/conference/srecon17europe/program/presentation/goldshtein
+306. srecon17europe - Use Load Testing to Build a Proper Mental Model of Your Service - https://www.usenix.org/conference/srecon17europe/program/presentation/looney-load
+307. srecon17europe - Traffic Steering using Rum DNS @ LinkedIn - https://www.usenix.org/conference/srecon17europe/program/presentation/rastogi
+308. srecon17europe - Capturing and Analyzing Millions of Queries without Any Overhead - https://www.usenix.org/conference/srecon17europe/program/presentation/appigatla
+309. srecon17europe - OK Log: Distributed and Coördination-Free Logging - https://www.usenix.org/conference/srecon17europe/program/presentation/bourgon
+310. srecon17europe - Bots Are Fast, Humans Are Smarter—Eliminate Unwanted Traffic and Defend Against DDoS - https://www.usenix.org/conference/srecon17europe/program/presentation/glaser
+311. srecon17europe - Google SDN Peering: An Early Engagement Case Study - https://www.usenix.org/conference/srecon17europe/program/presentation/suriar-early
+312. srecon17europe - SRE Your gRPC—Building Reliable Distributed Systems (Workshop) - https://www.usenix.org/conference/srecon17europe/program/presentation/sheerin-workshop
+313. srecon17europe - Mastering Linux Performance Tools - https://www.usenix.org/conference/srecon17europe/program/presentation/goldshtein
+314. srecon17europe - How We Try to Make a Lion Bulletproof; Setting Up SRE in a Global Financial Organization - https://www.usenix.org/conference/srecon17europe/program/presentation/brummel
+315. srecon17europe - From Firefighting to Proactive Work: the Journey of a Small Infrastructure Team in a Hyper Growth Environment - https://www.usenix.org/conference/srecon17europe/program/presentation/gerlic
+316. srecon17europe - Incident Command at the Edge - https://www.usenix.org/conference/srecon17europe/program/presentation/phillips
+317. srecon17europe - Resiliency Testing with Toxiproxy - https://www.usenix.org/conference/srecon17europe/program/presentation/pittis
+318. srecon17europe - Deploying Changes to Production in the Age of the Microservice - https://www.usenix.org/conference/srecon17europe/program/presentation/schaevitz
+319. srecon17europe - Application Automation with Habitat - https://www.usenix.org/conference/srecon17europe/program/presentation/walls
+320. srecon17europe - Distributed Systems Reasoning - https://www.usenix.org/conference/srecon17europe/program/presentation/looney
+321. srecon17europe - Tech Writing 101 for SREs - https://www.usenix.org/conference/srecon17europe/program/presentation/carey
+322. srecon17europe - Building a Culture of Reliability - https://www.usenix.org/conference/srecon17europe/program/presentation/chakrabarti
+323. srecon17europe - Tech Leadership in SRE - https://www.usenix.org/conference/srecon17europe/program/presentation/rees
+324. srecon17europe - Case Study: Lessons Learned from Our First Worldwide Outage - https://www.usenix.org/conference/srecon17europe/program/presentation/cohen
+325. srecon17europe - When Trouble Comes to Town - https://www.usenix.org/conference/srecon17europe/program/presentation/gorven
+326. srecon17europe - One Ring to Rule them... - https://www.usenix.org/conference/srecon17europe/program/presentation/tobin
+327. srecon17europe - Dancing with Squads—Do you know what your Code Repos are Telling You? - https://www.usenix.org/conference/srecon17europe/program/presentation/cronin
+328. srecon17europe - Distributed Systems Reasoning - https://www.usenix.org/conference/srecon17europe/program/presentation/looney
+329. srecon17europe - Tech Writing 101 for SREs - https://www.usenix.org/conference/srecon17europe/program/presentation/carey
+330. srecon17europe - Building an SRE Capability Inside a Large Organization - https://www.usenix.org/conference/srecon17europe/program/presentation/gollapalli
+331. srecon17europe - The Why, What, and How of Starting an SRE Engagement - https://www.usenix.org/conference/srecon17europe/program/presentation/clawson
+332. srecon17europe - Startup Systems Εngineer's Instruction Manual - https://www.usenix.org/conference/srecon17europe/program/presentation/mouzeli
+333. srecon17europe - Cognitive Bias and On-Call - https://www.usenix.org/conference/srecon17europe/program/presentation/murphy-bias
+334. srecon17europe - Reducing MTTR and False Escalations: Event Correlation at Linkedin - https://www.usenix.org/conference/srecon17europe/program/presentation/kehoe-0
+335. srecon17europe - The Never-Ending Story of Site Reliability - https://www.usenix.org/conference/srecon17europe/conference-program/presentation/andersen
+336. srecon17europe - SRE 101, Revisited - https://www.usenix.org/conference/srecon17europe/program/presentation/mcnutt
+337. srecon17europe - Automated Debugging of Bad Deployments - https://www.usenix.org/conference/srecon17europe/program/presentation/gordon
+338. srecon17europe - Debugging at Scale—Going from Single Box to Production - https://www.usenix.org/conference/srecon17europe/program/presentation/srinivasamurthy
+339. srecon17europe - Distributed Systems Reasoning - https://www.usenix.org/conference/srecon17europe/program/presentation/looney
+340. srecon17europe - Linux System Metrics - https://www.usenix.org/conference/srecon17europe/program/presentation/cohen-0
+341. srecon17europe - The History of How We Came to Be - https://www.usenix.org/conference/srecon17europe/program/presentation/murphy-history
+342. srecon17europe - Hiring SREs May Be Literally Impossible - https://www.usenix.org/conference/srecon17europe/program/presentation/sinjakli
+343. srecon17europe - Gamifying Reliability Excellence—The Service Score Card - https://www.usenix.org/conference/srecon17europe/program/presentation/lawrence
+344. srecon17europe - Incident Management and Chatops at Shopify - https://www.usenix.org/conference/srecon17europe/program/presentation/niyonkuru
+345. srecon17europe - Fast and Safe Production Monitoring of JVM Applications with BPF Magic - https://www.usenix.org/conference/srecon17europe/program/presentation/goldshtein-bpf
+346. srecon17europe - Distributed Systems Reasoning - https://www.usenix.org/conference/srecon17europe/program/presentation/looney
+347. srecon17europe - Linux System Metrics - https://www.usenix.org/conference/srecon17europe/program/presentation/cohen-0
+348. srecon17europe - Why Work with a Tech Writer? - https://www.usenix.org/conference/srecon17europe/program/presentation/beyer
+349. srecon17europe - Postmortem Action Items: Plan the Work and Work the Plan - https://www.usenix.org/conference/srecon17europe/conference-program/presentation/lunney
+350. srecon17europe - Building an On-Premise Kubernetes Cluster For a Large Web Application - https://www.usenix.org/conference/srecon17europe/program/presentation/turner
+351. srecon17europe - Distributed Systems, Like It or Not - https://www.usenix.org/conference/srecon17europe/program/presentation/schlossnagle-distributed-systems
+352. srecon17europe - Avoiding and Breaking Out of Capacity Prison - https://www.usenix.org/conference/srecon17europe/program/presentation/welch
+353. srecon17europe - The EU's New Data Protection Law - a Survival Guide - https://www.usenix.org/conference/srecon17europe/program/presentation/mcgarr
+354. srecon17europe - Statistics for Engineers - https://www.usenix.org/conference/srecon17europe/program/presentation/hartman
+355. srecon17europe - Service with an Angry Smile: Passive-Aggressive Behavior in SRE - https://www.usenix.org/conference/srecon17europe/program/presentation/apple
+356. srecon17europe - The Cult(Ure) of Strength - https://www.usenix.org/conference/srecon17europe/program/presentation/gorcenski
+357. srecon17europe - Run Less Software; Use Less Bits - https://www.usenix.org/conference/srecon17europe/program/presentation/archbold
+358. srecon17europe - Monitoring Cloudflare's Planet-Scale Edge Network - https://www.usenix.org/conference/srecon17europe/program/presentation/bostock
+359. srecon17europe - The EU's New Data Protection Law - a Survival Guide - https://www.usenix.org/conference/srecon17europe/program/presentation/mcgarr
+360. srecon17europe - Statistics for Engineers - https://www.usenix.org/conference/srecon17europe/program/presentation/hartman
+361. srecon17europe - Monitoring Design Principles - https://www.usenix.org/conference/srecon17europe/program/presentation/schlossnagle-principles
+362. srecon17europe - And the CFO Wept: AWS Cost Control - https://www.usenix.org/conference/srecon17europe/program/presentation/quinn
+363. srecon17europe - CRE: Expanding SRE to inside Your Customer's Organisation - https://www.usenix.org/conference/srecon17europe/program/presentation/thorne
+364. srecon17europe - Panel: AMA for New SREs - https://www.usenix.org/conference/srecon17europe/program/presentation/suriar-panel
+365. srecon17europe - Being an Effective Ally to LGBTQ+, Non-Binary, Women, and Poc in the Tech Industry - https://www.usenix.org/conference/srecon17europe/program/presentation/stankaitis
+366. srecon17europe - Have You Tried Turning It off and Turning It on Again? - https://www.usenix.org/conference/srecon17europe/program/presentation/reilly
+367. srecon17europe - 100 Teams, 100 Ways to Fail - https://www.usenix.org/conference/srecon17europe/program/presentation/keiser
+368. srecon17europe - Persistent SRE Antipatterns: Pitfalls On the Road to Creating a Successful SRE Program Like Netflix and Google - https://www.usenix.org/conference/srecon17europe/program/presentation/horowitz
+369. srecon18americas - Containers from Scratch - https://www.usenix.org/conference/srecon18americas/presentation/ish-shalom
+370. srecon18americas - SRE Classroom, or How to Build a Distributed System in 3 Hours - https://www.usenix.org/conference/srecon18americas/presentation/virji
+371. srecon18americas - Profiling JVM Applications in Production - https://www.usenix.org/conference/srecon18americas/presentation/goldshtein
+372. srecon18americas - Incident Command for IT—What We've Learned from the Fire Department - https://www.usenix.org/conference/srecon18americas/presentation/chapman
+373. srecon18americas - Containers from Scratch - https://www.usenix.org/conference/srecon18americas/presentation/ish-shalom
+374. srecon18americas - SRE Classroom, or How to Build a Distributed System in 3 Hours - https://www.usenix.org/conference/srecon18americas/presentation/virji
+375. srecon18americas - Profiling JVM Applications in Production - https://www.usenix.org/conference/srecon18americas/presentation/goldshtein
+376. srecon18americas - Incident Command for IT—What We've Learned from the Fire Department - https://www.usenix.org/conference/srecon18americas/presentation/chapman
+377. srecon18americas - Kubernetes 101 - https://www.usenix.org/conference/srecon18americas/presentation/kromhout
+378. srecon18americas - Chaos Engineering Bootcamp - https://www.usenix.org/conference/srecon18americas/presentation/butow
+379. srecon18americas - Ansible for SRE Teams - https://www.usenix.org/conference/srecon18americas/presentation/meickle-workshop
+380. srecon18americas - Tech Writing 101 for SREs - https://www.usenix.org/conference/srecon18americas/presentation/carey
+381. srecon18americas - Kubernetes 101 - https://www.usenix.org/conference/srecon18americas/presentation/kromhout
+382. srecon18americas - Chaos Engineering Bootcamp - https://www.usenix.org/conference/srecon18americas/presentation/butow
+383. srecon18americas - Ansible for SRE Teams - https://www.usenix.org/conference/srecon18americas/presentation/meickle-workshop
+384. srecon18americas - Tech Writing 101 for SREs - https://www.usenix.org/conference/srecon18americas/presentation/carey
+385. srecon18americas - If You Don’t Know Where You’re Going, It Doesn’t Matter How Fast You Get There - https://www.usenix.org/conference/srecon18americas/presentation/forsgren
+386. srecon18americas - Security and SRE: Natural Force Multipliers - https://www.usenix.org/conference/srecon18americas/presentation/scott
+387. srecon18americas - What It Really Means to Be an Effective Engineer - https://www.usenix.org/conference/srecon18americas/presentation/lau
+388. srecon18americas - SparkPost: The Day the DNS Died - https://www.usenix.org/conference/srecon18americas/presentation/blosser
+389. srecon18americas - Stable and Accurate Health-Checking of Horizontally-Scaled Services - https://www.usenix.org/conference/srecon18americas/presentation/saino
+390. srecon18americas - Beyond Burnout: Mental Health and Neurodiversity in Engineering - https://www.usenix.org/conference/srecon18americas/presentation/meickle
+391. srecon18americas - Bootstrapping an SRE Team: Effecting Culture Change and Leveraging Diverse Skill Sets - https://www.usenix.org/conference/srecon18americas/presentation/wieczorek
+392. srecon18americas - Don’t Ever Change! Are Immutable Deployments Really Simpler, Faster, and Safer? - https://www.usenix.org/conference/srecon18americas/presentation/hirschfeld
+393. srecon18americas - Lessons Learned from Our Main Database Migrations at Facebook - https://www.usenix.org/conference/srecon18americas/presentation/matsunobu
+394. srecon18americas - Leveraging Multiple Regions to Improve Site Reliability: Lessons Learned from Jet.com - https://www.usenix.org/conference/srecon18americas/presentation/duch
+395. srecon18americas - Building Successful SRE in Large Enterprises—One Year Later - https://www.usenix.org/conference/srecon18americas/presentation/rensin
+396. srecon18americas - Working with Third Parties Shouldn't Suck - https://www.usenix.org/conference/srecon18americas/presentation/mercereau
+397. srecon18americas - When to NOT Set SLOs: Lots of Strangers Are Running My Software! - https://www.usenix.org/conference/srecon18americas/presentation/cosgrove-davies
+398. srecon18americas - Lessons Learned from Five Years of Multi-Cloud at PagerDuty - https://www.usenix.org/conference/srecon18americas/presentation/chakrabarti
+399. srecon18americas - Help Protect Your Data Centers with Safety Constraints - https://www.usenix.org/conference/srecon18americas/presentation/schulman
+400. srecon18americas - Real World SLOs and SLIs: A Deep Dive - https://www.usenix.org/conference/srecon18americas/presentation/flaming
+401. srecon18americas - How SREs Found More than $100 Million Using Failed Customer Interactions - https://www.usenix.org/conference/srecon18americas/presentation/hummel
+402. srecon18americas - Learning at Scale Is Hard! Outage Pattern Analysis and Dirty Data - https://www.usenix.org/conference/srecon18americas/presentation/lund
+403. srecon18americas - How Not to Go Boom: Lessons for SREs from Oil Refineries - https://www.usenix.org/conference/srecon18americas/presentation/stolarsky
+404. srecon18americas - Containerization War Stories - https://www.usenix.org/conference/srecon18americas/presentation/wong
+405. srecon18americas - Resolving Outages Faster with Better Debugging Strategies - https://www.usenix.org/conference/srecon18americas/presentation/fong-jones
+406. srecon18americas - Monitoring DNS with Open-Source Solutions - https://www.usenix.org/conference/srecon18americas/presentation/bustos
+407. srecon18americas - Antics, Drift, and Chaos - https://www.usenix.org/conference/srecon18americas/presentation/hochstein
+408. srecon18americas - Security as a Service - https://www.usenix.org/conference/srecon18americas/presentation/wojtyniak
+409. srecon18americas - Breaking in a New Job as an SRE - https://www.usenix.org/conference/srecon18americas/presentation/tobey
+410. srecon18americas - "Capacity Prediction" instead of "Capacity Planning": How Uber Uses ML to Accurately Forecast Resource Utilization - https://www.usenix.org/conference/srecon18americas/presentation/boone
+411. srecon18americas - Distributed Tracing, Lessons Learned - https://www.usenix.org/conference/srecon18americas/presentation/maini
+412. srecon18americas - Junior Engineers Are Features, Not Bugs - https://www.usenix.org/conference/srecon18americas/presentation/taggart
+413. srecon18americas - Approaching the Unacceptable Workload Boundary - https://www.usenix.org/conference/srecon18americas/presentation/schwartz
+414. srecon18americas - Building Shopify's PaaS on Kubernetes - https://www.usenix.org/conference/srecon18americas/presentation/thukral
+415. srecon18americas - Know Thy Enemy: How to Prioritize and Communicate Risks - https://www.usenix.org/conference/srecon18americas/presentation/brown
+416. srecon18americas - Automatic Metric Screening for Service Diagnosis - https://www.usenix.org/conference/srecon18americas/presentation/chen
+417. srecon18americas - Whispers in Chaos: Searching for Weak Signals in Incidents - https://www.usenix.org/conference/srecon18americas/presentation/reed
+418. srecon18americas - Architecting a Technical Post Mortem - https://www.usenix.org/conference/srecon18americas/presentation/gallego
+419. srecon18americas - Your System Has Recovered from an Incident, but Have Your Developers? - https://www.usenix.org/conference/srecon18americas/presentation/woo
+420. srecon18americas - The History of Fire Escapes - https://www.usenix.org/conference/srecon18americas/presentation/reilly
+421. srecon18americas - Leaping from Mainframes to AWS: Technology Time Travel in the Government - https://www.usenix.org/conference/srecon18americas/presentation/brody
+422. srecon18americas - Operational Excellence in April Fools’ Pranks: Being Funny Is Serious Work! - https://www.usenix.org/conference/srecon18americas/presentation/limoncelli
+423. srecon18asia - The Evolution of Site Reliability Engineering - https://www.usenix.org/conference/srecon18asia/presentation/purgason
+424. srecon18asia - Safe Client Behaviour - https://www.usenix.org/conference/srecon18asia/presentation/goh
+425. srecon18asia - Service Monitoring Manual—2018 Edition - https://www.usenix.org/conference/srecon18asia/presentation/dipanov
+426. srecon18asia - Introduction to Alibaba Monitoring System - https://www.usenix.org/conference/srecon18asia/presentation/xinchi
+427. srecon18asia - How Atlassian Is Tackling Error Budgets, Agile Style - https://www.usenix.org/conference/srecon18asia/presentation/vieiro
+428. srecon18asia - Building SRE: Culture from the Outside In - https://www.usenix.org/conference/srecon18asia/presentation/palino
+429. srecon18asia - Quantifying Empathy with Service Level Objectives - https://www.usenix.org/conference/srecon18asia/presentation/gangatirkar
+430. srecon18asia - Doing Things the Hard Way - https://www.usenix.org/conference/srecon18asia/presentation/sinjakli
+431. srecon18asia - Achieving Observability into Your Application with OpenCensus - https://www.usenix.org/conference/srecon18asia/presentation/mclean
+432. srecon18asia - Efficient Trouble Shooting of Service Failures with Multi-Tag Data Analysis - https://www.usenix.org/conference/srecon18asia/presentation/cao
+433. srecon18asia - Autonomous Workload Rebalancing in Kafka - https://www.usenix.org/conference/srecon18asia/presentation/vacher
+434. srecon18asia - Know Thy Enemy: How to Prioritize and Communicate Risks - https://www.usenix.org/conference/srecon18asia/presentation/brown
+435. srecon18asia - Data Visualization for SREs—an Essential Skill for Quick Debugging - https://www.usenix.org/conference/srecon18asia/presentation/shah
+436. srecon18asia - You Can't Stop Fires with an Ambulance - https://www.usenix.org/conference/srecon18asia/presentation/chamberlain
+437. srecon18asia - Comprehensive Container-Based Service Monitoring with Kubernetes and Istio - https://www.usenix.org/conference/srecon18asia/presentation/moyer
+438. srecon18asia - How to Make Releases Safer in Baidu - https://www.usenix.org/conference/srecon18asia/presentation/xue
+439. srecon18asia - Cultural Nuance and Effective Collaboration for Multicultural Teams - https://www.usenix.org/conference/srecon18asia/presentation/ravindran
+440. srecon18asia - Call to ARMs: Adopting an arm64 Server into x86 Infrastructure - https://www.usenix.org/conference/srecon18asia/presentation/korchagin
+441. srecon18asia - Randomized Load Balancing, Caching, and Big-O Math - https://www.usenix.org/conference/srecon18asia/presentation/plenz
+442. srecon18asia - Getting Started with Chaos Engineering - https://www.usenix.org/conference/srecon18asia/presentation/medina
+443. srecon18asia - Automatic Datacenter and Service Deployments Based on Capacity Planning Artifacts - https://www.usenix.org/conference/srecon18asia/presentation/jian
+444. srecon18asia - From Monitoring to Automated Testing of Your Infrastructure Code - https://www.usenix.org/conference/srecon18asia/presentation/reynolds
+445. srecon18asia - Shopify's Move from the Data Centre to the Cloud - https://www.usenix.org/conference/srecon18asia/presentation/francis
+446. srecon18asia - Ensuring Reliability of High-Performance Applications - https://www.usenix.org/conference/srecon18asia/presentation/nayak
+447. srecon18asia - Smarter Disasters: End-to-End Automation for Incidents - https://www.usenix.org/conference/srecon18asia/presentation/nilakant
+448. srecon18asia - Debugging at Scale—Going from Single Box to Production - https://www.usenix.org/conference/srecon18asia/presentation/srinivasamurthy-debugging
+449. srecon18asia - Productionizing Machine-Learning Services: Lessons from Google SRE - https://www.usenix.org/conference/srecon18asia/presentation/virji
+450. srecon18asia - Pro Tip: Save Money on Outages by Having a Bot Do the Heavy Lifting - https://www.usenix.org/conference/srecon18asia/presentation/guimaraes
+451. srecon18asia - Evolution of SRE and Rising Need of SRE Catalyzers - https://www.usenix.org/conference/srecon18asia/presentation/ganeriwal
+452. srecon18asia - How to Serve and Protect (with Client Isolation) - https://www.usenix.org/conference/srecon18asia/presentation/johnson
+453. srecon18asia - A Tale of One Billion Time Series - https://www.usenix.org/conference/srecon18asia/presentation/yao
+454. srecon18asia - Introduction to Linux Container Internals - https://www.usenix.org/conference/srecon18asia/presentation/mcmullen
+455. srecon18asia - Automatic Traffic Scheduling for Internet Connectivity Failures - https://www.usenix.org/conference/srecon18asia/presentation/zhang
+456. srecon18asia - Lessons Learned from Our Main Database Migrations at Facebook - https://www.usenix.org/conference/srecon18asia/presentation/matsunobu
+457. srecon18asia - PV Monitoring Based on Linear Regression - https://www.usenix.org/conference/srecon18asia/presentation/bo
+458. srecon18asia - Do Docs Better: Practical Tips on Delivering Value to Your Business through Better Documentation - https://www.usenix.org/conference/srecon18asia/presentation/macnamara
+459. srecon18asia - Characterizing and Understanding Phases of SRE Practices - https://www.usenix.org/conference/srecon18asia/presentation/andersen
+460. srecon18asia - Scaling Yourself for Managing Distributed Teams Delivering Reliable Services - https://www.usenix.org/conference/srecon18asia/presentation/greig
+461. srecon18asia - Interviewing for Systems Design Skills - https://www.usenix.org/conference/srecon18asia/presentation/kirsch-interviewing
+462. srecon18asia - Scaling a Distributed Stateful System: A LinkedIn Case Study - https://www.usenix.org/conference/srecon18asia/presentation/kanuri
+463. srecon18asia - Mentoring: A Newcomer's Perspective - https://www.usenix.org/conference/srecon18asia/presentation/tanyag
+464. srecon18asia - You Get What You Measure—Why Metrics Are Important - https://www.usenix.org/conference/srecon18asia/presentation/srinivasamurthy-metrics
+465. srecon18asia - Blame. Language. Sharing: Three Tips for Learning from Incidents in Your Organisation - https://www.usenix.org/conference/srecon18asia/presentation/holmwood
+466. srecon18asia - A Theory and Practice of Alerting with Service Level Objectives - https://www.usenix.org/conference/srecon18asia/presentation/wilkinson
+467. srecon18asia - Production Engineering: Connect the Dots - https://www.usenix.org/conference/srecon18asia/presentation/roth
+468. srecon18asia - Mental Models for SREs - https://www.usenix.org/conference/srecon18asia/presentation/suley-mental
+469. srecon18europe - Circonus: Design (Failures) Case Study - https://www.usenix.org/conference/srecon18europe/presentation/schlossnagle
+470. srecon18europe - SRE Theory vs. Practice: A Song of Ice and TireFire - https://www.usenix.org/conference/srecon18europe/presentation/quinn
+471. srecon18europe - Data Protection Update and Tales from the Introduction of the GDPR - https://www.usenix.org/conference/srecon18europe/presentation/mcgarr-plenary
+472. srecon18europe - What Makes a Good SRE: Findings from the SRE Survey - https://www.usenix.org/conference/srecon18europe/presentation/parzych
+473. srecon18europe - Sustainability Starts Early: Creating a Great Ops Internship - https://www.usenix.org/conference/srecon18europe/presentation/boxwala
+474. srecon18europe - The Silver Lining Consortium: Post-Mortems for the Rest of Us - https://www.usenix.org/conference/srecon18europe/presentation/murphysillver-lining
+475. srecon18europe - Migrations under Production Load: How to Switch Your Database without Disrupting Service - https://www.usenix.org/conference/srecon18europe/presentation/opsal
+476. srecon18europe - Instrumenting an Existing Service for Monitoring - https://www.usenix.org/conference/srecon18europe/presentation/mattsson
+477. srecon18europe - Data Visualization for SREs—An Essential Skill for Quick Debugging - https://www.usenix.org/conference/srecon18europe/presentation/shah
+478. srecon18europe - The 7 Deadly Sins of Documentation - https://www.usenix.org/conference/srecon18europe/presentation/blackwell
+479. srecon18europe - Y2K and Other Disappointing Disasters: Risk Reduction and Harm Mitigation - https://www.usenix.org/conference/srecon18europe/presentation/waterhouse
+480. srecon18europe - Availability, Latency, and Cost: Withstanding Regional Outages - https://www.usenix.org/conference/srecon18europe/presentation/blohowiak
+481. srecon18europe - SRE for Mobile Applications - https://www.usenix.org/conference/srecon18europe/presentation/littley
+482. srecon18europe - Statistics for Engineers - https://www.usenix.org/conference/srecon18europe/presentation/hartmann
+483. srecon18europe - SRE Classroom, Or, How to Design a Distributed System in 3 Hours - https://www.usenix.org/conference/srecon18europe/presentation/virji
+484. srecon18europe - Your System Has Recovered from an Incident, but Have Your Developers? - https://www.usenix.org/conference/srecon18europe/presentation/woo
+485. srecon18europe - Against On-Call: A Polemic - https://www.usenix.org/conference/srecon18europe/presentation/murphy
+486. srecon18europe - Impact of Network Automation - https://www.usenix.org/conference/srecon18europe/presentation/romanyak
+487. srecon18europe - Migrating Your Old Server Products to Be Stateless Cloud Services - https://www.usenix.org/conference/srecon18europe/presentation/scherer
+488. srecon18europe - Statistics for Engineers - https://www.usenix.org/conference/srecon18europe/presentation/hartmann
+489. srecon18europe - SRE Classroom, Or, How to Design a Distributed System in 3 Hours - https://www.usenix.org/conference/srecon18europe/presentation/virji
+490. srecon18europe - Dealing with Dark Debt: Lessons Learnt at Goldman Sachs - https://www.usenix.org/conference/srecon18europe/presentation/yiu
+491. srecon18europe - Halt and Don’t Catch Fire - https://www.usenix.org/conference/srecon18europe/presentation/mouzeli
+492. srecon18europe - Applying the Principles of Chaos to Serverless - https://www.usenix.org/conference/srecon18europe/presentation/cui
+493. srecon18europe - Know Your Kubernetes Deploys - https://www.usenix.org/conference/srecon18europe/presentation/glaser
+494. srecon18europe - Developing Effective Service Level Indicators and Service Level Objectives - https://www.usenix.org/conference/srecon18europe/presentation/fong-jones-0
+495. srecon18europe - The EU's New Data Protection Law—A Survival Guide - https://www.usenix.org/presentation/mcgarr
+496. srecon18europe - Not Invented Here Syndrome and Dark Debt: The PagerDuty Story - https://www.usenix.org/conference/srecon18europe/presentation/dahal
+497. srecon18europe - Building a Debuggable Go Server - https://www.usenix.org/conference/srecon18europe/presentation/erhardt
+498. srecon18europe - Building a Fellowship Program to Mentor and Grow Your SRE Team - https://www.usenix.org/conference/srecon18europe/presentation/spiegelman
+499. srecon18europe - SoundCloud's Story of Seeking Sustainable SRE - https://www.usenix.org/conference/srecon18europe/presentation/rabenstein
+500. srecon18europe - How We Un-Scattered Our DNS Setup and Unlocked New Automation Options - https://www.usenix.org/conference/srecon18europe/presentation/l%C3%BCdtke
+501. srecon18europe - Kernel Upgrades at Facebook - https://www.usenix.org/conference/srecon18europe/presentation/udupi-kadbet
+502. srecon18europe - Developing Effective Service Level Indicators and Service Level Objectives - https://www.usenix.org/conference/srecon18europe/presentation/fong-jones-0
+503. srecon18europe - The EU's New Data Protection Law—A Survival Guide - https://www.usenix.org/presentation/mcgarr
+504. srecon18europe - Managing Misfortune for Best Results - https://www.usenix.org/conference/srecon18europe/presentation/barry
+505. srecon18europe - Clearing the Way for SRE in the Enterprise - https://www.usenix.org/conference/srecon18europe/presentation/edwards
+506. srecon18europe - Care and Feeding of Data Processing Pipelines - https://www.usenix.org/conference/srecon18europe/presentation/sodt
+507. srecon18europe - Panel: Data Pipelines—Scaling and Reliability - https://www.usenix.org/conference/srecon18europe/presentation/panel
+508. srecon18europe - Chaos Engineering Bootcamp - https://www.usenix.org/conference/srecon18europe/presentation/medina
+509. srecon18europe - The Art of Debugging - https://www.usenix.org/conference/srecon18europe/presentation/ish-shalom-0
+510. srecon18europe - The Math behind Project Scheduling, Bug Tracking, and Triage - https://www.usenix.org/conference/srecon18europe/presentation/pennarun
+511. srecon18europe - Ethics in Computing - https://www.usenix.org/conference/srecon18europe/presentation/schlossnagle-0
+512. srecon18europe - Canarying Well: Lessons Learned from Canarying Large Populations - https://www.usenix.org/conference/srecon18europe/presentation/davidovic
+513. srecon18europe - Real World SLOs and SLIs: A Deep Dive - https://www.usenix.org/conference/srecon18europe/presentation/flaming
+514. srecon18europe - Chaos Engineering Bootcamp - https://www.usenix.org/conference/srecon18europe/presentation/medina
+515. srecon18europe - The Art of Debugging - https://www.usenix.org/conference/srecon18europe/presentation/ish-shalom-0
+516. srecon18europe - I’m SRE and You Can Too!—A Fine Manual for Migrating Your Organization to the New Hotness - https://www.usenix.org/conference/srecon18europe/presentation/bisset
+517. srecon18europe - Lessons Learned—Data Driven Hiring 3 Years Later - https://www.usenix.org/conference/srecon18europe/presentation/stankaitis
+518. srecon18europe - SRE Team Lifecycles - https://www.usenix.org/conference/srecon18europe/presentation/thorne
+519. srecon18europe - Capacity Planning in Four Parts: Telling the Future without a Crystal Ball - https://www.usenix.org/conference/srecon18europe/presentation/smith
+520. srecon18europe - Unconference: Resilient Design - https://www.usenix.org/conference/srecon18europe/presentation/ish-shalom-resilient
+521. srecon18europe - Building Blocks of Distributed Systems - https://www.usenix.org/conference/srecon18europe/presentation/looney
+522. srecon18europe - The Nth Region Project: An Open Retrospective - https://www.usenix.org/conference/srecon18europe/presentation/bloomgarden
+523. srecon18europe - This IS NOT Fine: Putting Out (Code) Fires - https://www.usenix.org/conference/srecon18europe/presentation/freeman
+524. srecon18europe - What Medicine Can Teach Us about Being On-Call - https://www.usenix.org/conference/srecon18europe/presentation/turner
+525. srecon18europe - Tradeoffs in Resiliency: Managing the Burden of Data Recoverability - https://www.usenix.org/conference/srecon18europe/presentation/bennett
+526. srecon18europe - Scalable Coding—Find the Error - https://www.usenix.org/conference/srecon18europe/presentation/ebner-de-carvalho
+527. srecon18europe - Delete This: Decommissioning Servers at Scale - https://www.usenix.org/conference/srecon18europe/presentation/ra
+528. srecon18europe - Unconference: Developing Effective SRE Teams - https://www.usenix.org/conference/srecon18europe/presentation/andersen
+529. srecon18europe - Building Blocks of Distributed Systems - https://www.usenix.org/conference/srecon18europe/presentation/looney
+530. srecon18europe - Observability for Emerging Infra: What Got You Here Won't Get You There - https://www.usenix.org/conference/srecon18europe/presentation/fri-workshop-tba
+531. srecon18europe - Deploying SRE Training Best Practices to Production: What We Learned (a.k.a. Strapping Jetpacks on Unicorns, the Postmortem) - https://www.usenix.org/conference/srecon18europe/presentation/petoff
+532. srecon18europe - Keep Building Fresh: Shopify's Journey to Kubernetes - https://www.usenix.org/conference/srecon18europe/presentation/kurtti
+533. srecon18europe - The Myth of Cloud Agnosticism - https://www.usenix.org/conference/srecon18europe/presentation/quinn-0
+534. srecon18europe - SparkPost: The Day the DNS Died - https://www.usenix.org/conference/srecon18europe/presentation/blosser
+535. srecon18europe - Unikernels—The New Black - https://www.usenix.org/conference/srecon18europe/presentation/mohamed
+536. srecon18europe - Lessons Learned from Our Main Database Migrations at Facebook - https://www.usenix.org/conference/srecon18europe/presentation/matsunobu
+537. srecon18europe - Have You Tried Turning It Off (and *Not* On Again)? - https://www.usenix.org/conference/srecon18europe/presentation/deprez
+538. srecon18europe - SRE for Good: Engineering Intersections between Operations and Social Activism - https://www.usenix.org/conference/srecon18europe/presentation/fong-jones
+539. srecon18europe - Can I Tell You a Secret? I See Dead Systems - https://www.usenix.org/conference/srecon18europe/presentation/ish-shalom
+540. srecon18europe - Junior Engineers Are Features, Not Bugs - https://www.usenix.org/conference/srecon18europe/presentation/taggart
+541. srecon19americas - What Breaks Our Systems: A Taxonomy of Black Swans - https://www.usenix.org/conference/srecon19americas/presentation/nolan-taxonomy
+542. srecon19americas - Complexity: The Crucial Ingredient in Your Kitchen - https://www.usenix.org/conference/srecon19americas/presentation/rosenthal
+543. srecon19americas - Case Study: Implementing SLOs for a New Service - https://www.usenix.org/conference/srecon19americas/presentation/lawson
+544. srecon19americas - Fixing On-Call When Nobody Thinks It's (Too) Broken - https://www.usenix.org/conference/srecon19americas/presentation/lykke
+545. srecon19americas - Lessons Learned in Black Box Monitoring 25,000 Endpoints and Proving the SRE Team's Value - https://www.usenix.org/conference/srecon19americas/presentation/wieczorek
+546. srecon19americas - Keeping the Balance: Internet-Scale Loadbalancing Demystified - https://www.usenix.org/conference/srecon19americas/presentation/nolan-loadbalancing
+547. srecon19americas - Aperture: A Non-Cooperative, Client-Side Load Balancing Algorithm - https://www.usenix.org/conference/srecon19americas/presentation/oanta
+548. srecon19americas - Capacity Prediction in External Services - https://www.usenix.org/conference/srecon19americas/presentation/kraus
+549. srecon19americas - How Did Things Go Right? Learning More from Incidents - https://www.usenix.org/conference/srecon19americas/presentation/kitchens
+550. srecon19americas - Code-Yellow: Helping Operations Top-Heavy Teams the Smart Way - https://www.usenix.org/conference/srecon19americas/presentation/kehoe
+551. srecon19americas - Creating a Code Review Culture - https://www.usenix.org/conference/srecon19americas/presentation/turner
+552. srecon19americas - Benefits of Taking the Less Traveled Road with Containers Infrastructure - https://www.usenix.org/conference/srecon19americas/presentation/iacoboaia
+553. srecon19americas - The Ops in Serverless - https://www.usenix.org/conference/srecon19americas/presentation/davis
+554. srecon19americas - Testing in Production at Scale - https://www.usenix.org/conference/srecon19americas/presentation/gud
+555. srecon19americas - Tackling Kafka, with a Small Team - https://www.usenix.org/conference/srecon19americas/presentation/glover
+556. srecon19americas - Tracing, Fast and Slow: Digging into and Improving Your Web Service's Performance - https://www.usenix.org/conference/srecon19americas/presentation/root
+557. srecon19americas - Visibility into Loggers (and Other Low Level Services)—Seeing the Trees from the Forest - https://www.usenix.org/conference/srecon19americas/presentation/chen
+558. srecon19americas - Operating within Normal Parameters: Monitoring Kubernetes - https://www.usenix.org/conference/srecon19americas/presentation/hashman
+559. srecon19americas - SRE & Product Management: How to Level up Your Team (and Career!) by Thinking like a Product Manager - https://www.usenix.org/conference/srecon19americas/presentation/wohlner
+560. srecon19americas - Shipping Software with an SRE Mindset - https://www.usenix.org/conference/srecon19americas/presentation/schlossnagle
+561. srecon19americas - Using PRDs and User Journeys to Design User-Friendly Tools - https://www.usenix.org/conference/srecon19americas/presentation/stockman
+562. srecon19americas - SRE Classroom - How to Design a Distributed System in 3 Hours - https://www.usenix.org/conference/srecon19americas/presentation/thomas
+563. srecon19americas - Migrating a Monolith to the Cloud - https://www.usenix.org/conference/srecon19americas/presentation/govande
+564. srecon19americas - An Introduction to GraphQL - https://www.usenix.org/conference/srecon19americas/presentation/welch
+565. srecon19americas - Service Discovery Challenges at Scale - https://www.usenix.org/conference/srecon19americas/presentation/nigmatullin
+566. srecon19americas - SRE Classroom - How to Design a Distributed System in 3 Hours - https://www.usenix.org/conference/srecon19americas/presentation/thomas
+567. srecon19americas - Inside the Kube: A Guided Tour of Kubernetes Cluster Setup - https://www.usenix.org/conference/srecon19americas/presentation/frost
+568. srecon19americas - Getting Started with Observability Lab: Opentracing, Prometheus, and Jaeger - https://www.usenix.org/conference/srecon19americas/presentation/crawley
+569. srecon19americas - What I Wish I Knew before Going On-call - https://www.usenix.org/conference/srecon19americas/presentation/shu
+570. srecon19americas - Getting Started with Observability Lab: Opentracing, Prometheus, and Jaeger - https://www.usenix.org/conference/srecon19americas/presentation/crawley
+571. srecon19americas - Running Excellent Retrospectives: Talking for Humans - https://www.usenix.org/conference/srecon19americas/presentation/eckhardt
+572. srecon19americas - Optimizing for Learning - https://www.usenix.org/conference/srecon19americas/presentation/mcdonald
+573. srecon19americas - Zero to SRE - https://www.usenix.org/conference/srecon19americas/presentation/schlesinger
+574. srecon19americas - One on One SRE - https://www.usenix.org/conference/srecon19americas/presentation/tobey
+575. srecon19americas - Scaling SRE Organizations: The Journey from 1 to Many Teams - https://www.usenix.org/conference/srecon19americas/presentation/franco
+576. srecon19americas - The Curse of SRE Autonomy and How to Manage It - https://www.usenix.org/conference/srecon19americas/presentation/bondi
+577. srecon19americas - Learning from Learnings: Anatomy of Three Incidents - https://www.usenix.org/conference/srecon19americas/presentation/shoup
+578. srecon19americas - Fault Tree Analysis Applied to Apache Kafka - https://www.usenix.org/conference/srecon19americas/presentation/falko
+579. srecon19americas - Strategies to Edit Production Data - https://www.usenix.org/conference/srecon19americas/presentation/qiu
+580. srecon19americas - Madaari: Ordering for the Monkeys - https://www.usenix.org/conference/srecon19americas/presentation/raina
+581. srecon19americas - Sublinear Scaling in Practice: The 1k SRE Project - https://www.usenix.org/conference/srecon19americas/presentation/rath
+582. srecon19americas - Pragmatic Automation - https://www.usenix.org/conference/srecon19americas/presentation/luebbe
+583. srecon19americas - Differences in SRE Implementations across Companies - https://www.usenix.org/conference/srecon19americas/presentation/andersen
+584. srecon19americas - Latency SLOs Done Right - https://www.usenix.org/conference/srecon19americas/presentation/moyer
+585. srecon19americas - Extending the Error Budget Model to Security and Feature Freshness - https://www.usenix.org/conference/srecon19americas/presentation/thomson
+586. srecon19americas - You Don't Have to Love Your Job - https://www.usenix.org/conference/srecon19americas/presentation/carr
+587. srecon19americas - Mindfulness in SRE: Monitoring and Alerting for One's Self - https://www.usenix.org/conference/srecon19americas/presentation/lutz
+588. srecon19americas - Automating the Management of the Operational Health of Cloud Accounts at Scale - https://www.usenix.org/conference/srecon19americas/presentation/walls
+589. srecon19americas - Designing Resilient Data Pipelines - https://www.usenix.org/conference/srecon19americas/presentation/bolin
+590. srecon19americas - From Black Box to a Known Quantity: How to Build Predictable, Reliable ML-based Services - https://www.usenix.org/conference/srecon19americas/presentation/virji
+591. srecon19americas - Resilience Engineering Mythbusting - https://www.usenix.org/conference/srecon19americas/presentation/gallego
+592. srecon19americas - Why Are Distributed Systems So Hard? - https://www.usenix.org/conference/srecon19americas/presentation/yu
+593. srecon19asia - A Tale of Two Postmortems: A Human Factors View - https://www.usenix.org/conference/srecon19asia/presentation/lund-postmortem
+594. srecon19asia - Availability—Thinking beyond 9s - https://www.usenix.org/conference/srecon19asia/presentation/srinivasamurthy
+595. srecon19asia - Use Interview Skills of Accident Investigators to Learn More about Incidents - https://www.usenix.org/conference/srecon19asia/presentation/wood
+596. srecon19asia - Leading without Managing: Becoming an SRE Technical Leader - https://www.usenix.org/conference/srecon19asia/presentation/palino-leading
+597. srecon19asia - The Bloomberg Story: Building SRE Teams in an "Immeasurable" Organisation - https://www.usenix.org/conference/srecon19asia/presentation/sorensen
+598. srecon19asia - Anomaly Detection on Golden Signals - https://www.usenix.org/conference/srecon19asia/presentation/chen-yu
+599. srecon19asia - Practical Instrumentation for Observability - https://www.usenix.org/conference/srecon19asia/presentation/krabbe
+600. srecon19asia - Building Blocks of Distributed Systems: Parts 1 & 2 - https://www.usenix.org/conference/srecon19asia/presentation/looney
+601. srecon19asia - Retrospectives for Humans (a Crash Course) - https://www.usenix.org/conference/srecon19asia/presentation/eckhardt
+602. srecon19asia - Using ML to Automate Dynamic Error Categorization - https://www.usenix.org/conference/srecon19asia/presentation/davoli
+603. srecon19asia - What Is ML Ops: Solutions and Best Practices for DevOps of Production ML Services - https://www.usenix.org/conference/srecon19asia/presentation/sato
+604. srecon19asia - The AWS Billing Machine and Optimizing Cloud Costs - https://www.usenix.org/conference/srecon19asia/presentation/lopopolo
+605. srecon19asia - Let's Build a Distributed File System - https://www.usenix.org/conference/srecon19asia/presentation/patel
+606. srecon19asia - Ensuring Site Reliability through Security Controls - https://www.usenix.org/conference/srecon19asia/presentation/janakiraman
+607. srecon19asia - Shipping Software with an SRE Mindset - https://www.usenix.org/conference/srecon19asia/presentation/schlossnagle
+608. srecon19asia - Releasing the World's Largest Python Site Every 7 Minutes - https://www.usenix.org/conference/srecon19asia/presentation/wong-shuhong
+609. srecon19asia - Why Does (My) Monitoring Suck? - https://www.usenix.org/conference/srecon19asia/presentation/palino-monitoring
+610. srecon19asia - NetRadar: Monitoring the Datacenter Network - https://www.usenix.org/conference/srecon19asia/presentation/chen-yun
+611. srecon19asia - Operating Elasticsearch with Ease at Scale - https://www.usenix.org/conference/srecon19asia/presentation/sankaravadivel
+612. srecon19asia - Enhance Your Python Code beyond GIL - https://www.usenix.org/conference/srecon19asia/presentation/bhojwani
+613. srecon19asia - Reliable by Design: Adding Value in the Design Review Process - https://www.usenix.org/conference/srecon19asia/presentation/nolan
+614. srecon19asia - How (Not) to Scale a Project: A Post-Mortem - https://www.usenix.org/conference/srecon19asia/presentation/bagnoli
+615. srecon19asia - A Dashboard Is Worth a Thousand Words: Better Monitoring for Better Ops - https://www.usenix.org/conference/srecon19asia/presentation/magnoni
+616. srecon19asia - Taming a Beast: Improving the Reliability of a Monolithic Web Service - https://www.usenix.org/conference/srecon19asia/presentation/shah
+617. srecon19asia - Implementing Distributed Consensus - https://www.usenix.org/conference/srecon19asia/presentation/ludtke
+618. srecon19asia - Edge Computing: The Next Frontier for Distributed Systems - https://www.usenix.org/conference/srecon19asia/presentation/barry
+619. srecon19asia - Slack at the Edge - https://www.usenix.org/conference/srecon19asia/presentation/pemberton
+620. srecon19asia - Critical Path Analysis—Prioritizing What Matters - https://www.usenix.org/conference/srecon19asia/presentation/hameez
+621. srecon19asia - Traffic Forecasting and Stress Testing Infrastructure - https://www.usenix.org/conference/srecon19asia/presentation/sulakhe
+622. srecon19asia - Ignite Karaoke - https://www.usenix.org/conference/srecon19asia/presentation/karaoke
+623. srecon19asia - Capacity Planning with Stress Testing - https://www.usenix.org/conference/srecon19asia/presentation/cheng
+624. srecon19asia - Collective Mindfulness for Better Decisions in SRE - https://www.usenix.org/conference/srecon19asia/presentation/andersen-mindfulness
+625. srecon19asia - TCP—Architecture, Enhancements, and Tuning - https://www.usenix.org/conference/srecon19asia/presentation/dhakal
+626. srecon19asia - BGP—The Backbone of the Internet - https://www.usenix.org/conference/srecon19asia/presentation/kehoe
+627. srecon19asia - Over 600 Million Members and Hundreds of Micro Services: How We Scaled Our Monitoring System to Keep up - https://www.usenix.org/conference/srecon19asia/presentation/lamba
+628. srecon19asia - Cross Continent Infrastructure Scaling at Instagram - https://www.usenix.org/conference/srecon19asia/presentation/xiao
+629. srecon19asia - Detecting Service Degradation and Failures at Scale through Distributed Log Processing - https://www.usenix.org/conference/srecon19asia/presentation/narayanan
+630. srecon19asia - Ad Hoc SSH Access Using Signed Tokens - https://www.usenix.org/conference/srecon19asia/presentation/bourque
+631. srecon19asia - Linux Memory Management at Scale: Under the Hood - https://www.usenix.org/conference/srecon19asia/presentation/down
+632. srecon19asia - The Definitive Guide to Make Software Fail on ARM64 - https://www.usenix.org/conference/srecon19asia/presentation/korchagin
+633. srecon19asia - How to Champion SRE Investment to Different Levels of Leadership - https://www.usenix.org/conference/srecon19asia/presentation/wong-lyon
+634. srecon19asia - Challenges of Distributed Teams Such as Languages and Timezones, Especially Those Unique to Asia/Australia - https://www.usenix.org/conference/srecon19asia/presentation/christopher
+635. srecon19asia - Distributed Sys Teams - https://www.usenix.org/conference/srecon19asia/presentation/ray
+636. srecon19asia - Open Source Firmware at Facebook: Design, Deployment, and Demos - https://www.usenix.org/conference/srecon19asia/presentation/barberio
+637. srecon19asia - Automating OS/Platform Upgrades for Service Owners - https://www.usenix.org/conference/srecon19asia/presentation/menezes
+638. srecon19asia - Unified Reporting of Service Reliability - https://www.usenix.org/conference/srecon19asia/presentation/zhang
+639. srecon19asia - Software Networking and Interfaces on Linux - https://www.usenix.org/conference/srecon19asia/presentation/turner
+640. srecon19asia - Tuning Java's G1 Garbage Collector for Realtime Services - https://www.usenix.org/conference/srecon19asia/presentation/chalfant
+641. srecon19asia - HBase Internals and Operations - https://www.usenix.org/conference/srecon19asia/presentation/nair
+642. srecon19asia - How We Used Kafka to Scale Database Infrastructure - https://www.usenix.org/conference/srecon19asia/presentation/thambara
+643. srecon19asia - How to Start On-Boarding of SRE - https://www.usenix.org/conference/srecon19asia/presentation/kondo
+644. srecon19asia - Getting More out of Postmortems and Making Them Less Painful to Do - https://www.usenix.org/conference/srecon19asia/presentation/rizqi
+645. srecon19asia - The MTTR Chronicles: Evolution of SRE Self Service Operations Platform - https://www.usenix.org/conference/srecon19asia/presentation/kuttagupthan
+646. srecon19asia - Latency SLOs Done Right - https://www.usenix.org/conference/srecon19asia/presentation/schlossnagle-latency
+647. srecon19asia - How to Trade off Server Utilization and Tail Latency - https://www.usenix.org/conference/srecon19asia/presentation/plenz
+648. srecon19asia - Familiar Smells I've Detected in Your Systems Engineering Organization and How to Fix Them - https://www.usenix.org/conference/srecon19asia/presentation/mangot
+649. srecon19asia - SRE Then vs SRE Now: A Balancing Act between Reflexes and Intuitive Instincts at PayPal - https://www.usenix.org/conference/srecon19asia/presentation/sunder-vr
+650. srecon19asia - Building Centralized Caching Infrastructure at Scale - https://www.usenix.org/conference/srecon19asia/presentation/won
+651. srecon19asia - Hybrid XFS—Using SSDs to Supercharge HDDs at Facebook - https://www.usenix.org/conference/srecon19asia/presentation/shamasunder
+652. srecon19asia - Extending a Scheduler to Better Support Sharded Services - https://www.usenix.org/conference/srecon19asia/presentation/clark-michalek
+653. srecon19asia - High Availability Solution for Large Scale Database Systems - https://www.usenix.org/conference/srecon19asia/presentation/zeng
+654. srecon19asia - Understanding Business Metrics Can Make You a Better SRE - https://www.usenix.org/conference/srecon19asia/presentation/suley
+655. srecon19asia - Yes, No, Maybe? Error Handling with gRPC Examples - https://www.usenix.org/conference/srecon19asia/presentation/sheerin
+656. srecon19asia - Aperture: A Non-Cooperative, Client-Side Load Balancing Algorithm - https://www.usenix.org/conference/srecon19asia/presentation/oanta
+657. srecon19asia - Building a Scalable Network Event Executor Using GO - https://www.usenix.org/conference/srecon19asia/presentation/denis
+658. srecon19asia - Ironies of Automation: A Comedy in Three Parts - https://www.usenix.org/conference/srecon19asia/presentation/lund-comedy
+659. srecon19asia - Ethics in SRE - https://www.usenix.org/conference/srecon19asia/presentation/nolan-ethics
+660. srecon19emea - Opening Remarks - https://www.usenix.org/conference/srecon19emea/presentation/opening-remarks
+661. srecon19emea - The SRE I Aspire to Be - https://www.usenix.org/conference/srecon19emea/presentation/aknin
+662. srecon19emea - A Systems Approach to Safety and Cybersecurity - https://www.usenix.org/conference/srecon19emea/presentation/leveson
+663. srecon19emea - SLOs for Data-Intensive Services - https://www.usenix.org/conference/srecon19emea/presentation/fouquet
+664. srecon19emea - Latency SLOs Done Right - https://www.usenix.org/conference/srecon19emea/presentation/hartmann-latency
+665. srecon19emea - Building a Scalable Monitoring System - https://www.usenix.org/conference/srecon19emea/presentation/struve
+666. srecon19emea - A Tale of Two Rotations: Building a Humane & Effective On-Call - https://www.usenix.org/conference/srecon19emea/presentation/lee
+667. srecon19emea - Support Operations Engineering: Scaling Developer Products to the Millions - https://www.usenix.org/conference/srecon19emea/presentation/ali
+668. srecon19emea - The Unmonitored Failure Domain: Mental Health - https://www.usenix.org/conference/srecon19emea/presentation/woo
+669. srecon19emea - Automating HA Deployments with BGP, IPv6, and Anycast - https://www.usenix.org/conference/srecon19emea/presentation/studarus
+670. srecon19emea - Control Theory for SRE - https://www.usenix.org/conference/srecon19emea/presentation/hahn
+671. srecon19emea - Eventually Consistent Service Discovery - https://www.usenix.org/conference/srecon19emea/presentation/patel
+672. srecon19emea - Network Monitor: A Tale of ACKnowledging an Observability Gap - https://www.usenix.org/conference/srecon19emea/presentation/gedge
+673. srecon19emea - Being Reasonable about SRE - https://www.usenix.org/conference/srecon19emea/presentation/urbanec
+674. srecon19emea - From Nothing to SRE: Practical Guidance on Implementing SRE in Smaller Organisations - https://www.usenix.org/conference/srecon19emea/presentation/huxtable
+675. srecon19emea - My Life as a Solo SRE - https://www.usenix.org/conference/srecon19emea/presentation/murphy
+676. srecon19emea - SRE Classroom, Or, How to Design a Reliable Distributed System in 3 Hours - https://www.usenix.org/conference/srecon19emea/presentation/perry
+677. srecon19emea - Implementing Distributed Consensus - https://www.usenix.org/conference/srecon19emea/presentation/ludtke
+678. srecon19emea - Zero Touch Prod: Towards Safer and More Secure Production Environments - https://www.usenix.org/conference/srecon19emea/presentation/czapinski
+679. srecon19emea - Zero-Downtime Rebalancing and Data Migration of a Mature Multi-Shard Platform - https://www.usenix.org/conference/srecon19emea/presentation/li
+680. srecon19emea - All of Our ML Ideas Are Bad (and We Should Feel Bad) - https://www.usenix.org/conference/srecon19emea/presentation/underwood
+681. srecon19emea - Fast, Available, Catastrophically Failing? Safely Avoiding Behavioral Incidents in Complex Production Systems - https://www.usenix.org/conference/srecon19emea/presentation/keene
+682. srecon19emea - SRE Classroom, Or, How to Design a Reliable Distributed System in 3 Hours - https://www.usenix.org/conference/srecon19emea/presentation/perry
+683. srecon19emea - Advanced Napkin Math: Estimating System Performance from First Principles - https://www.usenix.org/conference/srecon19emea/presentation/eskildsen
+684. srecon19emea - The Map Is Not the Territory: How SLOs Lead Us Astray, and What We Can Do about It - https://www.usenix.org/conference/srecon19emea/presentation/desai
+685. srecon19emea - Deploying SRE Training Best Practices to Production: How We SRE'ed Our SRE Education Program - https://www.usenix.org/conference/srecon19emea/presentation/petoff
+686. srecon19emea - SRE by Influence, Not Authority: How the New York Times Prepares for Large-Scale Events - https://www.usenix.org/conference/srecon19emea/presentation/wan
+687. srecon19emea - Effective Distributed Tracing Workshop - https://www.usenix.org/conference/srecon19emea/presentation/alves
+688. srecon19emea - Load Balancing Building Blocks - https://www.usenix.org/conference/srecon19emea/presentation/lexmond
+689. srecon19emea - What Happens When You Type en.wikipedia.org? - https://www.usenix.org/conference/srecon19emea/presentation/mouzeli
+690. srecon19emea - Are We All on the Same Page? Let's Fix That - https://www.usenix.org/conference/srecon19emea/presentation/mineiro
+691. srecon19emea - Weathering the Storm: How Early Warnings Save the Farm - https://www.usenix.org/conference/srecon19emea/presentation/sherwin
+692. srecon19emea - Effective Distributed Tracing Workshop - https://www.usenix.org/conference/srecon19emea/presentation/alves
+693. srecon19emea - Refining Systems Data without Losing Fidelity - https://www.usenix.org/conference/srecon19emea/presentation/fong-jones
+694. srecon19emea - Tracing Real-Time Distributed Systems - https://www.usenix.org/conference/srecon19emea/presentation/yakimov
+695. srecon19emea - How to Do SRE When You Have No SRE - https://www.usenix.org/conference/srecon19emea/presentation/ocallaghan
+696. srecon19emea - One on One SRE - https://www.usenix.org/conference/srecon19emea/presentation/tobey
+697. srecon19emea - Statistics for Engineers - https://www.usenix.org/conference/srecon19emea/presentation/hartmann-statistics
+698. srecon19emea - Managing Microservices with Istio Service Mesh - https://www.usenix.org/conference/srecon19emea/presentation/harabi
+699. srecon19emea - A Customer Service Approach to SRE - https://www.usenix.org/conference/srecon19emea/presentation/looney
+700. srecon19emea - SRE & Product Management: How to Level up Your Team (and Career!) by Thinking like a Product Manager - https://www.usenix.org/conference/srecon19emea/presentation/wohlner
+701. srecon19emea - Prioritizing Trust While Creating Applications - https://www.usenix.org/conference/srecon19emea/presentation/davis
+702. srecon19emea - Software Patching Needn't Be a Can of Worms - https://www.usenix.org/conference/srecon19emea/presentation/rowlands
+703. srecon19emea - Statistics for Engineers - https://www.usenix.org/conference/srecon19emea/presentation/hartmann-statistics
+704. srecon19emea - Managing Microservices with Istio Service Mesh - https://www.usenix.org/conference/srecon19emea/presentation/harabi
+705. srecon19emea - Bigtable: A Journey from Binary to Service and the Lessons Learned along the Way - https://www.usenix.org/conference/srecon19emea/presentation/gleason
+706. srecon19emea - SDKs Are Not Services and What This Means for SREs - https://www.usenix.org/conference/srecon19emea/presentation/coffey
+707. srecon19emea - Building Resilience: How to Learn More from Incidents - https://www.usenix.org/conference/srecon19emea/presentation/stenning
+708. srecon19emea - How Stripe Invests in Technical Infrastructure - https://www.usenix.org/conference/srecon19emea/presentation/larson
+709. srecon19emea - What I Wish I Knew before Going On-Call - https://www.usenix.org/conference/srecon19emea/presentation/shu
+710. srecon19emea - Why Automating Everything Adds to Your Toil - https://www.usenix.org/conference/srecon19emea/presentation/thorne
+711. srecon19emea - Autopsy of a MySQL Automation Disaster - https://www.usenix.org/conference/srecon19emea/presentation/gagne
+712. srecon19emea - Pushing through Friction - https://www.usenix.org/conference/srecon19emea/presentation/na
+713. srecon19emea - Perks and Pitfalls of Building a Remote First Team - https://www.usenix.org/conference/srecon19emea/presentation/neal
+714. srecon19emea - Unconference: Unsolved Problems in SRE - https://www.usenix.org/conference/srecon19emea/presentation/andersen
+715. srecon19emea - Expect the Unexpected: Preparing SRE Teams for Responding to Novel Failures - https://www.usenix.org/conference/srecon19emea/presentation/arthorne
+716. srecon19emea - Hiring Great SREs - https://www.usenix.org/conference/srecon19emea/presentation/rutkin
+717. srecon19emea - SRE in the Third Age - https://www.usenix.org/conference/srecon19emea/presentation/rabenstein
+718. srecon19emea - Evolution of Observability Tools at Pinterest - https://www.usenix.org/conference/srecon19emea/presentation/abbas
+719. srecon19emea - How to SRE When Everything's Already on Fire - https://www.usenix.org/conference/srecon19emea/presentation/hidalgo
+720. srecon19emea - Fault Tree Analysis Applied to Apache Kafka - https://www.usenix.org/conference/srecon19emea/presentation/falko
+721. srecon19emea - Applicable and Achievable Formal Verification - https://www.usenix.org/conference/srecon19emea/presentation/khlaaf
+722. srecon19emea - Closing Remarks - https://www.usenix.org/conference/srecon19emea/presentation/closing-remarks
+723. srecon20americas - The Secret Lives of SREs - Controlling the Costs of Coordination across Remote Teams - https://www.usenix.org/conference/srecon20americas/presentation/maguire
+724. srecon20americas - Identifying Hidden Dependencies - https://www.usenix.org/conference/srecon20americas/presentation/fong-jones
+725. srecon20americas - Are We Getting Better Yet? Progress Toward Safer Operations - https://www.usenix.org/conference/srecon20americas/presentation/elman
+726. srecon20americas - Continuously Improving Culture through Design Decisions - https://www.usenix.org/conference/srecon20americas/presentation/meath
+727. srecon20americas - Avoiding Goodhart's Law - Use SLO's as Tools Not Cudgels - https://www.usenix.org/conference/srecon20americas/presentation/coulter
+728. srecon20americas - Off the Beaten Path: Moving Observability Focus from Your Service, to Your Customer - https://www.usenix.org/conference/srecon20americas/presentation/suley
+729. srecon20americas - Observing from Incidents - https://www.usenix.org/conference/srecon20americas/presentation/watson
+730. srecon20americas - Building Service Ownership Using Documentation, Telemetry, and a Chance to Make Things Better - https://www.usenix.org/conference/srecon20americas/presentation/spoonhower
+731. srecon20americas - Study on Human Factors and Team Culture to Improve Pager Fatigue - https://www.usenix.org/conference/srecon20americas/presentation/barteneva
+732. srecon20americas - Squish Level Objectives: How SRE can Help Align Technical Work to User Benefit - https://www.usenix.org/conference/srecon20americas/presentation/stanke
+733. srecon20americas - Building Actionable Code Ownership - https://www.usenix.org/conference/srecon20americas/presentation/mukherji
+734. srecon20americas - SREs at Telecom and Media Industry: Bridging between Legacy and Cloud Native Apps - https://www.usenix.org/conference/srecon20americas/presentation/yitzhaki
+735. srecon20americas - Jupyter as Incident Response Tool - https://www.usenix.org/conference/srecon20americas/presentation/zadka
+736. srecon20americas - Sustainable Software Engineering & SREs - https://www.usenix.org/conference/srecon20americas/presentation/johnson
+737. srecon20americas - When /bin/sh Attacks: Revisiting "Automate All the Things" - https://www.usenix.org/conference/srecon20americas/presentation/reed
+738. srecon20americas - Testing Encyclopedias in Production - https://www.usenix.org/conference/srecon20americas/presentation/mouzeli
+739. srecon20americas - Why SREs can't afford to NOT do Chaos Engineering - https://www.usenix.org/conference/srecon20americas/presentation/pawlikowski
+740. srecon20americas - Implementing Distributed Consensus - https://www.usenix.org/conference/srecon20americas/presentation/ludtke
+741. srecon20americas - Incident Response in Unfamiliar Sociotechnical Systems: One Incident Commander's Challenges Supporting Inter-organizational Anomaly Response in the Age of COVID-19 - https://www.usenix.org/conference/srecon20americas/presentation/collins
+742. srecon20americas - Making Infrastructure More Friendly for Beginners - https://www.usenix.org/conference/srecon20americas/presentation/jalan
+743. srecon20americas - Low Context DevOps: Improving SRE Team Culture through Defaults, Documentation, and Discipline - https://www.usenix.org/conference/srecon20americas/presentation/limoncelli
+744. srecon20americas - The Smallest Possible SRE Team - https://www.usenix.org/conference/srecon20americas/presentation/thomas
+745. srecon20americas - Cloudy with a Chance of Chaos - https://www.usenix.org/conference/srecon20americas/presentation/yakomin
+746. srecon20americas - Confessions of a Systems Engineer: Learning from My 20+ Years of Failure - https://www.usenix.org/conference/srecon20americas/presentation/argent
+747. srecon20americas - Pragmatic Security for SRE - https://www.usenix.org/conference/srecon20americas/presentation/wickett
+748. srecon20americas - “Disorganizing” Your SRE Organization - https://www.usenix.org/conference/srecon20americas/presentation/belkind
+749. srecon20americas - Failure is Not an Option! SRE Lessons 50 Years after the Apollo 13 Flight to the Moon - https://www.usenix.org/conference/srecon20americas/presentation/barron
+750. srecon20americas - Challenges of Starting an SRE Team from Scratch in an Enterprise - https://www.usenix.org/conference/srecon20americas/presentation/narvas
+751. srecon20americas - The Good, the Bad and the Ugly: The 3 Learnings of an SRE - https://www.usenix.org/conference/srecon20americas/presentation/charagondla
+752. srecon20americas - 9 Years of Failure: How Racing Crappy Cars Made Me a Better SRE - https://www.usenix.org/conference/srecon20americas/presentation/doherty
+753. srecon20americas - Production Population Control: My Cattle are Rabbits! - https://www.usenix.org/conference/srecon20americas/presentation/nauda
+754. srecon20americas - Latency and Availability Error Budgets Done Right at Scale - https://www.usenix.org/conference/srecon20americas/presentation/moyer
+755. srecon20americas - The Evolution of Traffic Routing in a Streaming World - https://www.usenix.org/conference/srecon20americas/presentation/srikanth
+756. srecon20americas - Heap Optimization for Go Systems - https://www.usenix.org/conference/srecon20americas/presentation/roy
+757. srecon20americas - Soft Failures, Hard Goals - Accelerating Payments at Scale During the Pandemic - https://www.usenix.org/conference/srecon20americas/presentation/guichard
+758. srecon20americas - Give Your PXE wings! Bootstrapping Explained - https://www.usenix.org/conference/srecon20americas/presentation/hirschfeld
+759. srecon20americas - Hot Swap Your Datastore: A Practical Approach and Lessons Learned - https://www.usenix.org/conference/srecon20americas/presentation/shekhar
+760. srecon20americas - Automatically Detect the Top Performance & Scalability Issues in Distributed Architectures - https://www.usenix.org/conference/srecon20americas/presentation/grabner
+761. srecon20americas - Achieving the Ultimate Performance with KVM - https://www.usenix.org/conference/srecon20americas/presentation/krosnov
+762. srecon20americas - A Bartender's Guide to Network Monitoring - https://www.usenix.org/conference/srecon20americas/presentation/blaho
+763. srecon20americas - Weeks of Debugging Can Save You Hours of TLA+ - https://www.usenix.org/conference/srecon20americas/presentation/kuppe
+764. srecon20americas - Capacity Planning and Performance Enhancement with Page Reference Sampling - https://www.usenix.org/conference/srecon20americas/presentation/chen
+765. srecon20americas - Achieving Mutual TLS: Secure Pod-to-Pod Communication Without the Hassle - https://www.usenix.org/conference/srecon20americas/presentation/hahn
+766. srecon20americas - Panel: Learning from Adaptations to Coronavirus - https://www.usenix.org/conference/srecon20americas/presentation/panel
+767. srecon20americas - Closing Remarks - https://www.usenix.org/conference/srecon20americas/presentation
+768. srecon20americas - It's a Trap! How Abstractions Have Failed Us. - https://www.usenix.org/conference/srecon20americas/presentation/henry
+769. srecon21 - "Don't Follow Leaders" or "All Models Are Wrong (and So Am I)" - https://www.usenix.org/conference/srecon21/presentation/murphy-plenary
+770. srecon21 - 10 Lessons Learned in 10 Years of SRE - https://www.usenix.org/conference/srecon21/presentation/spadaccini
+771. srecon21 - Let the Chaos Begin—SRE Chaos Engineering Meets Cybersecurity - https://www.usenix.org/conference/srecon21/presentation/sbaraglia
+772. srecon21 - What's the Cost of a Millisecond? - https://www.usenix.org/conference/srecon21/presentation/ish-shalom
+773. srecon21 - Spike Detection in Alert Correlation at LinkedIn - https://www.usenix.org/conference/srecon21/presentation/singh
+774. srecon21 - What To Do When SRE is Just a New Job Title? - https://www.usenix.org/conference/srecon21/presentation/buetikofer
+775. srecon21 - Capacity Management for Fun & Profit - https://www.usenix.org/conference/srecon21/presentation/fulton
+776. srecon21 - A Political Scientist's View on Site Reliability - https://www.usenix.org/conference/srecon21/presentation/krax
+777. srecon21 - Panel: Engineering Onboarding - https://www.usenix.org/conference/srecon21/presentation/panel-engineering-onboarding
+778. srecon21 - Sparking Joy for Engineers with Observability - https://www.usenix.org/conference/srecon21/presentation/delagrange
+779. srecon21 - Latency Distributions and Micro-Benchmarking to Identify and Characterize Kernel Hotspots - https://www.usenix.org/conference/srecon21/presentation/chen
+780. srecon21 - When Linux Memory Accounting Goes Wrong - https://www.usenix.org/conference/srecon21/presentation/ahammed
+781. srecon21 - Panel: Observability - https://www.usenix.org/conference/srecon21/presentation/panel-observability
+782. srecon21 - Rethinking the SDLC - https://www.usenix.org/conference/srecon21/presentation/freeman
+783. srecon21 - Elephant in the Blameless War Room—Accountability - https://www.usenix.org/conference/srecon21/presentation/tan
+784. srecon21 - How LinkedIn Performs Maintenances at Scale - https://www.usenix.org/conference/srecon21/presentation/vacher
+785. srecon21 - Take Me Down to the Paradise City Where the Metric Is Green and Traces Are Pretty - https://www.usenix.org/conference/srecon21/presentation/ferreira
+786. srecon21 - Need for SPEED: Site Performance Efficiency, Evaluation and Decision - https://www.usenix.org/conference/srecon21/presentation/chow
+787. srecon21 - SLX: An Extended SLO Framework to Expedite Incident Recovery - https://www.usenix.org/conference/srecon21/presentation/ding
+788. srecon21 - Watching the Watchers: Generating Absent Alerts for Prometheus - https://www.usenix.org/conference/srecon21/presentation/spain
+789. srecon21 - A Principled Approach to Monitoring Streaming Data Infrastructure at Scale - https://www.usenix.org/conference/srecon21/presentation/schow
+790. srecon21 - Let's Bring System Dynamics Back to CS! - https://www.usenix.org/conference/srecon21/presentation/bellotti
+791. srecon21 - From 15,000 Database Connections to under 100—A Tech Debt Tale - https://www.usenix.org/conference/srecon21/presentation/beatteay
+792. srecon21 - MySQL and InnoDB Performance for the Rest of Us - https://www.usenix.org/conference/srecon21/presentation/okeefe
+793. srecon21 - Cache Strategies with Best Practices - https://www.usenix.org/conference/srecon21/presentation/cai
+794. srecon21 - Trustworthy Graceful Degradation: Fault Tolerance across Service Boundaries - https://www.usenix.org/conference/srecon21/presentation/rodgers-prior
+795. srecon21 - Optimizing Cost and Performance with arm64 - https://www.usenix.org/conference/srecon21/presentation/fong-jones
+796. srecon21 - DevOps Ten Years After: Review of a Failure with John Allspaw and Paul Hammond - https://www.usenix.org/conference/srecon21/presentation/depierre-devops
+797. srecon21 - Grand National 2021: Managing Extreme Online Demand at William Hill - https://www.usenix.org/conference/srecon21/presentation/berridge
+798. srecon21 - Microservices above the Cloud—Designing the International Space Station for Reliability - https://www.usenix.org/conference/srecon21/presentation/barron
+799. srecon21 - Horizontal Data Freshness Monitoring in Complex Pipelines - https://www.usenix.org/conference/srecon21/presentation/skorikov
+800. srecon21 - How We Built Out Our SRE Department to Support over 100 Million Users for the World's 3rd Biggest Mobile Marketplace - https://www.usenix.org/conference/srecon21/presentation/oreilly
+801. srecon21 - You've Lost That Process Feeling: Some Lessons from Resilience Engineering - https://www.usenix.org/conference/srecon21/presentation/woods
+802. srecon21 - Scaling for a Pandemic: How We Keep Ahead of Demand for Google Meet during COVID-19 - https://www.usenix.org/conference/srecon21/presentation/schaevitz
+803. srecon21 - Ceci N'est Pas un CPU Load - https://www.usenix.org/conference/srecon21/presentation/depierre-cpu
+804. srecon21 - What If the Promise of AIOps Was True? - https://www.usenix.org/conference/srecon21/presentation/murphy-aiops
+805. srecon21 - Model Monitoring: Detecting and Analyzing Data Issues - https://www.usenix.org/conference/srecon21/presentation/melikyan
+806. srecon21 - Leveraging ML to Detect Application HotSpots [@scale, of Course!] - https://www.usenix.org/conference/srecon21/presentation/patel
+807. srecon21 - Demystifying Machine Learning in Production: Reasoning about a Large-Scale ML Platform - https://www.usenix.org/conference/srecon21/presentation/mcglohon
+808. srecon21 - Designing an Autonomous Workbench for Data Science on AWS - https://www.usenix.org/conference/srecon21/presentation/chawla
+809. srecon21 - Panel: OpML - https://www.usenix.org/conference/srecon21/presentation/panel-opml
+810. srecon21 - SRE for ML: The First 10 Years and the Next 10 - https://www.usenix.org/conference/srecon21/presentation/underwood-sre-ml
+811. srecon21 - When Systems Flatline—Enhancing Incident Response with Learnings from the Medical Field - https://www.usenix.org/conference/srecon21/presentation/butt
+812. srecon21 - Evolution of Incident Management at Slack - https://www.usenix.org/conference/srecon21/presentation/chapman
+813. srecon21 - Improving Observability in Your Observability: Simple Tips for SREs - https://www.usenix.org/conference/srecon21/presentation/shoop
+814. srecon21 - Hacking ML into Your Organization - https://www.usenix.org/conference/srecon21/presentation/chen-0
+815. srecon21 - Automating Performance Tuning with Machine Learning - https://www.usenix.org/conference/srecon21/presentation/doni
+816. srecon21 - Nothing to Recommend It: An Interactive ML Outage Fable - https://www.usenix.org/conference/srecon21/presentation/underwood-ml-outage
+817. srecon21 - Practical TLS Advice for Large Infrastructure - https://www.usenix.org/conference/srecon21/presentation/hahn
+818. srecon21 - User Uptime in Practice - https://www.usenix.org/conference/srecon21/presentation/mukherji
+819. srecon21 - Learning More from Complex Systems - https://www.usenix.org/conference/srecon21/presentation/hatch
+820. srecon21 - Of Mice & Elephants - https://www.usenix.org/conference/srecon21/presentation/lim
+821. srecon21 - Lessons Learned Using the Operator Pattern to Build a Kubernetes Platform - https://www.usenix.org/conference/srecon21/presentation/ratis
+822. srecon21 - Nine Questions to Build Great Infrastructure Automation Pipelines - https://www.usenix.org/conference/srecon21/presentation/hirschfeld
+823. srecon21 - Hard Problems We Handle in Incidents but Aren't Recognized - https://www.usenix.org/conference/srecon21/presentation/allspaw
+824. srecon21 - Experiments for SRE - https://www.usenix.org/conference/srecon21/presentation/ma
+825. srecon21 - Reliable Data Processing with Minimal Toil - https://www.usenix.org/conference/srecon21/presentation/coucke
+826. srecon21 - SRE "Power Words"—the Lexicon of SRE as an Industry - https://www.usenix.org/conference/srecon21/presentation/oconnor
+827. srecon21 - How Our SREs Safeguard Nanosecond Performance—at Scale—in an Environment Built to Fail - https://www.usenix.org/conference/srecon21/presentation/hawker
+828. srecon21 - Panel: Unsolved Problems in SRE - https://www.usenix.org/conference/srecon21/presentation/panel-unsolved-problems-sre
+829. srecon21 - Beyond Goldilocks Reliability - https://www.usenix.org/conference/srecon21/presentation/desai
+830. srecon21 - A Retrospective: Five Years Later, Was Chaos Engineering Worth It? - https://www.usenix.org/conference/srecon21/presentation/pawlikowski
+831. srecon21 - The Origins of USAA's Postmortem of the Week - https://www.usenix.org/conference/srecon21/presentation/newman
+832. srecon21 - Cache for Cash—Speeding Up Production with Kafka and MySQL binlog - https://www.usenix.org/conference/srecon21/presentation/luzon
+833. srecon21 - Taking Control of Metrics Growth and Cardinality: Tips for Maximizing Your Observability Function - https://www.usenix.org/conference/srecon21/presentation/skillington
+834. srecon21 - Games We Play to Improve Incident Response Effectiveness - https://www.usenix.org/conference/srecon21/presentation/king
+835. srecon21 - Food for Thought: What Restaurants Can Teach Us about Reliability - https://www.usenix.org/conference/srecon21/presentation/hidalgo
+836. srecon22americas - The 'Success' in SRE Is Silent - https://www.usenix.org/conference/srecon22americas/presentation/rosenthal
+837. srecon22americas - Building and Running a Diversity-focused Pre-internship Program for SRE - https://www.usenix.org/conference/srecon22americas/presentation/ryan
+838. srecon22americas - A Postmortem of SRE Interviewing - https://www.usenix.org/conference/srecon22americas/presentation/kehoe-interviewing
+839. srecon22americas - Self-Destructing Feature Flags - https://www.usenix.org/conference/srecon22americas/presentation/gaskins
+840. srecon22americas - Tales from the VOID: The Scary Truth about Incident Metrics - https://www.usenix.org/conference/srecon22americas/presentation/nash
+841. srecon22americas - How We Survived (and Thrived) During The Pandemic and Helped Millions of Students Learn Remotely - https://www.usenix.org/conference/srecon22americas/presentation/tripathi
+842. srecon22americas - The Pandemic and The Classroom—Enabling Education for Millions - https://www.usenix.org/conference/srecon22americas/presentation/selcuk
+843. srecon22americas - Applied Science Fiction: Operating a Research-Led Product - https://www.usenix.org/conference/srecon22americas/presentation/kantrowitz
+844. srecon22americas - Taking the 737 to the Max - https://www.usenix.org/conference/srecon22americas/presentation/means
+845. srecon22americas - Securing Your Software Delivery Chain with Process Auditing - https://www.usenix.org/conference/srecon22americas/presentation/mouton
+846. srecon22americas - The Future of above-the-line Tooling - https://www.usenix.org/conference/srecon22americas/presentation/cook
+847. srecon22americas - Tracing Bare Metal with OpenTelemetry - https://www.usenix.org/conference/srecon22americas/presentation/tobey
+848. srecon22americas - Are We There Yet? Metrics-Driven Prioritization for Your Reliability Roadmap - https://www.usenix.org/conference/srecon22americas/presentation/tan
+849. srecon22americas - SRE stands for...Skydiving Resilience Engineer - https://www.usenix.org/conference/srecon22americas/presentation/lei
+850. srecon22americas - Building a Path to the Future: Mentoring New SREs - https://www.usenix.org/conference/srecon22americas/presentation/blackwell
+851. srecon22americas - eBPF: The Next Power Tool of SREs - https://www.usenix.org/conference/srecon22americas/presentation/kehoe-ebpf
+852. srecon22americas - How the Metrics Backend Works at Datadog - https://www.usenix.org/conference/srecon22americas/presentation/mckaig
+853. srecon22americas - Disney Global SRE—Creating Digital Magic - https://www.usenix.org/conference/srecon22americas/presentation/cox
+854. srecon22americas - Automated Operating System and Environment Certification at LinkedIn—Reducing Toil and Increasing Velocity - https://www.usenix.org/conference/srecon22americas/presentation/debus
+855. srecon22americas - Triaging Real-time Security Threats with eBPF-powered Observability - https://www.usenix.org/conference/srecon22americas/presentation/kim
+856. srecon22americas - Exemplars in Practice: Finding the Needle in Your Observability Haystack - https://www.usenix.org/conference/srecon22americas/presentation/cullen
+857. srecon22americas - Dark Sky Camping: Reducing Alert Pollution with Modern Observability Practices - https://www.usenix.org/conference/srecon22americas/presentation/smith
+858. srecon22americas - Ten-year Journey to 10,000 Production Machines - https://www.usenix.org/conference/srecon22americas/presentation/hirschfeld
+859. srecon22americas - Beyond Distributed Tracing - https://www.usenix.org/conference/srecon22americas/presentation/lee
+860. srecon22americas - History-based Latency Prober Tuning - https://www.usenix.org/conference/srecon22americas/presentation/borwey
+861. srecon22americas - Using Serverless Functions for Real-time Observability - https://www.usenix.org/conference/srecon22americas/presentation/fong-jones
+862. srecon22americas - Improving How We Observe Our Observability Data: Techniques for SREs - https://www.usenix.org/conference/srecon22americas/presentation/shoop
+863. srecon22americas - Principled Performance Analytics - https://www.usenix.org/conference/srecon22americas/presentation/desai
+864. srecon22americas - Modeling Alert Quality - https://www.usenix.org/conference/srecon22americas/presentation/zadka
+865. srecon22americas - Emergent Organizational Failure: Five Disconnections - https://www.usenix.org/conference/srecon22americas/presentation/toia
+866. srecon22americas - DO, RE, Me: Measuring the Effectiveness of Site Reliability Engineering - https://www.usenix.org/conference/srecon22americas/presentation/stanke
+867. srecon22americas - The Scientific Method for Resilience - https://www.usenix.org/conference/srecon22americas/presentation/yakomin
+868. srecon22americas - A Fresh Look at Operational Debt - https://www.usenix.org/conference/srecon22americas/presentation/owczarek
+869. srecon22emea - Knowledge and Power: A Sociotechnical Systems Discussion on the Future of SRE - https://www.usenix.org/conference/srecon22emea/presentation/maguire
+870. srecon22emea - SRE as She Is Spoke - https://www.usenix.org/conference/srecon22emea/presentation/shafer
+871. srecon22emea - Oncall: An Equal Opportunity Waste of Time - https://www.usenix.org/conference/srecon22emea/presentation/oconnor
+872. srecon22emea - Financial Regulators Worldwide Are Getting the Legal Right to Regulate the Operational Resilience of Big Cloud Service Providers - https://www.usenix.org/conference/srecon22emea/presentation/ellam
+873. srecon22emea - Statistics for Engineers - https://www.usenix.org/conference/srecon22emea/presentation/hartmann
+874. srecon22emea - Measuring Reliability: What Got Us Here Won't Get Us There - https://www.usenix.org/conference/srecon22emea/presentation/davidovic
+875. srecon22emea - Crayon Drawing Is a Vital Engineering Skill - https://www.usenix.org/conference/srecon22emea/presentation/suriar-crayon
+876. srecon22emea - Building Dynamic Configuration into Terraform - https://www.usenix.org/conference/srecon22emea/presentation/miller
+877. srecon22emea - Hunting for Risky Dependencies in the World of Microservices - https://www.usenix.org/conference/srecon22emea/presentation/klein
+878. srecon22emea - How We Implemented High Throughput Logging at Spotify - https://www.usenix.org/conference/srecon22emea/presentation/muhlhauser
+879. srecon22emea - Engineering for Sustainability - https://www.usenix.org/conference/srecon22emea/presentation/namrata
+880. srecon22emea - SLOs, SREs, and GHGs - https://www.usenix.org/conference/srecon22emea/presentation/johnson
+881. srecon22emea - The Biases Confronting SREs - https://www.usenix.org/conference/srecon22emea/presentation/owczarek
+882. srecon22emea - Market Data: Applying SRE Techniques to Legacy Designs - https://www.usenix.org/conference/srecon22emea/presentation/brighton
+883. srecon22emea - Life after The Chocolate Factory - https://www.usenix.org/conference/srecon22emea/presentation/suriar-chocolate
+884. srecon22emea - Is Our Team as Resilient as Our Systems? - https://www.usenix.org/conference/srecon22emea/presentation/mouzeli
+885. srecon22emea - What SRE Could Be: Systems Reliability Engineering - https://www.usenix.org/conference/srecon22emea/presentation/nolan-sre
+886. srecon22emea - Diamonds with Flaws: Examining the Pressures, Realities, and Future of Site Reliability Engineering - https://www.usenix.org/conference/srecon22emea/presentation/hidalgo
+887. srecon22emea - How We Drained Every Backbone Router Simultaneously - https://www.usenix.org/conference/srecon22emea/presentation/janardhan
+888. srecon22emea - Break Free of the Template: Incident Writeups They Want to Read - https://www.usenix.org/conference/srecon22emea/presentation/nolan-break
+889. srecon22emea - Making the Impossible Impossible: Improving Reliability by Preventing Classes of Problems - https://www.usenix.org/conference/srecon22emea/presentation/sinjakli
+890. srecon22emea - Deep Dive: Azure Resource Manager Outage - https://www.usenix.org/conference/srecon22emea/presentation/pannell
+891. srecon22emea - Commas Save Lives, or at Least LinkedIn - https://www.usenix.org/conference/srecon22emea/presentation/palino
+892. srecon22emea - Passing the Torch - Building a New Grad Program to Mentor the Next Generation of SRE - https://www.usenix.org/conference/srecon22emea/presentation/stankaitis
+893. srecon22emea - Going from 30 to 30 Million SLOs - https://www.usenix.org/conference/srecon22emea/presentation/palcuie
+894. srecon22emea - Disaster Recovery Testing at Booking.com - https://www.usenix.org/conference/srecon22emea/presentation/fouquet
+895. srecon22emea - Slack's DNSSEC Rollout: Third Time's the Outage - https://www.usenix.org/conference/srecon22emea/presentation/elvira
+896. srecon22emea - Meatbag Systems: How Our Reliability Culture & Practice Evolved over Time - https://www.usenix.org/conference/srecon22emea/presentation/howden
+897. srecon22emea - Principled Identification of "Root Causes" Using Techniques from Safety Engineering - https://www.usenix.org/conference/srecon22emea/presentation/devesine
+898. srecon22emea - A Case Study in Chaos Testing: Uncovering Kernel Scaling Issues - https://www.usenix.org/conference/srecon22emea/presentation/liku
+899. srecon22emea - A Better Way to Manage Command Line Tools: What We Learned from the Desktop Software Industry to Improve Command Line Application Development - https://www.usenix.org/conference/srecon22emea/presentation/hou
+900. srecon22emea - Honey, I Broke the Things: Debugging Gray Failures in Production! - https://www.usenix.org/conference/srecon22emea/presentation/kumari
+901. srecon22emea - The Repeat Incident Fallacy: What Jurassic Park Can Teach Us about Incidents - https://www.usenix.org/conference/srecon22emea/presentation/ruppe
+902. srecon22emea - SRE in Enterprise - https://www.usenix.org/conference/srecon22emea/presentation/mcghee
+903. srecon22emea - Unified Theory of SRE - https://www.usenix.org/conference/srecon22emea/presentation/stolarsky
+904. srecon22emea - Dissecting the Humble LSM Tree and SSTable - https://www.usenix.org/conference/srecon22emea/presentation/patel
+905. srecon22emea - Caching Entire Systems without Invalidation - https://www.usenix.org/conference/srecon22emea/presentation/sperl
+906. srecon22emea - Over Nine Billion Dollars of SRE Lessons - the James Webb Space Telescope - https://www.usenix.org/conference/srecon22emea/presentation/barron
+907. srecon22emea - Emotional Disaster Recovery: Debugging the Self with Effective Monitoring - https://www.usenix.org/conference/srecon22emea/presentation/hansen
+908. srecon22emea - An SRE Guide to Linux Kernel Upgrades - https://www.usenix.org/conference/srecon22emea/presentation/korchagin
+909. srecon22emea - The Math of Scalability - https://www.usenix.org/conference/srecon22emea/presentation/ish-shalom
+910. srecon22emea - Rock Fishing and Incident Analysis: Increasing Insight - https://www.usenix.org/conference/srecon22emea/presentation/wood
+911. srecon22emea - How Can SRE Help Security Governance? Sub-title: How to Unstuck GRC with SRE - https://www.usenix.org/conference/srecon22emea/presentation/platt
+912. srecon22emea - Schema-First Application Telemetry - https://www.usenix.org/conference/srecon22emea/presentation/shkuro
+913. srecon22emea - Navigating in the Dark - https://www.usenix.org/conference/srecon22emea/presentation/cohen
+914. srecon22emea - SRE Is Weird, Down the Stack - https://www.usenix.org/conference/srecon22emea/presentation/looney
+915. srecon22emea - SRE and ML: Why It Matters - https://www.usenix.org/conference/srecon22emea/presentation/underwood
+916. srecon22apac - Computing Performance 2022: What's on the Horizon - https://www.usenix.org/conference/srecon22apac/presentation/gregg
+917. srecon22apac - Move Fast and Learn Things: Principles of Cognition, Teaming, and Coordination to Support High Performance and Resilient Site Reliability Engineering - https://www.usenix.org/conference/srecon22apac/presentation/maguire
+918. srecon22apac - How to Not Destroy Your Production Kubernetes Clusters - https://www.usenix.org/conference/srecon22apac/presentation/ding
+919. srecon22apac - The Math behind the Incident Aftermath: A Practical Guide to Measuring Incident Impacts - https://www.usenix.org/conference/srecon22apac/presentation/patel
+920. srecon22apac - OpenTelemetry and Observability: What, Why, and Why Now? - https://www.usenix.org/conference/srecon22apac/presentation/leffler
+921. srecon22apac - Principles of Safety and Reliability Learned from US Navy Landing Signal Officers - https://www.usenix.org/conference/srecon22apac/presentation/brahms
+922. srecon22apac - Infra Eng to Staff SRE: A Tale of Developing Yourself in an Ever Evolving Industry - https://www.usenix.org/conference/srecon22apac/presentation/belliveau
+923. srecon22apac - Lifecycle of a Sample in the Prometheus TSDB - https://www.usenix.org/conference/srecon22apac/presentation/vernekar
+924. srecon22apac - Metrics Stream Processing Using Riemann - https://www.usenix.org/conference/srecon22apac/presentation/chhetri
+925. srecon22apac - Lifecycle of Reusable Automations: Track, Maintain, Deprecate - https://www.usenix.org/conference/srecon22apac/presentation/fernandes
+926. srecon22apac - Dashboards and Runbooks: Scrapbooking for Engineers - https://www.usenix.org/conference/srecon22apac/presentation/douch
+927. srecon22apac - Observability Is Not Analytics! - https://www.usenix.org/conference/srecon22apac/presentation/cowie
+928. srecon22apac - Lessons Learned Building a Global Synthetic Monitoring System - https://www.usenix.org/conference/srecon22apac/presentation/sidh
+929. srecon22apac - Sustaining Everything, Everywhere, All at Once! - https://www.usenix.org/conference/srecon22apac/presentation/meng
+930. srecon22apac - Introducing the Reliability Map – r9y.dev - https://www.usenix.org/conference/srecon22apac/presentation/bowden
+931. srecon22apac - Chaos Engineering at Scale - https://www.usenix.org/conference/srecon22apac/presentation/reddy
+932. srecon22apac - The Multi Layered Cake of Resilience - https://www.usenix.org/conference/srecon22apac/presentation/chop
+933. srecon22apac - Capacity vs Efficiency: Building a Globally Scalable Cloud Database - https://www.usenix.org/conference/srecon22apac/presentation/marshall
+934. srecon22apac - Improving Observability, Reliability, and Security of Relational Database Ecosystem - https://www.usenix.org/conference/srecon22apac/presentation/ganesh
+935. srecon22apac - Improving Machine Learning Development Reliability - https://www.usenix.org/conference/srecon22apac/presentation/hansen
+936. srecon22apac - How Can We Make Data Integrity Easy? - https://www.usenix.org/conference/srecon22apac/presentation/ratnapala
+937. srecon22apac - Real-Time Adaptive Controls for Resilient Distributed Systems - https://www.usenix.org/conference/srecon22apac/presentation/yedidi
+938. srecon22apac - Cognitive and Self-Adaptive System for Effective Distributed-Tracing in Applications - https://www.usenix.org/conference/srecon22apac/presentation/panigrahi
+939. srecon22apac - Site Reliability Evangelism: Practice Start-up within an Established Web-Presence - https://www.usenix.org/conference/srecon22apac/presentation/chamberlain
+940. srecon22apac - Deploying Humans at the Edge of SRE - https://www.usenix.org/conference/srecon22apac/presentation/peuker
+941. srecon22apac - Challenges, Best Practices, and Solutions for Monitoring and Alerting with Big Data - https://www.usenix.org/conference/srecon22apac/presentation/odea
+942. srecon22apac - A Better Way to Manage Stateful Systems: Design for Observability and Robust Deployment - https://www.usenix.org/conference/srecon22apac/presentation/higashiguchi
+943. srecon22apac - Reliability Reviews in the Wild: Using Data to Drive Production Health - https://www.usenix.org/conference/srecon22apac/presentation/nilakant
+944. srecon22apac - Leveraging Continuous Production Profiling for Providing Insights into Service Performance - https://www.usenix.org/conference/srecon22apac/presentation/badhwar
+945. srecon22apac - Applying SRE Principles to CI/CD - https://www.usenix.org/conference/srecon22apac/presentation/kaulfuss
+946. srecon22apac - Gremlins Exposed: Shining a Light on Mischievous Systems - https://www.usenix.org/conference/srecon22apac/presentation/cuthbert
+947. srecon22apac - Burnout at Scale: What to Try When You Just Can't - https://www.usenix.org/conference/srecon22apac/presentation/eckhardt
+948. srecon22apac - Backend API Design for SREs - https://www.usenix.org/conference/srecon22apac/presentation/dunster
+949. srecon22apac - Online Database Reliability, Performance, and Consistency Engineering - https://www.usenix.org/conference/srecon22apac/presentation/matsunobu
+950. srecon22apac - Migrating Datastores - https://www.usenix.org/conference/srecon22apac/presentation/bradbury
+951. srecon22apac - Our Experience Tracking and Driving SLO Adoption at Goldman Sachs - https://www.usenix.org/conference/srecon22apac/presentation/li
+952. srecon22apac - Operationalizing ML Training Infra at Meta Scale - https://www.usenix.org/conference/srecon22apac/presentation/bharuka
+953. srecon22apac - Advanced Linux Kernel Networking Monitoring - https://www.usenix.org/conference/srecon22apac/presentation/jiang
+954. srecon22apac - Using the Internet as Your Load-Balancer - https://www.usenix.org/conference/srecon22apac/presentation/barry
+955. srecon22apac - A Post Incident Review Review - https://www.usenix.org/conference/srecon22apac/presentation/partington
+956. srecon23americas - The Endgame of SRE - https://www.usenix.org/conference/srecon23americas/presentation/tobey
+957. srecon23americas - SRE's Critical Role in the COVID-19 Pandemic Response in Government - https://www.usenix.org/conference/srecon23americas/presentation/quispe
+958. srecon23americas - We're Still Down: A Metastable Failure Tale - https://www.usenix.org/conference/srecon23americas/presentation/lexmond
+959. srecon23americas - Watering the Roots of Resilience: Learning from Failure with Decision Trees - https://www.usenix.org/conference/srecon23americas/presentation/shortridge
+960. srecon23americas - Scaling Telemetry Systems with Streaming - https://www.usenix.org/conference/srecon23americas/presentation/fong-jones
+961. srecon23americas - Hacking the Pachyderm: Scaling Servers and People - https://www.usenix.org/conference/srecon23americas/presentation/weakly
+962. srecon23americas - Logs Told Us It Was DNS, It Looked like DNS, It Had to Be DNS, It Wasn't DNS - https://www.usenix.org/conference/srecon23americas/presentation/malla
+963. srecon23americas - Epic Incidents of History: The 1979 NORAD Nuclear Near Miss - https://www.usenix.org/conference/srecon23americas/presentation/travaglini
+964. srecon23americas - Scaling Terraform at ThousandEyes - https://www.usenix.org/conference/srecon23americas/presentation/bejarano
+965. srecon23americas - OpenTelemetry Metrics 101 - https://www.usenix.org/conference/srecon23americas/presentation/lee
+966. srecon23americas - Next Generation Delivery Working Group - https://www.usenix.org/conference/srecon23americas/presentation/working-group
+967. srecon23americas - Incident Commanders to Incident Analysts: How We Got Here - https://www.usenix.org/conference/srecon23americas/presentation/granda
+968. srecon23americas - Handover Communications in Software Operations: Findings from the Field - https://www.usenix.org/conference/srecon23americas/presentation/todd
+969. srecon23americas - On the Wings of SREs; J.P. Morgan's Journey into the Cloud - https://www.usenix.org/conference/srecon23americas/presentation/moyer
+970. srecon23americas - SRE in Transition: From Startup to Established Business - https://www.usenix.org/conference/srecon23americas/presentation/devesine
+971. srecon23americas - Lessons Learned from 7 Years of Running Developer Platforms - https://www.usenix.org/conference/srecon23americas/presentation/mcculley
+972. srecon23americas - Next Generation Delivery Working Group - https://www.usenix.org/conference/srecon23americas/presentation/working-group
+973. srecon23americas - Cognitive Apprenticeship in Practice with Alert Triage Hour of Power - https://www.usenix.org/conference/srecon23americas/presentation/cruz
+974. srecon23americas - Building a Diverse SRE Talent Pipeline - https://www.usenix.org/conference/srecon23americas/presentation/virji
+975. srecon23americas - The Best SREs Seem to Be the Ones without an SRE Title—And What We Can Do about It? - https://www.usenix.org/conference/srecon23americas/presentation/jalleda
+976. srecon23americas - What Does "High Priority" Mean? The Secret to Happy Queues - https://www.usenix.org/conference/srecon23americas/presentation/magliola
+977. srecon23americas - Confessions of an SRE Manager - https://www.usenix.org/conference/srecon23americas/presentation/hatch
+978. srecon23americas - Exploring Disconnects between Reliability Practitioners and Management/Executives - https://www.usenix.org/conference/srecon23americas/presentation/andersen
+979. srecon23americas - Beacon: Intelligent Latency-Aware and Load Shedding Service Routing - https://www.usenix.org/conference/srecon23americas/presentation/griggs
+980. srecon23americas - Resiliency Practices in Managing CDN (Content Delivery Network) - https://www.usenix.org/conference/srecon23americas/presentation/jayaraman
+981. srecon23americas - Why This Stuff Is Hard - https://www.usenix.org/conference/srecon23americas/presentation/hochstein
+982. srecon23americas - Turning an Incident Report into a Design Issue with TLA+ - https://www.usenix.org/conference/srecon23americas/presentation/hackett
+983. srecon23americas - The Making of an Ultra Low Latency Trading System with Go and Java - https://www.usenix.org/conference/srecon23americas/presentation/sun
+984. srecon23americas - Seeing the Invisible: Two Years at Wikipedia with W3C's Network Error Logging - https://www.usenix.org/conference/srecon23americas/presentation/danis
+985. srecon23americas - Avoiding Cachepocalypse in the Land of the Monolith - https://www.usenix.org/conference/srecon23americas/presentation/amin
+986. srecon23americas - Incident Archaeology: Extracting Value from Paperwork and Narratives - https://www.usenix.org/conference/srecon23americas/presentation/byrum
+987. srecon23americas - An Organizational Response to Incidents: Designing for Smooth Coordination in High Tempo, Large Scale Software Incident Response - https://www.usenix.org/conference/srecon23americas/presentation/maguire
+988. srecon23americas - Building an APM with OpenTelemetry and OpenSource - https://www.usenix.org/conference/srecon23americas/presentation/veeramachaneni
+989. srecon23americas - Measuring Real-Life Latency of the Internet: A Netflix Story - https://www.usenix.org/conference/srecon23americas/presentation/ortiz
+990. srecon23americas - Founder/CTO Perspectives: The Future of Distributed Tracing - https://www.usenix.org/conference/srecon23americas/presentation/majors
+991. srecon23americas - Human Observability of Incident Response - https://www.usenix.org/conference/srecon23americas/presentation/davis
+992. srecon23americas - Far from the Shallows: The Value of Deeper Incident Analysis - https://www.usenix.org/conference/srecon23americas/presentation/nash
+993. srecon23americas - How SRE Makes Electric Vehicles - https://www.usenix.org/conference/srecon23americas/presentation/shake
+994. srecon23americas - Warding against the Dark Arts: Crafting a Defense Strategy against Botnet DDoS Attacks - https://www.usenix.org/conference/srecon23americas/presentation/sharma
+995. srecon23americas - The Revolution Will Not Be Terraformed: SRE and the Anarchist Style - https://www.usenix.org/conference/srecon23americas/presentation/parker
+996. srecon23americas - Implementing SRE in a Regulated Environment - https://www.usenix.org/conference/srecon23americas/presentation/hooda
+997. srecon23americas - Financial Resiliency Engineering: Taming Cloud Costs - https://www.usenix.org/conference/srecon23americas/presentation/worrall
+998. srecon23americas - Sto: A Better Way to Store and Query Profiler Data - https://www.usenix.org/conference/srecon23americas/presentation/somaru
+999. srecon23americas - Chaos-Driven Development: TDD for Distributed Systems - https://www.usenix.org/conference/srecon23americas/presentation/amaranath
+1000. srecon23americas - Adaptive Concurrency Control for Mixed Analytical Workloads - https://www.usenix.org/conference/srecon23americas/presentation/kleiman
+1001. srecon23americas - If I Can Do It on an Ambulance, You Can Do It in an Office: Scalable Incident Response Using ICS - https://www.usenix.org/conference/srecon23americas/presentation/wood
+1002. srecon23americas - Tired Reacting to Certificate Outages? Build Certificate Resilient Distributed Systems Using Chaos Engineering Practices - https://www.usenix.org/conference/srecon23americas/presentation/yang
+1003. srecon23americas - How To Take Prometheus Planet Scale: Massively Large Scale Metrics Installations - https://www.usenix.org/conference/srecon23americas/presentation/samuel
+1004. srecon23americas - Your Infrastructure Needs to D.I.E. - https://www.usenix.org/conference/srecon23americas/presentation/mamo
+1005. srecon23americas - Not All Minutes Are Equal: The Secret behind SLO Adoption Failure - https://www.usenix.org/conference/srecon23americas/presentation/goins
+1006. srecon23americas - Hell Is Other Platforms - https://www.usenix.org/conference/srecon23americas/presentation/hidalgo
+1007. srecon23apac - How the Sony PlayStation Network Does SRE - https://www.usenix.org/conference/srecon23apac/presentation/yu
+1008. srecon23apac - Unleashing Generative AI: Improving Developer Productivity in SRE - https://www.usenix.org/conference/srecon23apac/presentation/hooda_ai
+1009. srecon23apac - Patterns, Not Categories: Learning Across Incidents - https://www.usenix.org/conference/srecon23apac/presentation/lund_patterns
+1010. srecon23apac - Observability in the MLOps Lifecycle with Prometheus - https://www.usenix.org/conference/srecon23apac/presentation/lamba
+1011. srecon23apac - Towards Zero Carbon: Implementing Sustainable Battery Lifecycle Management in Data Centers - https://www.usenix.org/conference/srecon23apac/presentation/meng-zero
+1012. srecon23apac - Leveraging Analytics for Technical Efficiency and Enhanced User Experience - https://www.usenix.org/conference/srecon23apac/presentation/talk-tba
+1013. srecon23apac - LiveMLP: ML Platform for Assisting Contact Center Agents in Real-Time - https://www.usenix.org/conference/srecon23apac/presentation/sachdeva
+1014. srecon23apac - How Safe Is Your Domain? - https://www.usenix.org/conference/srecon23apac/presentation/kehoe-safe
+1015. srecon23apac - From Push to Pull: Managing Mutable Infrastructure at a Global Scale - https://www.usenix.org/conference/srecon23apac/presentation/mooneyham
+1016. srecon23apac - Autonomous Automation: How Cloudflare Handles Server Diagnostics and Recovery at Scale - https://www.usenix.org/conference/srecon23apac/presentation/mariscal
+1017. srecon23apac - Real World Debugging with eBPF - https://www.usenix.org/conference/srecon23apac/presentation/liang
+1018. srecon23apac - An SRE Guide to Linux Kernel Upgrades - https://www.usenix.org/conference/srecon23apac/presentation/korchagin-guide
+1019. srecon23apac - Taming Spiky Log Volumes: Maintaining Real-Time Log Accessibility with Kaldb - https://www.usenix.org/conference/srecon23apac/presentation/karumuri
+1020. srecon23apac - Better Observability with No Code Changes - https://www.usenix.org/conference/srecon23apac/presentation/benson
+1021. srecon23apac - The Secret Weapon for a Successful SRE Career - And It's Not What You Think! - https://www.usenix.org/conference/srecon23apac/presentation/mundy
+1022. srecon23apac - SRE Engagement Model Transition in Building and Expanding SRE Team - https://www.usenix.org/conference/srecon23apac/presentation/sasano
+1023. srecon23apac - Untangling the Tangled Cloud - https://www.usenix.org/conference/srecon23apac/presentation/fox
+1024. srecon23apac - Functional Resonance Analysis: Diagramming Your System - https://www.usenix.org/conference/srecon23apac/presentation/lund_resonance
+1025. srecon23apac - Start Small, Scale Big: Building and Scaling Platforms and SRE Culture at Startups - https://www.usenix.org/conference/srecon23apac/presentation/srivastava
+1026. srecon23apac - Cultivating Accountability and Resilience - https://www.usenix.org/conference/srecon23apac/presentation/hooda_cultivating
+1027. srecon23apac - Finding the Needle in the Haystack: Predicting Storage Device Failures in Data Centers - https://www.usenix.org/conference/srecon23apac/presentation/meng-needle
+1028. srecon23apac - Lessons Learned Running GKE Clusters on Spot Instances. - https://www.usenix.org/conference/srecon23apac/presentation/mirensky
+1029. srecon23apac - Are We All on the Same Page? Let's Fix That - https://www.usenix.org/conference/srecon23apac/presentation/mineiro
+1030. srecon23apac - Humane On-call - https://www.usenix.org/conference/srecon23apac/presentation/barry
+1031. srecon23apac - Giving Away Your Secrets: Opening Metrics Up to Users - https://www.usenix.org/conference/srecon23apac/presentation/ananiadis
+1032. srecon23apac - From "Keeping the Lights On" to "Designing the LEDs": A Detailed Review of Our Journey Transforming 500+ Engineers - https://www.usenix.org/conference/srecon23apac/presentation/hamilton
+1033. srecon23apac - Fighting Financial Crimes as an SRE - https://www.usenix.org/conference/srecon23apac/presentation/manoharan
+1034. srecon23apac - Beyond Observability - Aligning Technology Performance to Business Outcomes - https://www.usenix.org/conference/srecon23apac/presentation/townshend
+1035. srecon23apac - What Is Linux Kernel Keystore and Why You Should Use It in Your Next Application - https://www.usenix.org/conference/srecon23apac/presentation/korchagin
+1036. srecon23apac - Multicloud and the Chamber of Secrets - https://www.usenix.org/conference/srecon23apac/presentation/kehoe-multicloud
+1037. srecon23apac - Hold My Beer - Load Testing. In Production. On Autopilot. - https://www.usenix.org/conference/srecon23apac/presentation/antonenko
+1038. srecon23apac - Performance Testing in Keptn Using K6 - https://www.usenix.org/conference/srecon23apac/presentation/shah
+1039. srecon23apac - Mastering Chaos: Achieving Fault Tolerance with Observability-Driven Prioritized Load Shedding - https://www.usenix.org/conference/srecon23apac/presentation/gill
+1040. srecon23apac - Distributed Tracing: Adaptive and Telemetry-Based Approach for Effective Monitoring of Any Modern Application Stack - https://www.usenix.org/conference/srecon23apac/presentation/panigrahi
+1041. srecon23apac - Challenges of Managing Real-Time Financial Market Data Storage - https://www.usenix.org/conference/srecon23apac/presentation/kasichayanula
+1042. srecon23apac - Transformation Journey of E2E Customer Flow Testing to Proactive Synthetic Monitoring System - https://www.usenix.org/conference/srecon23apac/presentation/jayaraman
+1043. srecon23apac - The Only Constant Is Change: Lessons from a 25 Year SRE Career - https://www.usenix.org/conference/srecon23apac/presentation/ryan
+1044. srecon23emea - eBPF Superpowers for SRE - https://www.usenix.org/conference/srecon23emea/presentation/rice
+1045. srecon23emea - Building a 5-Exaflop Supercomputer for Meta-AI Research and Supporting Large-Scale Model Training with a Small Distributed Software and Production Engineering Team - https://www.usenix.org/conference/srecon23emea/presentation/saladi
+1046. srecon23emea - From Sysadmins to (almost) Flying Unicorns - https://www.usenix.org/conference/srecon23emea/presentation/herail
+1047. srecon23emea - Implementing SRE in a Telco with Reliability Enhancing Procedures - https://www.usenix.org/conference/srecon23emea/presentation/kammermann
+1048. srecon23emea - Symptom-based Alerting for Machine Learning - What I Learned from Monitoring More than 30 Machine Learning Use Cases - https://www.usenix.org/conference/srecon23emea/presentation/weichbrodt
+1049. srecon23emea - Reliable Data for Large ML Models: Principles and Practices - https://www.usenix.org/conference/srecon23emea/presentation/mcglohon
+1050. srecon23emea - New Grads Becoming New SREs: Catalyzing a “Circle of Life” in Ireland - https://www.usenix.org/conference/srecon23emea/presentation/petoff
+1051. srecon23emea - Scale Your Future: An Immersive Engineering Programme - https://www.usenix.org/conference/srecon23emea/presentation/kumari
+1052. srecon23emea - Over, Under, Around, and Through: A Detailed Comparison of QUIC and HTTP/3 Application Mapping vs. Protocol Encapsulation - https://www.usenix.org/conference/srecon23emea/presentation/pardue
+1053. srecon23emea - Deploying and Debugging HTTP/3 - https://www.usenix.org/conference/srecon23emea/presentation/marx
+1054. srecon23emea - The Engineer/Manager Pendulum Goes Mainstream - https://www.usenix.org/conference/srecon23emea/presentation/majors
+1055. srecon23emea - Panel Discussion: Layoffs in Tech and The Day After - https://www.usenix.org/conference/srecon23emea/presentation/panel-layoffs
+1056. srecon23emea - Do Not Thrash the Node.js Event Loop - https://www.usenix.org/conference/srecon23emea/presentation/collina
+1057. srecon23emea - Scaling Chef Emotionally - https://www.usenix.org/conference/srecon23emea/presentation/pemberton
+1058. srecon23emea - SRE for [cyber]security - https://www.usenix.org/conference/srecon23emea/presentation/fischbach
+1059. srecon23emea - Cloud, Kubernetes, and Service Networking - Taming the Turtles - https://www.usenix.org/conference/srecon23emea/presentation/turner
+1060. srecon23emea - Designing Matrix: A Global Decentralised End-to-End Encrypted Communication Network - https://www.usenix.org/conference/srecon23emea/presentation/hodgson
+1061. srecon23emea - Tracing the Journey into Distributed Tracing - https://www.usenix.org/conference/srecon23emea/presentation/alves
+1062. srecon23emea - The World Blew Up but We’re All Okay: How We Managed a Massive-scale Incident at Datadog - https://www.usenix.org/conference/srecon23emea/presentation/de-vesine
+1063. srecon23emea - When One Line Took Thousands of Websites Offline - https://www.usenix.org/conference/srecon23emea/presentation/barros
+1064. srecon23emea - HTTP Headers that Make Your Website Go Faster - https://www.usenix.org/conference/srecon23emea/presentation/feryn
+1065. srecon23emea - Cache Me If You Can: How Grafana Labs Scaled Up Their Memcached 42x & Improved Reliability - https://www.usenix.org/conference/srecon23emea/presentation/kopping
+1066. srecon23emea - Workshop: Statistics for Engineers - https://www.usenix.org/conference/srecon23emea/presentation/hartmann
+1067. srecon23emea - Embracing the Multi-Party Dilemma: Incident Response Across Company Boundaries - https://www.usenix.org/conference/srecon23emea/presentation/butt
+1068. srecon23emea - The Incident Is The Way: Using Your Incidents to Win Reliability Investment - https://www.usenix.org/conference/srecon23emea/presentation/mccarthy
+1069. srecon23emea - That Time I Accidentally DDoS'd My Company - https://www.usenix.org/conference/srecon23emea/presentation/bongardino
+1070. srecon23emea - Artificial Intelligence: How Much Will It Cost You? - https://www.usenix.org/conference/srecon23emea/presentation/underwood
+1071. srecon23emea - Just the Cryptography You Need to Know for TLS - https://www.usenix.org/conference/srecon23emea/presentation/ekmekcioglu
+1072. srecon23emea - You Depend on DNS, This Is How It Works and You Won't Believe It - https://www.usenix.org/conference/srecon23emea/presentation/rowlands
+1073. srecon23emea - Speedrun through Splicing Sockets with Sockmap - https://www.usenix.org/conference/srecon23emea/presentation/sitnicki
+1074. srecon23emea - Sandboxing in Linux with Zero Lines of Code - https://www.usenix.org/conference/srecon23emea/presentation/korchagin
+1075. srecon23emea - 9 Things You Should Do When Starting to Use SLOs - https://www.usenix.org/conference/srecon23emea/presentation/furino
+1076. srecon23emea - Silent Spring: What if the GDPR Was Real? - https://www.usenix.org/conference/srecon23emea/presentation/looney
+1077. srecon23emea - From Exceptional Maintenance to Automated Routine Operation: A Story of the Datacenter Switchover for Wikipedia - https://www.usenix.org/conference/srecon23emea/presentation/lavagetto
+1078. srecon23emea - Panel Discussion: Unraveling the Interoperability Challenges Among SaaS Products - https://www.usenix.org/conference/srecon23emea/presentation/panel-saas
+1079. srecon23emea - Improving Kafka Resilience - Gray Failures Mitigation - https://www.usenix.org/conference/srecon23emea/presentation/valentinova
+1080. srecon23emea - Panel Discussion: Open-source Development as a Full-time Pursuit - https://www.usenix.org/conference/srecon23emea/presentation/panel-open-source
+1081. srecon23emea - Should I Use OTel (collectors), or Is Prometheus Good Enough? - https://www.usenix.org/conference/srecon23emea/presentation/fekete
+1082. srecon23emea - Implementing Open-source Observability within Maersk - https://www.usenix.org/conference/srecon23emea/presentation/nederhoed
+1083. srecon23emea - Journey from Fluent Bit, Fluentd and Prometheus to OpenTelemetry Collector - Lessons Learned - https://www.usenix.org/conference/srecon23emea/presentation/stozek
+1084. srecon23emea - Level 7 Egress Control in Kubernetes: Current Solutions, Future Standards - https://www.usenix.org/conference/srecon23emea/presentation/fox
+1085. srecon23emea - Leveraging Unikernels and Kubernetes to (Transparently) Double Cloud Workload Performance - https://www.usenix.org/conference/srecon23emea/presentation/huici
+1086. srecon23emea - Monoceros: Faster and Predictable Services through In-pod Load-balancing - https://www.usenix.org/conference/srecon23emea/presentation/nanopoulos
+1087. srecon23emea - Continuous Profiling in the Cloud-Native era - https://www.usenix.org/conference/srecon23emea/presentation/loibl
+1088. srecon23emea - How to Use Prometheus's Native Histograms - https://www.usenix.org/conference/srecon23emea/presentation/rabenstein
+1089. srecon23emea - Overcoming Challenges in Serving Large Language Models - https://www.usenix.org/conference/srecon23emea/presentation/papapanagiotou
+1090. srecon23emea - The Value of Reliability - https://www.usenix.org/conference/srecon23emea/presentation/murphy
+1091. srecon23emea - A Dual Approach to Accountability Engineering - https://www.usenix.org/conference/srecon23emea/presentation/sandoval
+1092. srecon23emea - Succeeding as the Lone SRE in a Small Team - https://www.usenix.org/conference/srecon23emea/presentation/kirchmeier
+1093. srecon23emea - Deconstructing an Abstraction to Reconstruct an Outage - https://www.usenix.org/conference/srecon23emea/presentation/sinjakli
+1094. srecon23emea - When Clouds Stop Raining Discounts: Surviving the Drought - https://www.usenix.org/conference/srecon23emea/presentation/blaze
+1095. srecon23emea - Should an SRE Care About FinOps? Using Observability to Enable Resources Optimization - https://www.usenix.org/conference/srecon23emea/presentation/serra
+1096. srecon23emea - Looking at SRE Needs and Trends over Two Decades with a Single Service - https://www.usenix.org/conference/srecon23emea/presentation/virji
+1097. srecon23emea - How to Make Your Automation a Better Team Player - https://www.usenix.org/conference/srecon23emea/presentation/nolan
+1098. srecon23emea - Dark Matter and Deep State: The Unseen Majority of Everything - https://www.usenix.org/conference/srecon23emea/presentation/waterhouse
+1099. srecon24americas - 20 Years of SRE: Highs and Lows - https://www.usenix.org/conference/srecon24americas/presentation/murphy
+1100. srecon24americas - Scam or Savings? A Cloud vs. On-Prem Economic Slapfight - https://www.usenix.org/conference/srecon24americas/presentation/quinn
+1101. srecon24americas - Is It Already Time To Version Observability? (Signs Point To Yes.) - https://www.usenix.org/conference/srecon24americas/presentation/majors-plenary
+1102. srecon24americas - Capacity Constraints Unveiled: Navigating Cloud Scaling Realities - https://www.usenix.org/conference/srecon24americas/presentation/sonney
+1103. srecon24americas - Sharding: Growing Systems from Node-scale to Planet-scale - https://www.usenix.org/conference/srecon24americas/presentation/mckaig
+1104. srecon24americas - Product Reliability for Google Maps - https://www.usenix.org/conference/srecon24americas/presentation/lerner
+1105. srecon24americas - Using Generative AI Patterns for Better Observability - https://www.usenix.org/conference/srecon24americas/presentation/feminella
+1106. srecon24americas - Build vs. Buy in the Midst of Armageddon - https://www.usenix.org/conference/srecon24americas/presentation/davis
+1107. srecon24americas - Compliance & Regulatory Standards Are NOT Incompatible with Modern Development Best Practices - https://www.usenix.org/conference/srecon24americas/presentation/majors
+1108. srecon24americas - The Ticking Time Bomb of Observability Expectations - https://www.usenix.org/conference/srecon24americas/presentation/caudill
+1109. srecon24americas - Synthesizing Sanity with, and in Spite of, Synthetic Monitoring - https://www.usenix.org/conference/srecon24americas/presentation/odea
+1110. srecon24americas - Migrating a Large Scale Search Dataset in Production in a Highly Available Manner - https://www.usenix.org/conference/srecon24americas/presentation/vayghan
+1111. srecon24americas - OIDC and CICD: Why Your CI Pipeline Is Your Greatest Security Threat - https://www.usenix.org/conference/srecon24americas/presentation/hahn
+1112. srecon24americas - When Your Open Source Turns to the Dark Side - https://www.usenix.org/conference/srecon24americas/presentation/horovits
+1113. srecon24americas - The Sins of High Cardinality - https://www.usenix.org/conference/srecon24americas/presentation/spaleta
+1114. srecon24americas - Optimizing Resilience and Availability by Migrating from JupyterHub to the Kubeflow Notebook Controller - https://www.usenix.org/conference/srecon24americas/presentation/hoover
+1115. srecon24americas - 99.99% of Your Traces Are (Probably) Trash - https://www.usenix.org/conference/srecon24americas/presentation/cruz
+1116. srecon24americas - Meeting the Challenge of Burnout - https://www.usenix.org/conference/srecon24americas/presentation/maslach
+1117. srecon24americas - What We Want Is 90% the Same: Using Your Relationship with Security for Fun and Profit - https://www.usenix.org/conference/srecon24americas/presentation/kissner
+1118. srecon24americas - Thawing the Great Code Slush - https://www.usenix.org/conference/srecon24americas/presentation/lemaire
+1119. srecon24americas - Resilience in Action - https://www.usenix.org/conference/srecon24americas/presentation/gallego
+1120. srecon24americas - "Logs Told Us It Was Kernel – It Wasn't" - https://www.usenix.org/conference/srecon24americas/presentation/sigalov
+1121. srecon24americas - Autopsy of a Cascading Outage from a MySQL Crashing Bug - https://www.usenix.org/conference/srecon24americas/presentation/gagne
+1122. srecon24americas - Navigating the Kubernetes Odyssey: Lessons from Early Adoption and Sustained Modernization - https://www.usenix.org/conference/srecon24americas/presentation/benencia
+1123. srecon24americas - Kube, Where’s My Metrics? The Challenges of Scaling Multi-Cluster Prometheus - https://www.usenix.org/conference/srecon24americas/presentation/smeds
+1124. srecon24americas - What Is Incident Severity, but a Lie Agreed Upon? - https://www.usenix.org/conference/srecon24americas/presentation/ruppe
+1125. srecon24americas - Hard Choices, Tight Timelines: A Closer Look at Skip-level Tradeoff Decisions during Incidents - https://www.usenix.org/conference/srecon24americas/presentation/maguire
+1126. srecon24americas - Workshop: Cloud-Native Observability with OpenTelemetry - https://www.usenix.org/conference/srecon24americas/presentation/fong-jones
+1127. srecon24americas - Kubernetes: The Most Graceful Termination™ - https://www.usenix.org/conference/srecon24americas/presentation/katz
+1128. srecon24americas - How We Went from Being Astronauts to Being Mission Control - https://www.usenix.org/conference/srecon24americas/presentation/nolan-astronaut
+1129. srecon24americas - Triage with Mental Models - https://www.usenix.org/conference/srecon24americas/presentation/bellotti
+1130. srecon24americas - Defence at the Boundary of Acceptable Performance - https://www.usenix.org/conference/srecon24americas/presentation/hatch
+1131. srecon24americas - Workshop: Cloud-Native Observability with OpenTelemetry - https://www.usenix.org/conference/srecon24americas/presentation/fong-jones
+1132. srecon24americas - System Performance and Queuing Theory - Concepts and Application - https://www.usenix.org/conference/srecon24americas/presentation/poole
+1133. srecon24americas - It Is OK to Be Metastable - https://www.usenix.org/conference/srecon24americas/presentation/charapko
+1134. srecon24americas - The Art of SRE: Building People Networks to Amplify Impact - https://www.usenix.org/conference/srecon24americas/presentation/barteneva
+1135. srecon24americas - Teaching SRE - https://www.usenix.org/conference/srecon24americas/presentation/dickerson
+1136. srecon24americas - Cross-System Interaction Failures: Don't Fail through the Cracks - https://www.usenix.org/conference/srecon24americas/presentation/xu
+1137. srecon24americas - Gray Failure: The Achilles’ Heel of Cloud-Scale Systems - https://www.usenix.org/conference/srecon24americas/presentation/li
+1138. srecon24americas - The Invisible Door: Reliability Gaps in the Front End - https://www.usenix.org/conference/srecon24americas/presentation/redelmeier
+1139. srecon24americas - Automating Disaster Recovery: The Ultimate Reliability Challenge - https://www.usenix.org/conference/srecon24americas/presentation/bejarano
+1140. srecon24americas - From Chaos to Clarity: Deciphering Cache Inconsistencies in a Distributed Environment - https://www.usenix.org/conference/srecon24americas/presentation/goel
+1141. srecon24americas - Patching Your Way to Compliance with a Small Team and a Pile of Technical Debt - https://www.usenix.org/conference/srecon24americas/presentation/felisbino
+1142. srecon24americas - Strengthening Apache Pinot's Query Processing Engine with Adaptive Server Selection and Runtime Query Killing - https://www.usenix.org/conference/srecon24americas/presentation/guo
+1143. srecon24americas - Taming the Linux Distribution Sprawl: A Journey to Standardization and Efficiency - https://www.usenix.org/conference/srecon24americas/presentation/shekhar
+1144. srecon24americas - Frontend Design in SRE - https://www.usenix.org/conference/srecon24americas/presentation/bobak
+1145. srecon24americas - Measuring Reliability Culture to Optimize Tradeoffs: Perspectives from an Anthropologist - https://www.usenix.org/conference/srecon24americas/presentation/bouskill
+1146. srecon24americas - Storytelling as an Incident Management Skill - https://www.usenix.org/conference/srecon24americas/presentation/devesine
+1147. srecon24americas - Real Talk: What We Think We Know — That Just Ain’t So - https://www.usenix.org/conference/srecon24americas/presentation/allspaw
+1148. srecon24americas - What Can You See from Here? - https://www.usenix.org/conference/srecon24americas/presentation/reilly
+1149. srecon24emea - Dude, You Forgot the Feedback: How Your Open Loop Control Planes Are Causing Outages - https://www.usenix.org/conference/srecon24emea/presentation/de-vesine
+1150. srecon24emea - You Depend on Time, This Is How It Works and You Won’t Believe It - https://www.usenix.org/conference/srecon24emea/presentation/rowlands
+1151. srecon24emea - SRE Saga: The Song of Heroes and Villains - https://www.usenix.org/conference/srecon24emea/presentation/barteneva
+1152. srecon24emea - The Frontiers of Reliability Engineering - https://www.usenix.org/conference/srecon24emea/presentation/hartmann
+1153. srecon24emea - I Can OIDC You Clearly Now: How We Made Static Credentials a Thing of the Past - https://www.usenix.org/conference/srecon24emea/presentation/lane
+1154. srecon24emea - OMG WTF SSO: A Beginner’s Guide to Single Sign-On (Mis)configuration - https://www.usenix.org/conference/srecon24emea/presentation/bogert-obrien
+1155. srecon24emea - Workshop: Loadshedding and Isolation Using Envoy Proxy - https://www.usenix.org/conference/srecon24emea/presentation/nolan
+1156. srecon24emea - Managing Cost - https://www.usenix.org/conference/srecon24emea/presentation/discussion-managing-cost
+1157. srecon24emea - Sailing the Database Seas: Applying SRE Principles at Scale - https://www.usenix.org/conference/srecon24emea/presentation/androulidakis
+1158. srecon24emea - Survivor: MySQL Island – Outwit, Outplay, Outlast Metadata Locking Challenges - https://www.usenix.org/conference/srecon24emea/presentation/jablonska
+1159. srecon24emea - Fixing Your Noisy Pager in 500 Easy Steps - https://www.usenix.org/conference/srecon24emea/presentation/sinjakli
+1160. srecon24emea - Achieving Excellence: SLO Thresholds That Transform Service Quality - https://www.usenix.org/conference/srecon24emea/presentation/ortiz
+1161. srecon24emea - Selective Reliability Engineering: There Is No Single Source of Truth - https://www.usenix.org/conference/srecon24emea/presentation/burke
+1162. srecon24emea - Why You’re (Probably) Doing Service Catalogs Wrong - https://www.usenix.org/conference/srecon24emea/presentation/curtis
+1163. srecon24emea - Workshop: Loadshedding and Isolation Using Envoy Proxy - https://www.usenix.org/conference/srecon24emea/presentation/nolan
+1164. srecon24emea - eBPF - https://www.usenix.org/conference/srecon24emea/presentation/discussion-ebpf
+1165. srecon24emea - Exploring the Unintended Consequences of Automation in Software - https://www.usenix.org/conference/srecon24emea/presentation/nash
+1166. srecon24emea - Rock around the Clock (Synchronization): Improve Performance with High Precision Time! - https://www.usenix.org/conference/srecon24emea/presentation/ekmekcioglu
+1167. srecon24emea - Mnemonic Rules for Eponymous Laws or: There’s a Law for That! - https://www.usenix.org/conference/srecon24emea/presentation/burkholder
+1168. srecon24emea - SRE Stakeholders: A Spotter’s Guide - https://www.usenix.org/conference/srecon24emea/presentation/oconnor
+1169. srecon24emea - Panel Discussion: Is Reliability a Luxury Good? - https://www.usenix.org/conference/srecon24emea/presentation/stolarsky
+1170. srecon24emea - Enhancing Elasticsearch Performance: Innovative Reindexing Strategies Using Dedicated Nodes and KEDA Autoscalers - https://www.usenix.org/conference/srecon24emea/presentation/vayghan
+1171. srecon24emea - Service Level Objectives - https://www.usenix.org/conference/srecon24emea/presentation/discussion-slos
+1172. srecon24emea - Lessons from Unix History - https://www.usenix.org/conference/srecon24emea/presentation/spinellis
+1173. srecon24emea - Treat Your Code as a Crime Scene - https://www.usenix.org/conference/srecon24emea/presentation/tornhill
+1174. srecon24emea - Finding the Capacity to Grieve Once More - https://www.usenix.org/conference/srecon24emea/presentation/kosiaris
+1175. srecon24emea - Incident Groundhog Day - https://www.usenix.org/conference/srecon24emea/presentation/silatani
+1176. srecon24emea - Anomaly Detection in Time Series from Scratch Using Statistical Analysis - https://www.usenix.org/conference/srecon24emea/presentation/shubin
+1177. srecon24emea - Generative AI: Beyond (Just) Hype - https://www.usenix.org/conference/srecon24emea/presentation/underwood
+1178. srecon24emea - From PIDs to Pods: The Life Cycle of an eBPF-Autoinstrumented Application - https://www.usenix.org/conference/srecon24emea/presentation/tudur%C3%AD
+1179. srecon24emea - Scheduling at Scale: eBPF Schedulers with Sched_ext - https://www.usenix.org/conference/srecon24emea/presentation/hodges
+1180. srecon24emea - SRE in Small Orgs - https://www.usenix.org/conference/srecon24emea/presentation/discussion-sre-in-small-orgs
+1181. srecon24emea - When Your SaaS Provider Goes out of Business – Lessons from an Averted Crisis - https://www.usenix.org/conference/srecon24emea/presentation/seebacher
+1182. srecon24emea - Configuration Languages Are the Bane of Our Existence - https://www.usenix.org/conference/srecon24emea/presentation/komkoff
+1183. srecon24emea - Just Buy the Printer: Resilience in Action - https://www.usenix.org/conference/srecon24emea/presentation/young
+1184. srecon24emea - Noisy Neighbors, through Networking - https://www.usenix.org/conference/srecon24emea/presentation/treffer
+1185. srecon24emea - Taming Noisy Benchmark Results Using Change Point Detection - https://www.usenix.org/conference/srecon24emea/presentation/fleming
+1186. srecon24emea - Enabling Product Scalability through Load Testing - https://www.usenix.org/conference/srecon24emea/presentation/baluna
+1187. srecon24emea - NVMe/TCP Makes iSCSI Look like Fortran - https://www.usenix.org/conference/srecon24emea/presentation/engelbert
+1188. srecon24emea - The Silent Performance Killers: BIOS and Firmware Updates - https://www.usenix.org/conference/srecon24emea/presentation/langone
+1189. srecon24emea - How a Single API Endpoint Saved Us 3000 CPU - https://www.usenix.org/conference/srecon24emea/presentation/hels
+1190. srecon24emea - Monitoring and Alerting - https://www.usenix.org/conference/srecon24emea/presentation/discussion-monitoring-alerting
+1191. srecon24emea - Managing the Risk of Software Supply Chain Attacks - https://www.usenix.org/conference/srecon24emea/presentation/hahn
+1192. srecon24emea - When SRE and Security Teams Meet to Face a Crisis - https://www.usenix.org/conference/srecon24emea/presentation/aquino
+1193. srecon24emea - How to Host a (Very) Popular Website for 30 Altairian Dollars a Day - https://www.usenix.org/conference/srecon24emea/presentation/beal
+1194. srecon24emea - How Snowflake Migrated All Alerts and Dashboards to a Prometheus-Based Metrics System in 3 Months - https://www.usenix.org/conference/srecon24emea/presentation/mendizabal
+1195. srecon24emea - What If We Ask Linux to Do Cryptography for Us? - https://www.usenix.org/conference/srecon24emea/presentation/kharitonova
+1196. srecon24emea - Synthetic Monitoring and E2E Testing: 2 Sides of the Same Coin - https://www.usenix.org/conference/srecon24emea/presentation/richmond
+1197. srecon24emea - Scaling Databases - https://www.usenix.org/conference/srecon24emea/presentation/discussion-scaling-databases
+1198. srecon24emea - Monitoring Systems as a Service – Walking the Line between Giving Your Devs Good M&O and Setting All Your Money on Fire - https://www.usenix.org/conference/srecon24emea/presentation/ocallaghan
+1199. srecon24emea - An Exploration in Storing Telemetry in Cloud Object Storage - https://www.usenix.org/conference/srecon24emea/presentation/heffner
+1200. srecon24emea - Opening the Box: Diagnosing Operating-System Task-Scheduler Behavior on Highly Multicore Machines - https://www.usenix.org/conference/srecon24emea/presentation/lawall
+1201. srecon24emea - Granular CPU Capacity Management at Scale with eBPF - https://www.usenix.org/conference/srecon24emea/presentation/brighton
+1202. srecon24emea - Workshop: Guided Journey into the Heart of Systemd - https://www.usenix.org/conference/srecon24emea/presentation/geisse
+1203. srecon24emea - Wrangling your Management Chain - https://www.usenix.org/conference/srecon24emea/presentation/discussion-wrangling-management
+1204. srecon24emea - Embrace Fleet Reboots and Make Them Boring - https://www.usenix.org/conference/srecon24emea/presentation/foscarini
+1205. srecon24emea - A Brief History of Release Engineering - https://www.usenix.org/conference/srecon24emea/presentation/mcnutt
+1206. srecon24emea - Red Tide Revert - https://www.usenix.org/conference/srecon24emea/presentation/newman
+1207. srecon24emea - Riot Games: Evolution of Observability at the Gaming Company - https://www.usenix.org/conference/srecon24emea/presentation/moreira
+1208. srecon24emea - A Powerful Logs Management Solution We All Have and Use but We Underestimate: systemd-journal - https://www.usenix.org/conference/srecon24emea/presentation/tsaousis
+1209. srecon24emea - Blast Radius Reduction for Large-Scale Distributed Systems - https://www.usenix.org/conference/srecon24emea/presentation/tang
+1210. srecon24emea - Workshop: Guided Journey into the Heart of Systemd - https://www.usenix.org/conference/srecon24emea/presentation/geisse
+1211. srecon24emea - Building New SRE Teams - https://www.usenix.org/conference/srecon24emea/presentation/discussion-building-new-sre-teams
+1212. srecon24emea - AppStack: An Open Source Cloud Native Platform for Running Digital Public Services - https://www.usenix.org/conference/srecon24emea/presentation/mitropoulos
+1213. srecon24emea - Science Reliability Engineering for High Performance Computing - https://www.usenix.org/conference/srecon24emea/presentation/jones
+1214. srecon24emea - Get Your Non-SREs Oncall Ready! - https://www.usenix.org/conference/srecon24emea/presentation/van-winkel
+1215. srecon24emea - Transforming Production Readiness - https://www.usenix.org/conference/srecon24emea/presentation/moustafellos
+1216. srecon24emea - Learning from Incidents - https://www.usenix.org/conference/srecon24emea/presentation/discussion-learning-from-incidents
+1217. srecon24emea - System Performance and Scaling - https://www.usenix.org/conference/srecon24emea/presentation/discussion-system-performance-scaling
+1218. srecon24emea - Energy Consumption of Datacenters - https://www.usenix.org/conference/srecon24emea/presentation/fricke
+1219. srecon24emea - Are We Really Engineers? - https://www.usenix.org/conference/srecon24emea/presentation/wayne
+1220. srecon25americas - Safe Evaluation and Rollout of AI Models - https://www.usenix.org/conference/srecon25americas/presentation/burns
+1221. srecon25americas - Improving the SRE Experience for 10 Years as a Free, Open, and Automated Certificate Authority - https://www.usenix.org/conference/srecon25americas/presentation/mcpherrin
+1222. srecon25americas - An SRE Approach to Monitoring ML in Production - https://www.usenix.org/conference/srecon25americas/presentation/barteneva
+1223. srecon25americas - Transformers in SRE Land: Evolving to Manage AI Infrastructure - https://www.usenix.org/conference/srecon25americas/presentation/ding
+1224. srecon25americas - Tackling Slow Queries: A Practical Approach to Prevention and Correction - https://www.usenix.org/conference/srecon25americas/presentation/famili
+1225. srecon25americas - The Search for Speed - https://www.usenix.org/conference/srecon25americas/presentation/laird
+1226. srecon25americas - Running ML in Production - https://www.usenix.org/conference/srecon25americas/presentation/discussion-ml-production
+1227. srecon25americas - Case Study: A Thundering Herd in the Wild - https://www.usenix.org/conference/srecon25americas/presentation/arroyo
+1228. srecon25americas - Techniques Netflix Uses to Weather Significant Demand Shifts - https://www.usenix.org/conference/srecon25americas/presentation/lynch
+1229. srecon25americas - Live, Laugh, Log - https://www.usenix.org/conference/srecon25americas/presentation/cruz
+1230. srecon25americas - Distributed Tracing in Action: Our Journey with OpenTelemetry - https://www.usenix.org/conference/srecon25americas/presentation/detsicas
+1231. srecon25americas - A Guided Introduction to SRE - https://www.usenix.org/conference/srecon25americas/presentation/discussion-intro-sre
+1232. srecon25americas - Using Statistical Techniques to Automatically Detect Game-Breaking Issues - https://www.usenix.org/conference/srecon25americas/presentation/neidel
+1233. srecon25americas - Mapping a Better Future with STPA - https://www.usenix.org/conference/srecon25americas/presentation/klein
+1234. srecon25americas - Is the S in SRE for “Security”? - https://www.usenix.org/conference/srecon25americas/presentation/benninghoff
+1235. srecon25americas - Lies Programmers Believe about Memory - https://www.usenix.org/conference/srecon25americas/presentation/down
+1236. srecon25americas - “On-Call Is Ruining My Life” and Other Tales about Holding the Pager as an SRE - https://www.usenix.org/conference/srecon25americas/presentation/watson
+1237. srecon25americas - AMA with David Woods - https://www.usenix.org/conference/srecon25americas/presentation/discussion-ama-woods
+1238. srecon25americas - SRE & Complexification: Where Verbs and Nouns Do Battle - https://www.usenix.org/conference/srecon25americas/presentation/woods
+1239. srecon25americas - The Perverse Incentives of Reliability - https://www.usenix.org/conference/srecon25americas/presentation/wilde
+1240. srecon25americas - Maturing Your Data Architecture in a Week: How Bluesky Survived - https://www.usenix.org/conference/srecon25americas/presentation/volpert
+1241. srecon25americas - Inclusive SRE: Best Practices for Working with a Visually Impaired Incident Analyst or Responder - https://www.usenix.org/conference/srecon25americas/presentation/horwitz
+1242. srecon25americas - Learning from Incidents at Scale; Actually Doing Cross-Incident Analysis - https://www.usenix.org/conference/srecon25americas/presentation/granda
+1243. srecon25americas - Running DRP Tabletop Exercises - https://www.usenix.org/conference/srecon25americas/presentation/simon
+1244. srecon25americas - What Do SRE ICs Do? How to Build SRE Skillsets - https://www.usenix.org/conference/srecon25americas/presentation/discussion-sre-ics
+1245. srecon25americas - Optimizing Machine Learning Training Infrastructure: A Governance Approach - https://www.usenix.org/conference/srecon25americas/presentation/sullerey
+1246. srecon25americas - Beyond Sequential: A Recipe for Async Pipeline Observability and Alerting - https://www.usenix.org/conference/srecon25americas/presentation/mistry
+1247. srecon25americas - Handling the Largest Domains Migration, Ever! - https://www.usenix.org/conference/srecon25americas/presentation/angulo
+1248. srecon25americas - Taming the Beast: Understanding and Harnessing the Power of HTTP Proxies - https://www.usenix.org/conference/srecon25americas/presentation/quintard
+1249. srecon25americas - SRE Team Practices - https://www.usenix.org/conference/srecon25americas/presentation/discussion-sre-team-practices
+1250. srecon25americas - Chaos Experiments - Datacenter Stress Testing - https://www.usenix.org/conference/srecon25americas/presentation/krueger
+1251. srecon25americas - Measuring Availability the Player Focused Way: How Riot Games Changed Its Availability Culture - https://www.usenix.org/conference/srecon25americas/presentation/stewart
+1252. srecon25americas - Please Give Me Back My Network Cables! On Networking Limits in AWS - https://www.usenix.org/conference/srecon25americas/presentation/gebert
+1253. srecon25americas - OpenTelemetry Semantic Conventions and How to Avoid Broken Observability - https://www.usenix.org/conference/srecon25americas/presentation/gurumurthy
+1254. srecon25americas - Service Level Objectives - https://www.usenix.org/conference/srecon25americas/presentation/discussion-slos
+1255. srecon25americas - Stopping Performance Regression via Changepoint Detection - https://www.usenix.org/conference/srecon25americas/presentation/cirella
+1256. srecon25americas - Per Aspera ad Productum: Turning Processes into Products - https://www.usenix.org/conference/srecon25americas/presentation/bernstein
+1257. srecon25americas - Incident Management Metrics That Matter - https://www.usenix.org/conference/srecon25americas/presentation/de-vesine
+1258. srecon25americas - Fully Automated HW SKU Selection System to Optimize Apache Pinot’s Cost-to-Serve at LinkedIn - https://www.usenix.org/conference/srecon25americas/presentation/guo
+1259. srecon25americas - Production Engineering When Trading Billions of Dollars a Day - https://www.usenix.org/conference/srecon25americas/presentation/flemming
+1260. srecon25americas - Tech Debt - https://www.usenix.org/conference/srecon25americas/presentation/discussion-tech-debt
+1261. srecon25americas - Systems Thinking with Poisoned Systems - https://www.usenix.org/conference/srecon25americas/presentation/weakly
+1262. srecon25americas - No Time to Do It All! Approaching Overload on DevOps Teams - https://www.usenix.org/conference/srecon25americas/presentation/wise
+1263. srecon25americas - Securing Distributed Cache: Achieving Secure-by-Default with Key Challenges & Insights - https://www.usenix.org/conference/srecon25americas/presentation/goel
+1264. srecon25americas - Cattle vs. Pets - A Cost-Effective Elasticsearch Architecture to Scale-Out Beyond Petabytes - https://www.usenix.org/conference/srecon25americas/presentation/santos
+1265. srecon25americas - Observability - https://www.usenix.org/conference/srecon25americas/presentation/discussion-observability
+1266. srecon25americas - One Million Builds per Year, Only One Page - Operating Internal Services Without Heroics - https://www.usenix.org/conference/srecon25americas/presentation/young
+1267. srecon25americas - Going Multi Cloud in a Hurry with Quality and Style - https://www.usenix.org/conference/srecon25americas/presentation/oakham
+1268. srecon25americas - Mitigating Against Large Scale Systemic Failures in E-Trading - https://www.usenix.org/conference/srecon25americas/presentation/hawley
+1269. srecon25americas - Hijacking Service Discovery to Simulate Dependency Degradation - https://www.usenix.org/conference/srecon25americas/presentation/alhamali
+1270. srecon25americas - Network Flow Data in the Cloud - https://www.usenix.org/conference/srecon25americas/presentation/dodd
+1271. srecon25americas - OLTP SQL Database Query Tracing and Linting - https://www.usenix.org/conference/srecon25americas/presentation/jiang
+1272. srecon25americas - “How’s the App Doing?” Bringing Mobile Into Your Reliability Picture - https://www.usenix.org/conference/srecon25americas/presentation/ho
+1273. srecon25americas - From HAR to OpenTelemetry Trace: Redefining Browser Observability - https://www.usenix.org/conference/srecon25americas/presentation/jimenez
+1274. srecon25americas - Open Unconference on SRE - https://www.usenix.org/conference/srecon25americas/presentation/discussion-open-unconference
+1275. srecon25americas - Technical Debt as Theory Building and Practice - https://www.usenix.org/conference/srecon25americas/presentation/lam
+1276. srecon25americas - AIOps: Prove It! An Open Letter to Vendors Selling AI for SREs - https://www.usenix.org/conference/srecon25americas/presentation/majors
